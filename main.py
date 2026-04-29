@@ -22,7 +22,7 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-keywords = ["Generative Recommendation", "Generative Retrieval"] # TODO add more keywords
+keywords = ["Generative Recommendation", "Generative Retrieval"]
 
 max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue
