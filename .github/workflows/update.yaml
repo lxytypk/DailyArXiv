@@ -1,11 +1,13 @@
 name: Update
 
 on:
+
   label:
     types:
       - created # for test
   schedule:
       - cron: '30 16 * * 0-4' # 00:30 Beijing time every Monday to Friday
+  workflow_dispatch:      # 必须添加这一行，才能出现手动按钮
 
 permissions:
   contents: write
