@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 30, 2026
+title: Latest 15 Papers - May 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CARD: Non-Uniform Quantization of Visual Semantic Unit for Generative Recommendation](https://arxiv.org/abs/2604.26427v1)** | 2026-04-29 |  |
+| **[ProMax: Exploring the Potential of LLM-derived Profiles with Distribution Shaping for Recommender Systems](https://arxiv.org/abs/2604.26231v1)** | 2026-04-29 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, accepted by SIGIR 2026</p></details> |
 | **[Harmonizing Generative Retrieval and Ranking in Chain-of-Recommendation](https://arxiv.org/abs/2604.25787v1)** | 2026-04-28 | Work in progress |
 | **[Recommending Usability Improvements with Multimodal Large Language Models](https://arxiv.org/abs/2604.25420v1)** | 2026-04-28 | <details><summary>Accep...</summary><p>Accepted for publication at the ACM International Conference on the Foundations of Software Engineering (FSE 2026)</p></details> |
 | **[Learning to Rotate: Temporal and Semantic Rotary Encoding for Sequential Modeling](https://arxiv.org/abs/2604.24717v1)** | 2026-04-27 | 8 pages, 3 figures |
@@ -20,12 +22,11 @@ labels: documentation
 | **[From Past To Path: Masked History Learning for Next-Item Prediction in Generative Recommendation](https://arxiv.org/abs/2509.23649v2)** | 2026-04-23 | Accepted to ACL 2026 |
 | **[UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute](https://arxiv.org/abs/2604.12234v3)** | 2026-04-22 |  |
 | **[Reasoning Over Space: Enabling Geographic Reasoning for LLM-Based Generative Next POI Recommendation](https://arxiv.org/abs/2601.04562v2)** | 2026-04-21 |  |
-| **[Integrating Graphs, Large Language Models, and Agents: Reasoning and Retrieval](https://arxiv.org/abs/2604.15951v2)** | 2026-04-20 |  |
-| **[SIGMA: A Semantic-Grounded Instruction-Driven Generative Multi-Task Recommender at AliExpress](https://arxiv.org/abs/2602.22913v2)** | 2026-04-19 | <details><summary>Accep...</summary><p>Accepted by SIGIR 2026 Industry Track. 5 pages, 3 figures</p></details> |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CacheRAG: A Semantic Caching System for Retrieval-Augmented Generation in Knowledge Graph Question Answering](https://arxiv.org/abs/2604.26176v1)** | 2026-04-28 |  |
 | **[Harmonizing Generative Retrieval and Ranking in Chain-of-Recommendation](https://arxiv.org/abs/2604.25787v1)** | 2026-04-28 | Work in progress |
 | **[Towards Efficient and Generalizable Retrieval: Adaptive Semantic Quantization and Residual Knowledge Transfer](https://arxiv.org/abs/2602.23978v2)** | 2026-04-28 |  |
 | **[RAD-DPO: Robust Adaptive Denoising Direct Preference Optimization for Generative Retrieval in E-commerce](https://arxiv.org/abs/2602.23964v2)** | 2026-04-28 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[BioHiCL: Hierarchical Multi-Label Contrastive Learning for Biomedical Retrieval with MeSH Labels](https://arxiv.org/abs/2604.15591v1)** | 2026-04-17 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Main Conference</p></details> |
 | **[GenRec: A Preference-Oriented Generative Framework for Large-Scale Recommendation](https://arxiv.org/abs/2604.14878v1)** | 2026-04-16 | <details><summary>SIGIR...</summary><p>SIGIR 2026 Camera-Ready version</p></details> |
 | **[Mitigating Collaborative Semantic ID Staleness in Generative Retrieval](https://arxiv.org/abs/2604.13273v1)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026. This version corresponds to the accepted manuscript</p></details> |
-| **[Why These Documents? Explainable Generative Retrieval with Hierarchical Category Paths](https://arxiv.org/abs/2411.05572v3)** | 2026-04-12 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 findings</p></details> |
 
