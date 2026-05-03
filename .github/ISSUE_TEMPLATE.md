@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 01, 2026
+title: Latest 15 Papers - May 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the uncertainty from the first-stage estimation of prognostic covariate adjustment in randomized controlled trials](https://arxiv.org/abs/2604.01911v2)** | 2026-04-30 |  |
+| **[Position-Aware Drafting for Inference Acceleration in LLM-Based Generative List-Wise Recommendation](https://arxiv.org/abs/2604.27747v1)** | 2026-04-30 |  |
+| **[UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute](https://arxiv.org/abs/2604.12234v4)** | 2026-04-30 |  |
 | **[CARD: Non-Uniform Quantization of Visual Semantic Unit for Generative Recommendation](https://arxiv.org/abs/2604.26427v1)** | 2026-04-29 |  |
 | **[ProMax: Exploring the Potential of LLM-derived Profiles with Distribution Shaping for Recommender Systems](https://arxiv.org/abs/2604.26231v1)** | 2026-04-29 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, accepted by SIGIR 2026</p></details> |
 | **[Harmonizing Generative Retrieval and Ranking in Chain-of-Recommendation](https://arxiv.org/abs/2604.25787v1)** | 2026-04-28 | Work in progress |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Birds of a Feather Cluster Nearby: a Proximity-Aware Geo-Codebook for Local Service Recommendation](https://arxiv.org/abs/2604.23156v1)** | 2026-04-25 |  |
 | **[MTServe: Efficient Serving for Generative Recommendation Models with Hierarchical Caches](https://arxiv.org/abs/2604.22881v1)** | 2026-04-24 |  |
 | **[ReCast: Recasting Learning Signals for Reinforcement Learning in Generative Recommendation](https://arxiv.org/abs/2604.22169v1)** | 2026-04-24 |  |
-| **[From Past To Path: Masked History Learning for Next-Item Prediction in Generative Recommendation](https://arxiv.org/abs/2509.23649v2)** | 2026-04-23 | Accepted to ACL 2026 |
-| **[UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute](https://arxiv.org/abs/2604.12234v3)** | 2026-04-22 |  |
-| **[Reasoning Over Space: Enabling Geographic Reasoning for LLM-Based Generative Next POI Recommendation](https://arxiv.org/abs/2601.04562v2)** | 2026-04-21 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
