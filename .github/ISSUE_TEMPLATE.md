@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 04, 2026
+title: Latest 15 Papers - May 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Decomposed Contextual Token Representations from Pretrained and Collaborative Signals for Generative Recommendation](https://arxiv.org/abs/2509.10468v2)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted to SIGIR 2026. Full author version</p></details> |
+| **[GenRecEdit: Adapting Model Editing for Generative Recommendation with Cold-Start Items](https://arxiv.org/abs/2603.14259v2)** | 2026-05-01 |  |
 | **[On the uncertainty from the first-stage estimation of prognostic covariate adjustment in randomized controlled trials](https://arxiv.org/abs/2604.01911v2)** | 2026-04-30 |  |
 | **[Position-Aware Drafting for Inference Acceleration in LLM-Based Generative List-Wise Recommendation](https://arxiv.org/abs/2604.27747v1)** | 2026-04-30 |  |
 | **[UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute](https://arxiv.org/abs/2604.12234v4)** | 2026-04-30 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[MVIGER: Multi-View Variational Integration of Complementary Knowledge for Generative Recommender](https://arxiv.org/abs/2408.08686v4)** | 2026-04-26 |  |
 | **[Beyond Static Collision Handling: Adaptive Semantic ID Learning for Multimodal Recommendation at Industrial Scale](https://arxiv.org/abs/2604.23522v1)** | 2026-04-26 |  |
 | **[Birds of a Feather Cluster Nearby: a Proximity-Aware Geo-Codebook for Local Service Recommendation](https://arxiv.org/abs/2604.23156v1)** | 2026-04-25 |  |
-| **[MTServe: Efficient Serving for Generative Recommendation Models with Hierarchical Caches](https://arxiv.org/abs/2604.22881v1)** | 2026-04-24 |  |
-| **[ReCast: Recasting Learning Signals for Reinforcement Learning in Generative Recommendation](https://arxiv.org/abs/2604.22169v1)** | 2026-04-24 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Feedback-Normalized Developer Memory for Reinforcement-Learning Coding Agents: A Safety-Gated MCP Architecture](https://arxiv.org/abs/2605.01567v1)** | 2026-05-02 | <details><summary>25 pa...</summary><p>25 pages, 5 figures, 7 tables. Preprint. Implementation and supplementary artifacts are available at the project repository</p></details> |
 | **[CacheRAG: A Semantic Caching System for Retrieval-Augmented Generation in Knowledge Graph Question Answering](https://arxiv.org/abs/2604.26176v1)** | 2026-04-28 |  |
 | **[Harmonizing Generative Retrieval and Ranking in Chain-of-Recommendation](https://arxiv.org/abs/2604.25787v1)** | 2026-04-28 | Work in progress |
 | **[Towards Efficient and Generalizable Retrieval: Adaptive Semantic Quantization and Residual Knowledge Transfer](https://arxiv.org/abs/2602.23978v2)** | 2026-04-28 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards](https://arxiv.org/abs/2604.14967v2)** | 2026-04-17 | 17 pages, 11 figures |
 | **[BioHiCL: Hierarchical Multi-Label Contrastive Learning for Biomedical Retrieval with MeSH Labels](https://arxiv.org/abs/2604.15591v1)** | 2026-04-17 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Main Conference</p></details> |
 | **[GenRec: A Preference-Oriented Generative Framework for Large-Scale Recommendation](https://arxiv.org/abs/2604.14878v1)** | 2026-04-16 | <details><summary>SIGIR...</summary><p>SIGIR 2026 Camera-Ready version</p></details> |
-| **[Mitigating Collaborative Semantic ID Staleness in Generative Retrieval](https://arxiv.org/abs/2604.13273v1)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted at SIGIR 2026. This version corresponds to the accepted manuscript</p></details> |
 
