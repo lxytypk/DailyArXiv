@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 06, 2026
+title: Latest 15 Papers - May 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Expressiveness Limits of Autoregressive Semantic ID Generation in Generative Recommendation](https://arxiv.org/abs/2605.06331v1)** | 2026-05-07 |  |
+| **[Unified Value Alignment for Generative Recommendation in Industrial Advertising](https://arxiv.org/abs/2605.05803v1)** | 2026-05-07 | 10 pages, 4 figures |
+| **[CapsID: Soft-Routed Variable-Length Semantic IDs for Generative Recommendation](https://arxiv.org/abs/2605.05096v1)** | 2026-05-06 |  |
+| **[R3-VAE: Reference Vector-Guided Rating Residual Quantization VAE for Generative Recommendation](https://arxiv.org/abs/2604.11440v3)** | 2026-05-06 | Tech Report |
+| **[One Pool, Two Caches: Adaptive HBM Partitioning for Accelerating Generative Recommender Serving](https://arxiv.org/abs/2605.04450v1)** | 2026-05-06 |  |
+| **[TriAlignGR: Triangular Multitask Alignment with Multimodal Deep Interest Mining for Generative Recommendation](https://arxiv.org/abs/2605.05249v1)** | 2026-05-05 |  |
+| **[Deep Interest Mining with Cross-Modal Alignment for SemanticID Generation in Generative Recommendation](https://arxiv.org/abs/2604.20861v2)** | 2026-05-05 |  |
 | **[Learning Decomposed Contextual Token Representations from Pretrained and Collaborative Signals for Generative Recommendation](https://arxiv.org/abs/2509.10468v2)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted to SIGIR 2026. Full author version</p></details> |
 | **[GenRecEdit: Adapting Model Editing for Generative Recommendation with Cold-Start Items](https://arxiv.org/abs/2603.14259v2)** | 2026-05-01 |  |
 | **[On the uncertainty from the first-stage estimation of prognostic covariate adjustment in randomized controlled trials](https://arxiv.org/abs/2604.01911v2)** | 2026-04-30 |  |
@@ -15,13 +22,6 @@ labels: documentation
 | **[CARD: Non-Uniform Quantization of Visual Semantic Unit for Generative Recommendation](https://arxiv.org/abs/2604.26427v1)** | 2026-04-29 |  |
 | **[ProMax: Exploring the Potential of LLM-derived Profiles with Distribution Shaping for Recommender Systems](https://arxiv.org/abs/2604.26231v1)** | 2026-04-29 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, accepted by SIGIR 2026</p></details> |
 | **[Harmonizing Generative Retrieval and Ranking in Chain-of-Recommendation](https://arxiv.org/abs/2604.25787v1)** | 2026-04-28 | Work in progress |
-| **[Recommending Usability Improvements with Multimodal Large Language Models](https://arxiv.org/abs/2604.25420v1)** | 2026-04-28 | <details><summary>Accep...</summary><p>Accepted for publication at the ACM International Conference on the Foundations of Software Engineering (FSE 2026)</p></details> |
-| **[Learning to Rotate: Temporal and Semantic Rotary Encoding for Sequential Modeling](https://arxiv.org/abs/2604.24717v1)** | 2026-04-27 | 8 pages, 3 figures |
-| **[Modeling Behavioral Intensity and Transitions for Generative Recommendation](https://arxiv.org/abs/2604.24472v1)** | 2026-04-27 |  |
-| **[LLM-Augmented Traffic Signal Control with LSTM-Based Traffic State Prediction and Safety-Constrained Decision Support](https://arxiv.org/abs/2604.23902v1)** | 2026-04-26 |  |
-| **[MVIGER: Multi-View Variational Integration of Complementary Knowledge for Generative Recommender](https://arxiv.org/abs/2408.08686v4)** | 2026-04-26 |  |
-| **[Beyond Static Collision Handling: Adaptive Semantic ID Learning for Multimodal Recommendation at Industrial Scale](https://arxiv.org/abs/2604.23522v1)** | 2026-04-26 |  |
-| **[Birds of a Feather Cluster Nearby: a Proximity-Aware Geo-Codebook for Local Service Recommendation](https://arxiv.org/abs/2604.23156v1)** | 2026-04-25 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
