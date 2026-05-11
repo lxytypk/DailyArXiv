@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 11, 2026
+title: Latest 15 Papers - May 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RcLLM: Accelerating Generative Recommendation via Beyond-Prefix KV Caching](https://arxiv.org/abs/2605.07443v1)** | 2026-05-08 | <details><summary>Accep...</summary><p>Accepted by ICDCS 2026</p></details> |
+| **[RRCM: Ranking-Driven Retrieval over Collaborative and Meta Memories for LLM Recommendation](https://arxiv.org/abs/2605.07129v1)** | 2026-05-08 |  |
+| **[An Embarrassingly Simple Graph Heuristic Reveals Shortcut-Solvable Benchmarks for Sequential Recommendation](https://arxiv.org/abs/2605.07125v1)** | 2026-05-08 |  |
 | **[Expressiveness Limits of Autoregressive Semantic ID Generation in Generative Recommendation](https://arxiv.org/abs/2605.06331v1)** | 2026-05-07 |  |
 | **[Unified Value Alignment for Generative Recommendation in Industrial Advertising](https://arxiv.org/abs/2605.05803v1)** | 2026-05-07 | 10 pages, 4 figures |
 | **[CapsID: Soft-Routed Variable-Length Semantic IDs for Generative Recommendation](https://arxiv.org/abs/2605.05096v1)** | 2026-05-06 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[On the uncertainty from the first-stage estimation of prognostic covariate adjustment in randomized controlled trials](https://arxiv.org/abs/2604.01911v2)** | 2026-04-30 |  |
 | **[Position-Aware Drafting for Inference Acceleration in LLM-Based Generative List-Wise Recommendation](https://arxiv.org/abs/2604.27747v1)** | 2026-04-30 |  |
 | **[UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute](https://arxiv.org/abs/2604.12234v4)** | 2026-04-30 |  |
-| **[CARD: Non-Uniform Quantization of Visual Semantic Unit for Generative Recommendation](https://arxiv.org/abs/2604.26427v1)** | 2026-04-29 |  |
-| **[ProMax: Exploring the Potential of LLM-derived Profiles with Distribution Shaping for Recommender Systems](https://arxiv.org/abs/2604.26231v1)** | 2026-04-29 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, accepted by SIGIR 2026</p></details> |
-| **[Harmonizing Generative Retrieval and Ranking in Chain-of-Recommendation](https://arxiv.org/abs/2604.25787v1)** | 2026-04-28 | Work in progress |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
