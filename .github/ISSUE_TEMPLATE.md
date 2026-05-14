@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 14, 2026
+title: Latest 15 Papers - May 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TurboGR: An Accelerated Training System for Large-Scale Generative Recommendation](https://arxiv.org/abs/2605.13433v1)** | 2026-05-13 | 18 pages |
+| **[MLPs are Efficient Distilled Generative Recommenders](https://arxiv.org/abs/2605.12617v1)** | 2026-05-12 |  |
 | **[TwiSTAR:Think Fast, Think Slow, Then Act,Generative Recommendation with Adaptive Reasoning](https://arxiv.org/abs/2605.11553v1)** | 2026-05-12 | 16pages,3 figures |
 | **[Conditional Memory Enhanced Item Representation for Generative Recommendation](https://arxiv.org/abs/2605.11447v1)** | 2026-05-12 |  |
 | **[LASAR: Latent Adaptive Semantic Aligned Reasoning for Generative Recommendation](https://arxiv.org/abs/2605.10207v1)** | 2026-05-11 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[R3-VAE: Reference Vector-Guided Rating Residual Quantization VAE for Generative Recommendation](https://arxiv.org/abs/2604.11440v3)** | 2026-05-06 | Tech Report |
 | **[One Pool, Two Caches: Adaptive HBM Partitioning for Accelerating Generative Recommender Serving](https://arxiv.org/abs/2605.04450v1)** | 2026-05-06 |  |
 | **[TriAlignGR: Triangular Multitask Alignment with Multimodal Deep Interest Mining for Generative Recommendation](https://arxiv.org/abs/2605.05249v1)** | 2026-05-05 |  |
-| **[Deep Interest Mining with Cross-Modal Alignment for SemanticID Generation in Generative Recommendation](https://arxiv.org/abs/2604.20861v2)** | 2026-05-05 |  |
-| **[Learning Decomposed Contextual Token Representations from Pretrained and Collaborative Signals for Generative Recommendation](https://arxiv.org/abs/2509.10468v2)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted to SIGIR 2026. Full author version</p></details> |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
