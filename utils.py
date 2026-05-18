@@ -5,7 +5,9 @@ import shutil
 import datetime
 from typing import List, Dict
 import urllib, urllib.request
-
+import random
+import urllib.request
+import urllib.error
 import feedparser
 from easydict import EasyDict
 
@@ -57,15 +59,20 @@ def filter_tags(papers: List[Dict[str, str]], target_fileds: List[str]=["cs", "s
                 break
     return results
 
-def get_daily_papers_by_keyword_with_retries(keyword: str, column_names: List[str], max_result: int, link: str = "OR", retries: int = 6) -> List[Dict[str, str]]:
-    for _ in range(retries):
-        papers = get_daily_papers_by_keyword(keyword, column_names, max_result, link)
-        if len(papers) > 0: return papers
-        else:
-            print("Unexpected empty list, retrying...")
-            time.sleep(60 * 30) # wait for 30 minutes
-    # failed
-    return None
+def get_daily_papers_by_keyword_with_retries(keyword, column_names, max_result, link, retries=5):
+    base_delay = 5  # 基础等待 5 秒
+    for i in range(retries):
+        try:
+            return get_daily_papers_by_keyword(keyword, column_names, max_result, link)
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                # 计算等待时间：5s, 10s, 20s... 加上随机秒数防并发
+                delay = (base_delay * (2 ** i)) + random.uniform(1, 5)
+                print(f"遇到 429 被限流，正在进行第 {i+1} 次重试，等待 {delay:.2f} 秒...")
+                time.sleep(delay)
+            else:
+                raise e  # 其他 HTTP 错误直接抛出
+    raise Exception("多次重试后仍然被 arXiv 限流，请稍后再试。")
 
 def get_daily_papers_by_keyword(keyword: str, column_names: List[str], max_result: int, link: str = "OR") -> List[Dict[str, str]]:
     # get papers
