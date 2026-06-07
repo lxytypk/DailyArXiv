@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 05, 2026
+title: Latest 15 Papers - June 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OneReason Technical Report](https://arxiv.org/abs/2606.06260v1)** | 2026-06-04 | Work in progress |
 | **[Breaking the Likelihood Trap: Consistent Generative Recommendation with Graph-structured Model](https://arxiv.org/abs/2510.10127v3)** | 2026-06-03 | Accepted by KDD 2026 |
 | **[TriAlignGR: Triangular Multitask Alignment with Multimodal Deep Interest Mining for Generative Recommendation](https://arxiv.org/abs/2605.05249v3)** | 2026-06-02 |  |
 | **[TalkPlayData 2: An Agentic Synthetic Data Pipeline for Multimodal Conversational Music Recommendation](https://arxiv.org/abs/2509.09685v5)** | 2026-06-02 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Climber-Pilot: A Non-Myopic Generative Recommendation Model Towards Better Instruction-Following](https://arxiv.org/abs/2602.13581v2)** | 2026-05-28 |  |
 | **[Echoes in Filter Bubble: Diagnosing and Curing Popularity Bias in Generative Recommenders](https://arxiv.org/abs/2605.16825v3)** | 2026-05-28 |  |
 | **[Causal Direct Preference Optimization for Distributionally Robust Generative Recommendation](https://arxiv.org/abs/2603.22335v2)** | 2026-05-27 | 22 pages, 3 figures |
-| **[DeepInterestGR: Mining Deep Multi-Interest Using Multi-Modal LLMs for Generative Recommendation](https://arxiv.org/abs/2602.18907v2)** | 2026-05-26 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CTIConnect: A Benchmark for Retrieval-Augmented LLMs over Heterogeneous Cyber Threat Intelligence](https://arxiv.org/abs/2510.11974v2)** | 2026-06-03 | Accepted to KDD 2026 |
 | **[TalkPlay-Tools: Conversational Music Recommendation with LLM Tool Calling](https://arxiv.org/abs/2510.01698v4)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted for publication at The Workshop on AI for Music, Neural Information Processing Systems (NeurIPS-AI4Music)</p></details> |
 | **[CacheRAG: A Semantic Caching System for Retrieval-Augmented Generation in Knowledge Graph Question Answering](https://arxiv.org/abs/2604.26176v3)** | 2026-06-02 |  |
 | **[LongLive-RAG: A General Retrieval-Augmented Framework for Long Video Generation](https://arxiv.org/abs/2606.02553v1)** | 2026-06-01 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, 4 tables</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[G-DRAGON: Geospatial Reasoning and Dynamic Planning for Retrieval-Augmented Outdoor Navigation](https://arxiv.org/abs/2605.25646v1)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted by IEEE Robotics and Automation Letters (RA-L)</p></details> |
 | **[Factorize to Generalize: Retrieval-Guided Invariant-Dynamic Decomposition for Time Series Forecasting](https://arxiv.org/abs/2605.24911v1)** | 2026-05-24 |  |
 | **[Discrimination Is Generation: Unifying Ranking and Retrieval from a Tokenizer Perspective](https://arxiv.org/abs/2605.14853v2)** | 2026-05-21 |  |
-| **[Integrating Chain-of-Thought into Generative Retrieval: A Preliminary Study](https://arxiv.org/abs/2605.22358v1)** | 2026-05-21 | <details><summary>This ...</summary><p>This work was initially submitted to kdd 2026 in August 2025</p></details> |
 
