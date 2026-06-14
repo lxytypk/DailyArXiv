@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 12, 2026
+title: Latest 15 Papers - June 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,9 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders](https://arxiv.org/abs/2606.13610v1)** | 2026-06-11 |  |
+| **[HiGR: Industrial-Scale Hierarchical Generative Slate Recommendation Framework in Tencent](https://arxiv.org/abs/2512.24787v5)** | 2026-06-11 |  |
 | **[Uncertainty-aware Generative Recommendation](https://arxiv.org/abs/2602.11719v2)** | 2026-06-10 | Accepted by KDD 2026 |
-| **[HiGR: Industrial-Scale Hierarchical Generative Slate Recommendation Framework in Tencent](https://arxiv.org/abs/2512.24787v4)** | 2026-06-10 |  |
 | **[Gryphon: A Unified Architecture for Semantic-ID Generation and Item-Level Scoring in Industrial Recommendations](https://arxiv.org/abs/2606.08604v2)** | 2026-06-09 |  |
 | **[Reasoning over Semantic IDs Enhances Generative Recommendation](https://arxiv.org/abs/2603.23183v2)** | 2026-06-09 | Accepted by KDD 2026 |
 | **[SIDInspector: A Mapping-First Diagnostic Resource for Semantic-ID Tokenizers](https://arxiv.org/abs/2606.10375v1)** | 2026-06-09 | <details><summary>Submi...</summary><p>Submitted to CIKM 2026 Resource Track</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[OneReason Technical Report](https://arxiv.org/abs/2606.06260v1)** | 2026-06-04 | Work in progress |
 | **[Breaking the Likelihood Trap: Consistent Generative Recommendation with Graph-structured Model](https://arxiv.org/abs/2510.10127v3)** | 2026-06-03 | Accepted by KDD 2026 |
 | **[TriAlignGR: Triangular Multitask Alignment with Multimodal Deep Interest Mining for Generative Recommendation](https://arxiv.org/abs/2605.05249v3)** | 2026-06-02 |  |
-| **[TalkPlayData 2: An Agentic Synthetic Data Pipeline for Multimodal Conversational Music Recommendation](https://arxiv.org/abs/2509.09685v5)** | 2026-06-02 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OneRetrieval: Unifying Multi-Branch E-commerce Retrieval with an Editable Generative Model](https://arxiv.org/abs/2606.13533v1)** | 2026-06-11 | <details><summary>Any Q...</summary><p>Any Question please contact: benchen4395@gmail.com</p></details> |
 | **[Beyond Matching: Category-Guided Latent Intent Reasoning for Generative Retrieval in E-Commerce](https://arxiv.org/abs/2606.07075v2)** | 2026-06-10 |  |
 | **[Gryphon: A Unified Architecture for Semantic-ID Generation and Item-Level Scoring in Industrial Recommendations](https://arxiv.org/abs/2606.08604v2)** | 2026-06-09 |  |
 | **[Closing the Indexing-Decoding Gap in Multimodal Generative Retrieval via Prefix Retention Optimization](https://arxiv.org/abs/2606.09241v2)** | 2026-06-09 | <details><summary>29 pa...</summary><p>29 pages, 5 figures; code: https://github.com/layingfish/MGR_PRO</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[LongAttnComp: Cross-Family Context Compression for Long-Context Reasoning](https://arxiv.org/abs/2606.01336v1)** | 2026-05-31 | Under review |
 | **[UniPinRec: Unifying Generative Retrieval and Ranking at Pinterest Scale](https://arxiv.org/abs/2606.00422v1)** | 2026-05-29 |  |
 | **[APTLAS: An Indexed APT Literature Repository](https://arxiv.org/abs/2606.11241v1)** | 2026-05-29 |  |
-| **[DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories](https://arxiv.org/abs/2602.10809v2)** | 2026-05-29 | 18 pages, 6 figures |
 
