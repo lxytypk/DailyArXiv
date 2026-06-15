@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 15, 2026
+title: Latest 15 Papers - June 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Variable-Length Tokenization for Generative Recommendation](https://arxiv.org/abs/2605.17779v2)** | 2026-06-12 | 14 pages, 5 figures |
+| **[ChronoID: Infusing Explicit Temporal Signals into Semantic IDs for Generative Recommendation](https://arxiv.org/abs/2606.14260v1)** | 2026-06-12 |  |
+| **[Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation](https://arxiv.org/abs/2305.07609v4)** | 2026-06-12 | <details><summary>Accep...</summary><p>Accepted by Recsys 2023 (Short). Typo corrections</p></details> |
+| **[Detecting undisclosed LLM-generated content in parliamentary texts](https://arxiv.org/abs/2606.14209v1)** | 2026-06-12 |  |
+| **[Implicit Reasoning for Large Language Model-based Generative Recommendation](https://arxiv.org/abs/2606.14142v1)** | 2026-06-12 |  |
 | **[One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders](https://arxiv.org/abs/2606.13610v1)** | 2026-06-11 |  |
 | **[HiGR: Industrial-Scale Hierarchical Generative Slate Recommendation Framework in Tencent](https://arxiv.org/abs/2512.24787v5)** | 2026-06-11 |  |
 | **[Uncertainty-aware Generative Recommendation](https://arxiv.org/abs/2602.11719v2)** | 2026-06-10 | Accepted by KDD 2026 |
@@ -17,11 +22,6 @@ labels: documentation
 | **[Adaptive Loss Balancing for Noise-Robust GRPO in Generative Recommendation](https://arxiv.org/abs/2606.08480v1)** | 2026-06-07 |  |
 | **[SSRLive: Live Streaming Recommendation with Dynamic Semantic ID](https://arxiv.org/abs/2606.06970v1)** | 2026-06-05 |  |
 | **[DREAM: Dynamic Refinement of Early Assignment Mappings](https://arxiv.org/abs/2606.06947v1)** | 2026-06-05 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 5 tables</p></details> |
-| **[TRACER: Token ReAssignment for Concept ERasure in Generative Recommendation](https://arxiv.org/abs/2606.07688v1)** | 2026-06-05 |  |
-| **[Understanding Generative Recommendation with Semantic IDs from a Model-scaling View](https://arxiv.org/abs/2509.25522v3)** | 2026-06-04 | Accepted by KDD 2026 |
-| **[OneReason Technical Report](https://arxiv.org/abs/2606.06260v1)** | 2026-06-04 | Work in progress |
-| **[Breaking the Likelihood Trap: Consistent Generative Recommendation with Graph-structured Model](https://arxiv.org/abs/2510.10127v3)** | 2026-06-03 | Accepted by KDD 2026 |
-| **[TriAlignGR: Triangular Multitask Alignment with Multimodal Deep Interest Mining for Generative Recommendation](https://arxiv.org/abs/2605.05249v3)** | 2026-06-02 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
