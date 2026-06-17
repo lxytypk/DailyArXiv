@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 17, 2026
+title: Latest 15 Papers - June 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Do Generative Recommenders Deepen the Information Cocoon? A Closed-Loop Simulation with LLM-powered User Simulators](https://arxiv.org/abs/2606.17707v1)** | 2026-06-16 |  |
+| **[On the Memorization Behavior of LLMs in Generative Recommendation: Observations, Implications, and Training Strategies](https://arxiv.org/abs/2606.17276v1)** | 2026-06-15 |  |
 | **[Implicit Reasoning for Large Language Model-based Generative Recommendation](https://arxiv.org/abs/2606.14142v2)** | 2026-06-15 |  |
 | **[RAGR: Review-Augmented Generative Recommendation](https://arxiv.org/abs/2605.17267v2)** | 2026-06-15 |  |
 | **[One Sequential Recommendation Model Pretrained from Synthetic Priors Predicts Multiple Datasets](https://arxiv.org/abs/2606.15752v1)** | 2026-06-14 | <details><summary>Accep...</summary><p>Accepted at the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)</p></details> |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Uncertainty-aware Generative Recommendation](https://arxiv.org/abs/2602.11719v2)** | 2026-06-10 | Accepted by KDD 2026 |
 | **[Gryphon: A Unified Architecture for Semantic-ID Generation and Item-Level Scoring in Industrial Recommendations](https://arxiv.org/abs/2606.08604v2)** | 2026-06-09 |  |
 | **[Reasoning over Semantic IDs Enhances Generative Recommendation](https://arxiv.org/abs/2603.23183v2)** | 2026-06-09 | Accepted by KDD 2026 |
-| **[SIDInspector: A Mapping-First Diagnostic Resource for Semantic-ID Tokenizers](https://arxiv.org/abs/2606.10375v1)** | 2026-06-09 | <details><summary>Submi...</summary><p>Submitted to CIKM 2026 Resource Track</p></details> |
-| **[Gated Bidirectional Linear Attention for Generative Retrieval](https://arxiv.org/abs/2606.07317v2)** | 2026-06-08 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 7 tables. Accepted at SIGIR 2026</p></details> |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding and Debugging Failures in N-Gram-Based Generative Retrieval](https://arxiv.org/abs/2606.17721v1)** | 2026-06-16 | Work in progress |
 | **[Projection and Quantisation: A Unifying View of Learning to Hash, from Random Projections to the RAG Era](https://arxiv.org/abs/2510.04127v3)** | 2026-06-13 | <details><summary>80 pa...</summary><p>80 pages, 19 figures, 22 tables. Survey. Accompanying open benchmark (BitBudget): https://github.com/sjmoran/bitbudget ; live leaderboard: https://sjmoran.github.io/bitbudget/</p></details> |
 | **[OneRetrieval: Unifying Multi-Branch E-commerce Retrieval with an Editable Generative Model](https://arxiv.org/abs/2606.13533v1)** | 2026-06-11 | <details><summary>Any Q...</summary><p>Any Question please contact: benchen4395@gmail.com</p></details> |
 | **[Beyond Matching: Category-Guided Latent Intent Reasoning for Generative Retrieval in E-Commerce](https://arxiv.org/abs/2606.07075v2)** | 2026-06-10 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[UniNote: A Unified Embedding Model for Multimodal Representation and Ranking](https://arxiv.org/abs/2605.29287v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted by KDD Ads Track 2026</p></details> |
 | **[LongAttnComp: Cross-Family Context Compression for Long-Context Reasoning](https://arxiv.org/abs/2606.01336v1)** | 2026-05-31 | Under review |
 | **[UniPinRec: Unifying Generative Retrieval and Ranking at Pinterest Scale](https://arxiv.org/abs/2606.00422v1)** | 2026-05-29 |  |
-| **[APTLAS: An Indexed APT Literature Repository](https://arxiv.org/abs/2606.11241v1)** | 2026-05-29 |  |
 
