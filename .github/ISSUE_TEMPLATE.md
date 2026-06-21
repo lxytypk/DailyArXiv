@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 19, 2026
+title: Latest 15 Papers - June 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation](https://arxiv.org/abs/2606.20554v1)** | 2026-06-18 |  |
 | **[On the Memorization Behavior of LLMs in Generative Recommendation: Observations, Implications, and Training Strategies](https://arxiv.org/abs/2606.17276v2)** | 2026-06-17 |  |
 | **[Do Generative Recommenders Deepen the Information Cocoon? A Closed-Loop Simulation with LLM-powered User Simulators](https://arxiv.org/abs/2606.17707v1)** | 2026-06-16 |  |
 | **[Implicit Reasoning for Large Language Model-based Generative Recommendation](https://arxiv.org/abs/2606.14142v2)** | 2026-06-15 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[HiGR: Industrial-Scale Hierarchical Generative Slate Recommendation Framework in Tencent](https://arxiv.org/abs/2512.24787v5)** | 2026-06-11 |  |
 | **[Uncertainty-aware Generative Recommendation](https://arxiv.org/abs/2602.11719v2)** | 2026-06-10 | Accepted by KDD 2026 |
 | **[Gryphon: A Unified Architecture for Semantic-ID Generation and Item-Level Scoring in Industrial Recommendations](https://arxiv.org/abs/2606.08604v2)** | 2026-06-09 |  |
-| **[Reasoning over Semantic IDs Enhances Generative Recommendation](https://arxiv.org/abs/2603.23183v2)** | 2026-06-09 | Accepted by KDD 2026 |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
