@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 25, 2026
+title: Latest 15 Papers - June 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Recommendation as Generation: Unifying Personalized Video Generation and Recommendation at Industrial Scale](https://arxiv.org/abs/2606.25496v1)** | 2026-06-24 | <details><summary>Proje...</summary><p>Project page: https://recommendation-as-generation.github.io/</p></details> |
+| **[TokenMinds: Pretrained User Tokens and Embeddings for User Understanding in Large Recommender Systems](https://arxiv.org/abs/2606.25147v1)** | 2026-06-23 |  |
 | **[Who Owns the AI Recommendation? A Multi-Industry Empirical Map of Brand Category Ownership Across Large Language Models](https://arxiv.org/abs/2606.23057v1)** | 2026-06-22 | <details><summary>21 pa...</summary><p>21 pages, 4 figures, 7 tables. Under review at Journal of Marketing Analytics (Palgrave Macmillan). Data and analysis code on Zenodo, https://doi.org/10.5281/zenodo.20788142</p></details> |
 | **[MTGenRec: An Efficient Distributed Training System for Generative Recommendation Models in Meituan](https://arxiv.org/abs/2505.12663v3)** | 2026-06-22 |  |
 | **[On the Memorization Behavior of LLMs in Generative Recommendation: Observations, Implications, and Training Strategies](https://arxiv.org/abs/2606.17276v3)** | 2026-06-18 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[ChronoID: Infusing Explicit Temporal Signals into Semantic IDs for Generative Recommendation](https://arxiv.org/abs/2606.14260v1)** | 2026-06-12 |  |
 | **[Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation](https://arxiv.org/abs/2305.07609v4)** | 2026-06-12 | <details><summary>Accep...</summary><p>Accepted by Recsys 2023 (Short). Typo corrections</p></details> |
 | **[Detecting undisclosed LLM-generated content in parliamentary texts](https://arxiv.org/abs/2606.14209v1)** | 2026-06-12 |  |
-| **[One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders](https://arxiv.org/abs/2606.13610v1)** | 2026-06-11 |  |
-| **[HiGR: Industrial-Scale Hierarchical Generative Slate Recommendation Framework in Tencent](https://arxiv.org/abs/2512.24787v5)** | 2026-06-11 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
