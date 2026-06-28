@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 26, 2026
+title: Latest 15 Papers - June 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generative Retrieval via Diffusion Transformer with Metric-Ordered Sequence Training and Hybrid-Policy Preference Optimization](https://arxiv.org/abs/2606.26899v1)** | 2026-06-25 |  |
+| **[Reducing Redundancy in Whole-Slide Image Patching for Scalable Indexing and Retrieval](https://arxiv.org/abs/2606.26157v1)** | 2026-06-23 |  |
 | **[PETRA: Transforming Web Text for Petroleum-Engineering Domain Adaptation](https://arxiv.org/abs/2606.24346v1)** | 2026-06-23 |  |
 | **[OneRetrieval: Unifying Multi-Branch E-commerce Retrieval with an Editable Generative Model](https://arxiv.org/abs/2606.13533v2)** | 2026-06-22 | <details><summary>Any Q...</summary><p>Any Question please contact: benchen4395@gmail.com</p></details> |
 | **[LongAttnComp: Cross-Family Context Compression for Long-Context Reasoning](https://arxiv.org/abs/2606.01336v2)** | 2026-06-19 | Under review |
@@ -39,6 +41,4 @@ labels: documentation
 | **[CacheRAG: A Semantic Caching System for Retrieval-Augmented Generation in Knowledge Graph Question Answering](https://arxiv.org/abs/2604.26176v4)** | 2026-06-08 |  |
 | **[Gated Bidirectional Linear Attention for Generative Retrieval](https://arxiv.org/abs/2606.07317v2)** | 2026-06-08 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 7 tables. Accepted at SIGIR 2026</p></details> |
 | **[CTIConnect: A Benchmark for Retrieval-Augmented LLMs over Heterogeneous Cyber Threat Intelligence](https://arxiv.org/abs/2510.11974v2)** | 2026-06-03 | Accepted to KDD 2026 |
-| **[TalkPlay-Tools: Conversational Music Recommendation with LLM Tool Calling](https://arxiv.org/abs/2510.01698v4)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted for publication at The Workshop on AI for Music, Neural Information Processing Systems (NeurIPS-AI4Music)</p></details> |
-| **[LongLive-RAG: A General Retrieval-Augmented Framework for Long Video Generation](https://arxiv.org/abs/2606.02553v1)** | 2026-06-01 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, 4 tables</p></details> |
 
