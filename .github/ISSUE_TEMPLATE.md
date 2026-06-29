@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 29, 2026
+title: Latest 15 Papers - June 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Auditing AI Investment Recommendations as Executable Actions](https://arxiv.org/abs/2606.27570v1)** | 2026-06-25 |  |
 | **[Recommendation as Generation: Unifying Personalized Video Generation and Recommendation at Industrial Scale](https://arxiv.org/abs/2606.25496v1)** | 2026-06-24 | <details><summary>Proje...</summary><p>Project page: https://recommendation-as-generation.github.io/</p></details> |
 | **[TokenMinds: Pretrained User Tokens and Embeddings for User Understanding in Large Recommender Systems](https://arxiv.org/abs/2606.25147v1)** | 2026-06-23 |  |
 | **[Who Owns the AI Recommendation? A Multi-Industry Empirical Map of Brand Category Ownership Across Large Language Models](https://arxiv.org/abs/2606.23057v1)** | 2026-06-22 | <details><summary>21 pa...</summary><p>21 pages, 4 figures, 7 tables. Under review at Journal of Marketing Analytics (Palgrave Macmillan). Data and analysis code on Zenodo, https://doi.org/10.5281/zenodo.20788142</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Learning Variable-Length Tokenization for Generative Recommendation](https://arxiv.org/abs/2605.17779v2)** | 2026-06-12 | 14 pages, 5 figures |
 | **[ChronoID: Infusing Explicit Temporal Signals into Semantic IDs for Generative Recommendation](https://arxiv.org/abs/2606.14260v1)** | 2026-06-12 |  |
 | **[Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation](https://arxiv.org/abs/2305.07609v4)** | 2026-06-12 | <details><summary>Accep...</summary><p>Accepted by Recsys 2023 (Short). Typo corrections</p></details> |
-| **[Detecting undisclosed LLM-generated content in parliamentary texts](https://arxiv.org/abs/2606.14209v1)** | 2026-06-12 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
