@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 01, 2026
+title: Latest 15 Papers - July 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,9 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fund2Persona: A Framework for Building and Refining Financial Advisor Personas from Fund Disclosure Data](https://arxiv.org/abs/2606.29793v1)** | 2026-06-29 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 12 tables</p></details> |
+| **[ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](https://arxiv.org/abs/2606.31693v1)** | 2026-06-30 |  |
+| **[APAO: Bridging the Training-Inference Gap in Generative Recommendation via Adaptive Prefix-Aware Optimization](https://arxiv.org/abs/2603.02730v4)** | 2026-06-30 | Accepted by KDD'26 |
+| **[Fund2Persona: A Framework for Building and Refining Financial Advisor Personas from Fund Disclosure Data](https://arxiv.org/abs/2606.29793v2)** | 2026-06-30 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 12 tables</p></details> |
 | **[xGR: Efficient Generative Recommendation Serving at Scale](https://arxiv.org/abs/2512.11529v3)** | 2026-06-27 |  |
 | **[Auditing AI Investment Recommendations as Executable Actions](https://arxiv.org/abs/2606.27570v1)** | 2026-06-25 |  |
 | **[Recommendation as Generation: Unifying Personalized Video Generation and Recommendation at Industrial Scale](https://arxiv.org/abs/2606.25496v1)** | 2026-06-24 | <details><summary>Proje...</summary><p>Project page: https://recommendation-as-generation.github.io/</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Implicit Reasoning for Large Language Model-based Generative Recommendation](https://arxiv.org/abs/2606.14142v2)** | 2026-06-15 |  |
 | **[RAGR: Review-Augmented Generative Recommendation](https://arxiv.org/abs/2605.17267v2)** | 2026-06-15 |  |
 | **[One Sequential Recommendation Model Pretrained from Synthetic Priors Predicts Multiple Datasets](https://arxiv.org/abs/2606.15752v1)** | 2026-06-14 | <details><summary>Accep...</summary><p>Accepted at the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)</p></details> |
-| **[HoloRec: Holistic Encoding and Interleaved Reasoning for Generative Recommendation](https://arxiv.org/abs/2606.15331v1)** | 2026-06-13 |  |
-| **[Learning Variable-Length Tokenization for Generative Recommendation](https://arxiv.org/abs/2605.17779v2)** | 2026-06-12 | 14 pages, 5 figures |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
