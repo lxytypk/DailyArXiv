@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 02, 2026
+title: Latest 15 Papers - July 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Agri-SAGE: Simulation-Grounded Multi-Agent LLM for Context-Aware Agricultural Advisory Generation](https://arxiv.org/abs/2607.00454v1)** | 2026-07-01 |  |
 | **[ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](https://arxiv.org/abs/2606.31693v1)** | 2026-06-30 |  |
 | **[APAO: Bridging the Training-Inference Gap in Generative Recommendation via Adaptive Prefix-Aware Optimization](https://arxiv.org/abs/2603.02730v4)** | 2026-06-30 | Accepted by KDD'26 |
 | **[Fund2Persona: A Framework for Building and Refining Financial Advisor Personas from Fund Disclosure Data](https://arxiv.org/abs/2606.29793v2)** | 2026-06-30 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 12 tables</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Do Generative Recommenders Deepen the Information Cocoon? A Closed-Loop Simulation with LLM-powered User Simulators](https://arxiv.org/abs/2606.17707v1)** | 2026-06-16 |  |
 | **[Implicit Reasoning for Large Language Model-based Generative Recommendation](https://arxiv.org/abs/2606.14142v2)** | 2026-06-15 |  |
 | **[RAGR: Review-Augmented Generative Recommendation](https://arxiv.org/abs/2605.17267v2)** | 2026-06-15 |  |
-| **[One Sequential Recommendation Model Pretrained from Synthetic Priors Predicts Multiple Datasets](https://arxiv.org/abs/2606.15752v1)** | 2026-06-14 | <details><summary>Accep...</summary><p>Accepted at the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)</p></details> |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generative Retrieval for Table Union Search](https://arxiv.org/abs/2607.00833v1)** | 2026-07-01 |  |
 | **[Generative Retrieval via Diffusion Transformer with Metric-Ordered Sequence Training and Hybrid-Policy Preference Optimization](https://arxiv.org/abs/2606.26899v1)** | 2026-06-25 |  |
 | **[Reducing Redundancy in Whole-Slide Image Patching for Scalable Indexing and Retrieval](https://arxiv.org/abs/2606.26157v1)** | 2026-06-23 |  |
 | **[PETRA: Transforming Web Text for Petroleum-Engineering Domain Adaptation](https://arxiv.org/abs/2606.24346v1)** | 2026-06-23 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[HDSL: A Hierarchical Domain-Specific Language for Structured 3D Indoor Scene Generation and Localized Editing with LLM Agents](https://arxiv.org/abs/2606.09738v1)** | 2026-06-08 |  |
 | **[CacheRAG: A Semantic Caching System for Retrieval-Augmented Generation in Knowledge Graph Question Answering](https://arxiv.org/abs/2604.26176v4)** | 2026-06-08 |  |
 | **[Gated Bidirectional Linear Attention for Generative Retrieval](https://arxiv.org/abs/2606.07317v2)** | 2026-06-08 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 7 tables. Accepted at SIGIR 2026</p></details> |
-| **[CTIConnect: A Benchmark for Retrieval-Augmented LLMs over Heterogeneous Cyber Threat Intelligence](https://arxiv.org/abs/2510.11974v2)** | 2026-06-03 | Accepted to KDD 2026 |
 
