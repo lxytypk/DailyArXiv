@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 08, 2026
+title: Latest 15 Papers - July 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Synthetic Consumer Insight Generation with Large Language Models](https://arxiv.org/abs/2607.05761v1)** | 2026-07-07 |  |
 | **[Beyond Item Order: Temporal Gap Tokenization for Generative Recommendation with Semantic IDs](https://arxiv.org/abs/2607.03918v1)** | 2026-07-04 |  |
 | **[HGenPush: A Heterogeneous Generative Recommendation Architecture for Industrial Push Notification Systems](https://arxiv.org/abs/2607.03362v1)** | 2026-07-03 |  |
 | **[Long-Term Optimization for Large-Scale Generative Retrieval with Off-Policy REINFORCE](https://arxiv.org/abs/2607.02818v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at the 5th Workshop on End-End Customer Journey Optimization at KDD 2026</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Who Owns the AI Recommendation? A Multi-Industry Empirical Map of Brand Category Ownership Across Large Language Models](https://arxiv.org/abs/2606.23057v1)** | 2026-06-22 | <details><summary>21 pa...</summary><p>21 pages, 4 figures, 7 tables. Under review at Journal of Marketing Analytics (Palgrave Macmillan). Data and analysis code on Zenodo, https://doi.org/10.5281/zenodo.20788142</p></details> |
 | **[MTGenRec: An Efficient Distributed Training System for Generative Recommendation Models in Meituan](https://arxiv.org/abs/2505.12663v3)** | 2026-06-22 |  |
 | **[On the Memorization Behavior of LLMs in Generative Recommendation: Observations, Implications, and Training Strategies](https://arxiv.org/abs/2606.17276v3)** | 2026-06-18 |  |
-| **[Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation](https://arxiv.org/abs/2606.20554v1)** | 2026-06-18 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
