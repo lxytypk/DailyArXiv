@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 09, 2026
+title: Latest 15 Papers - July 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Large Behavior Model: A Promptable Digital Twin of the Retail Customer](https://arxiv.org/abs/2607.06993v1)** | 2026-07-08 | 17 pages, 5 figures |
 | **[UniSGR: Unified Framework for Semantic ID Generation and Ranking](https://arxiv.org/abs/2607.04068v1)** | 2026-07-05 |  |
 | **[Long-Term Optimization for Large-Scale Generative Retrieval with Off-Policy REINFORCE](https://arxiv.org/abs/2607.02818v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at the 5th Workshop on End-End Customer Journey Optimization at KDD 2026</p></details> |
 | **[XSearch: Explainable Code Search via Concept-to-Code Alignment](https://arxiv.org/abs/2605.16046v2)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted to ISSTA 2026</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Projection and Quantisation: A Unifying View of Learning to Hash, from Random Projections to the RAG Era](https://arxiv.org/abs/2510.04127v3)** | 2026-06-13 | <details><summary>80 pa...</summary><p>80 pages, 19 figures, 22 tables. Survey. Accompanying open benchmark (BitBudget): https://github.com/sjmoran/bitbudget ; live leaderboard: https://sjmoran.github.io/bitbudget/</p></details> |
 | **[Beyond Matching: Category-Guided Latent Intent Reasoning for Generative Retrieval in E-Commerce](https://arxiv.org/abs/2606.07075v2)** | 2026-06-10 |  |
 | **[Gryphon: A Unified Architecture for Semantic-ID Generation and Item-Level Scoring in Industrial Recommendations](https://arxiv.org/abs/2606.08604v2)** | 2026-06-09 |  |
-| **[Closing the Indexing-Decoding Gap in Multimodal Generative Retrieval via Prefix Retention Optimization](https://arxiv.org/abs/2606.09241v2)** | 2026-06-09 | <details><summary>29 pa...</summary><p>29 pages, 5 figures; code: https://github.com/layingfish/MGR_PRO</p></details> |
 
