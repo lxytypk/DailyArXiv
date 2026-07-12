@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 10, 2026
+title: Latest 15 Papers - July 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents](https://arxiv.org/abs/2607.08716v1)** | 2026-07-09 |  |
+| **[DaV-Gen: End-to-End Generative Retrieval via Draft-and-Verify](https://arxiv.org/abs/2607.08365v1)** | 2026-07-09 | Accepted by IJCAI'26 |
 | **[Large Behavior Model: A Promptable Digital Twin of the Retail Customer](https://arxiv.org/abs/2607.06993v1)** | 2026-07-08 | 17 pages, 5 figures |
 | **[UniSGR: Unified Framework for Semantic ID Generation and Ranking](https://arxiv.org/abs/2607.04068v1)** | 2026-07-05 |  |
 | **[Long-Term Optimization for Large-Scale Generative Retrieval with Off-Policy REINFORCE](https://arxiv.org/abs/2607.02818v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at the 5th Workshop on End-End Customer Journey Optimization at KDD 2026</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[PinRec: Unified Generative Retrieval for Pinterest Recommender Systems](https://arxiv.org/abs/2504.10507v7)** | 2026-06-18 |  |
 | **[Understanding and Debugging Failures in N-Gram-Based Generative Retrieval](https://arxiv.org/abs/2606.17721v1)** | 2026-06-16 | Work in progress |
 | **[Projection and Quantisation: A Unifying View of Learning to Hash, from Random Projections to the RAG Era](https://arxiv.org/abs/2510.04127v3)** | 2026-06-13 | <details><summary>80 pa...</summary><p>80 pages, 19 figures, 22 tables. Survey. Accompanying open benchmark (BitBudget): https://github.com/sjmoran/bitbudget ; live leaderboard: https://sjmoran.github.io/bitbudget/</p></details> |
-| **[Beyond Matching: Category-Guided Latent Intent Reasoning for Generative Retrieval in E-Commerce](https://arxiv.org/abs/2606.07075v2)** | 2026-06-10 |  |
-| **[Gryphon: A Unified Architecture for Semantic-ID Generation and Item-Level Scoring in Industrial Recommendations](https://arxiv.org/abs/2606.08604v2)** | 2026-06-09 |  |
 
