@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 13, 2026
+title: Latest 15 Papers - July 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Raw IDs to Semantic Planning: How Recommender Systems Utilize Information at Scale](https://arxiv.org/abs/2607.09540v1)** | 2026-07-10 | <details><summary>6 pag...</summary><p>6 pages, 1 figures, RecSys 2026</p></details> |
 | **[Synthetic Consumer Insight Generation with Large Language Models](https://arxiv.org/abs/2607.05761v1)** | 2026-07-07 |  |
 | **[Beyond Item Order: Temporal Gap Tokenization for Generative Recommendation with Semantic IDs](https://arxiv.org/abs/2607.03918v1)** | 2026-07-04 |  |
 | **[HGenPush: A Heterogeneous Generative Recommendation Architecture for Industrial Push Notification Systems](https://arxiv.org/abs/2607.03362v1)** | 2026-07-03 |  |
@@ -21,14 +22,13 @@ labels: documentation
 | **[TokenMinds: Pretrained User Tokens and Embeddings for User Understanding in Large Recommender Systems](https://arxiv.org/abs/2606.25147v1)** | 2026-06-23 |  |
 | **[Who Owns the AI Recommendation? A Multi-Industry Empirical Map of Brand Category Ownership Across Large Language Models](https://arxiv.org/abs/2606.23057v1)** | 2026-06-22 | <details><summary>21 pa...</summary><p>21 pages, 4 figures, 7 tables. Under review at Journal of Marketing Analytics (Palgrave Macmillan). Data and analysis code on Zenodo, https://doi.org/10.5281/zenodo.20788142</p></details> |
 | **[MTGenRec: An Efficient Distributed Training System for Generative Recommendation Models in Meituan](https://arxiv.org/abs/2505.12663v3)** | 2026-06-22 |  |
-| **[On the Memorization Behavior of LLMs in Generative Recommendation: Observations, Implications, and Training Strategies](https://arxiv.org/abs/2606.17276v3)** | 2026-06-18 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Large Behavior Model: A Promptable Digital Twin of the Retail Customer](https://arxiv.org/abs/2607.06993v2)** | 2026-07-10 | 17 pages, 5 figures |
 | **[Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents](https://arxiv.org/abs/2607.08716v1)** | 2026-07-09 |  |
 | **[DaV-Gen: End-to-End Generative Retrieval via Draft-and-Verify](https://arxiv.org/abs/2607.08365v1)** | 2026-07-09 | Accepted by IJCAI'26 |
-| **[Large Behavior Model: A Promptable Digital Twin of the Retail Customer](https://arxiv.org/abs/2607.06993v1)** | 2026-07-08 | 17 pages, 5 figures |
 | **[UniSGR: Unified Framework for Semantic ID Generation and Ranking](https://arxiv.org/abs/2607.04068v1)** | 2026-07-05 |  |
 | **[Long-Term Optimization for Large-Scale Generative Retrieval with Off-Policy REINFORCE](https://arxiv.org/abs/2607.02818v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at the 5th Workshop on End-End Customer Journey Optimization at KDD 2026</p></details> |
 | **[XSearch: Explainable Code Search via Concept-to-Code Alignment](https://arxiv.org/abs/2605.16046v2)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted to ISSTA 2026</p></details> |
