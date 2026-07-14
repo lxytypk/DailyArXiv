@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 14, 2026
+title: Latest 15 Papers - July 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Raw IDs to Semantic Planning: How Recommender Systems Utilize Information at Scale](https://arxiv.org/abs/2607.09540v1)** | 2026-07-10 | <details><summary>6 pag...</summary><p>6 pages, 1 figures, RecSys 2026</p></details> |
+| **[From Raw IDs to Semantic Planning: How Recommender Systems Utilize Information at Scale](https://arxiv.org/abs/2607.09540v2)** | 2026-07-13 | <details><summary>As th...</summary><p>As this paper is a collaborative project with a company and involves internal compliance issues, I need to submit an approval request first. I am therefore requesting that it be withdrawn and will re-upload it once the request has been approved</p></details> |
 | **[Synthetic Consumer Insight Generation with Large Language Models](https://arxiv.org/abs/2607.05761v1)** | 2026-07-07 |  |
 | **[Beyond Item Order: Temporal Gap Tokenization for Generative Recommendation with Semantic IDs](https://arxiv.org/abs/2607.03918v1)** | 2026-07-04 |  |
 | **[HGenPush: A Heterogeneous Generative Recommendation Architecture for Industrial Push Notification Systems](https://arxiv.org/abs/2607.03362v1)** | 2026-07-03 |  |
@@ -26,6 +26,10 @@ labels: documentation
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Semantic IDs: Encoding Business-Value Ranking into Document Identifiers for Generative Retrieval](https://arxiv.org/abs/2607.11392v1)** | 2026-07-13 |  |
+| **[Prompt Generation Technical Report](https://arxiv.org/abs/2607.11326v1)** | 2026-07-13 |  |
+| **[Generative Chinese Statute Retrieval](https://arxiv.org/abs/2607.11109v1)** | 2026-07-13 |  |
+| **[FlashTrie: A GPU-Accelerated Constrained Beam Search for Generative Retrieval](https://arxiv.org/abs/2607.10044v1)** | 2026-07-10 |  |
 | **[Large Behavior Model: A Promptable Digital Twin of the Retail Customer](https://arxiv.org/abs/2607.06993v2)** | 2026-07-10 | 17 pages, 5 figures |
 | **[Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents](https://arxiv.org/abs/2607.08716v1)** | 2026-07-09 |  |
 | **[DaV-Gen: End-to-End Generative Retrieval via Draft-and-Verify](https://arxiv.org/abs/2607.08365v1)** | 2026-07-09 | Accepted by IJCAI'26 |
@@ -37,8 +41,4 @@ labels: documentation
 | **[Reducing Redundancy in Whole-Slide Image Patching for Scalable Indexing and Retrieval](https://arxiv.org/abs/2606.26157v1)** | 2026-06-23 |  |
 | **[PETRA: Transforming Web Text for Petroleum-Engineering Domain Adaptation](https://arxiv.org/abs/2606.24346v1)** | 2026-06-23 |  |
 | **[OneRetrieval: Unifying Multi-Branch E-commerce Retrieval with an Editable Generative Model](https://arxiv.org/abs/2606.13533v2)** | 2026-06-22 | <details><summary>Any Q...</summary><p>Any Question please contact: benchen4395@gmail.com</p></details> |
-| **[LongAttnComp: Cross-Family Context Compression for Long-Context Reasoning](https://arxiv.org/abs/2606.01336v2)** | 2026-06-19 | Under review |
-| **[PinRec: Unified Generative Retrieval for Pinterest Recommender Systems](https://arxiv.org/abs/2504.10507v7)** | 2026-06-18 |  |
-| **[Understanding and Debugging Failures in N-Gram-Based Generative Retrieval](https://arxiv.org/abs/2606.17721v1)** | 2026-06-16 | Work in progress |
-| **[Projection and Quantisation: A Unifying View of Learning to Hash, from Random Projections to the RAG Era](https://arxiv.org/abs/2510.04127v3)** | 2026-06-13 | <details><summary>80 pa...</summary><p>80 pages, 19 figures, 22 tables. Survey. Accompanying open benchmark (BitBudget): https://github.com/sjmoran/bitbudget ; live leaderboard: https://sjmoran.github.io/bitbudget/</p></details> |
 
