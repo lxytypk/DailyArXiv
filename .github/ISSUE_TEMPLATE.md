@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 15, 2026
+title: Latest 15 Papers - July 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Where Reasoning Matters: Rethinking Latent Reasoning in Semantic ID-based Generative Recommendation](https://arxiv.org/abs/2607.12425v1)** | 2026-07-14 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
+| **[Not Only NTP: Extending Training Signal Coverage for Generative Recommendation](https://arxiv.org/abs/2607.12277v1)** | 2026-07-14 |  |
+| **[First, do NOHARM: a medical safety benchmark and randomized study of physician and AI teaming on clinical consultations](https://arxiv.org/abs/2512.01241v4)** | 2026-07-13 |  |
 | **[From Raw IDs to Semantic Planning: How Recommender Systems Utilize Information at Scale](https://arxiv.org/abs/2607.09540v2)** | 2026-07-13 | <details><summary>As th...</summary><p>As this paper is a collaborative project with a company and involves internal compliance issues, I need to submit an approval request first. I am therefore requesting that it be withdrawn and will re-upload it once the request has been approved</p></details> |
 | **[Synthetic Consumer Insight Generation with Large Language Models](https://arxiv.org/abs/2607.05761v1)** | 2026-07-07 |  |
 | **[Beyond Item Order: Temporal Gap Tokenization for Generative Recommendation with Semantic IDs](https://arxiv.org/abs/2607.03918v1)** | 2026-07-04 |  |
@@ -19,13 +22,11 @@ labels: documentation
 | **[xGR: Efficient Generative Recommendation Serving at Scale](https://arxiv.org/abs/2512.11529v3)** | 2026-06-27 |  |
 | **[Auditing AI Investment Recommendations as Executable Actions](https://arxiv.org/abs/2606.27570v1)** | 2026-06-25 |  |
 | **[Recommendation as Generation: Unifying Personalized Video Generation and Recommendation at Industrial Scale](https://arxiv.org/abs/2606.25496v1)** | 2026-06-24 | <details><summary>Proje...</summary><p>Project page: https://recommendation-as-generation.github.io/</p></details> |
-| **[TokenMinds: Pretrained User Tokens and Embeddings for User Understanding in Large Recommender Systems](https://arxiv.org/abs/2606.25147v1)** | 2026-06-23 |  |
-| **[Who Owns the AI Recommendation? A Multi-Industry Empirical Map of Brand Category Ownership Across Large Language Models](https://arxiv.org/abs/2606.23057v1)** | 2026-06-22 | <details><summary>21 pa...</summary><p>21 pages, 4 figures, 7 tables. Under review at Journal of Marketing Analytics (Palgrave Macmillan). Data and analysis code on Zenodo, https://doi.org/10.5281/zenodo.20788142</p></details> |
-| **[MTGenRec: An Efficient Distributed Training System for Generative Recommendation Models in Meituan](https://arxiv.org/abs/2505.12663v3)** | 2026-06-22 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RoboDesign1M: A Large-scale Dataset for Robot Design Understanding](https://arxiv.org/abs/2503.06796v2)** | 2026-07-13 | <details><summary>8 pag...</summary><p>8 pages, accepted to IROS 2026</p></details> |
 | **[Beyond Semantic IDs: Encoding Business-Value Ranking into Document Identifiers for Generative Retrieval](https://arxiv.org/abs/2607.11392v1)** | 2026-07-13 |  |
 | **[Prompt Generation Technical Report](https://arxiv.org/abs/2607.11326v1)** | 2026-07-13 |  |
 | **[Generative Chinese Statute Retrieval](https://arxiv.org/abs/2607.11109v1)** | 2026-07-13 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Generative Retrieval via Diffusion Transformer with Metric-Ordered Sequence Training and Hybrid-Policy Preference Optimization](https://arxiv.org/abs/2606.26899v1)** | 2026-06-25 |  |
 | **[Reducing Redundancy in Whole-Slide Image Patching for Scalable Indexing and Retrieval](https://arxiv.org/abs/2606.26157v1)** | 2026-06-23 |  |
 | **[PETRA: Transforming Web Text for Petroleum-Engineering Domain Adaptation](https://arxiv.org/abs/2606.24346v1)** | 2026-06-23 |  |
-| **[OneRetrieval: Unifying Multi-Branch E-commerce Retrieval with an Editable Generative Model](https://arxiv.org/abs/2606.13533v2)** | 2026-06-22 | <details><summary>Any Q...</summary><p>Any Question please contact: benchen4395@gmail.com</p></details> |
 
