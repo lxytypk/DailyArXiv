@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 17, 2026
+title: Latest 15 Papers - July 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,16 +7,16 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Raw IDs to Semantic Planning: How Recommender Systems Utilize Information at Scale](https://arxiv.org/abs/2607.09540v3)** | 2026-07-16 |  |
+| **[ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](https://arxiv.org/abs/2606.31693v2)** | 2026-07-15 | <details><summary>The n...</summary><p>The new version adds additional results and details</p></details> |
 | **[Where Reasoning Matters: Rethinking Latent Reasoning in Semantic ID-based Generative Recommendation](https://arxiv.org/abs/2607.12425v1)** | 2026-07-14 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
 | **[Not Only NTP: Extending Training Signal Coverage for Generative Recommendation](https://arxiv.org/abs/2607.12277v1)** | 2026-07-14 |  |
 | **[First, do NOHARM: a medical safety benchmark and randomized study of physician and AI teaming on clinical consultations](https://arxiv.org/abs/2512.01241v4)** | 2026-07-13 |  |
-| **[From Raw IDs to Semantic Planning: How Recommender Systems Utilize Information at Scale](https://arxiv.org/abs/2607.09540v2)** | 2026-07-13 | <details><summary>As th...</summary><p>As this paper is a collaborative project with a company and involves internal compliance issues, I need to submit an approval request first. I am therefore requesting that it be withdrawn and will re-upload it once the request has been approved</p></details> |
 | **[Synthetic Consumer Insight Generation with Large Language Models](https://arxiv.org/abs/2607.05761v1)** | 2026-07-07 |  |
 | **[Beyond Item Order: Temporal Gap Tokenization for Generative Recommendation with Semantic IDs](https://arxiv.org/abs/2607.03918v1)** | 2026-07-04 |  |
 | **[HGenPush: A Heterogeneous Generative Recommendation Architecture for Industrial Push Notification Systems](https://arxiv.org/abs/2607.03362v1)** | 2026-07-03 |  |
 | **[Long-Term Optimization for Large-Scale Generative Retrieval with Off-Policy REINFORCE](https://arxiv.org/abs/2607.02818v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at the 5th Workshop on End-End Customer Journey Optimization at KDD 2026</p></details> |
 | **[Agri-SAGE: Simulation-Grounded Multi-Agent LLM for Context-Aware Agricultural Advisory Generation](https://arxiv.org/abs/2607.00454v1)** | 2026-07-01 |  |
-| **[ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](https://arxiv.org/abs/2606.31693v1)** | 2026-06-30 |  |
 | **[APAO: Bridging the Training-Inference Gap in Generative Recommendation via Adaptive Prefix-Aware Optimization](https://arxiv.org/abs/2603.02730v4)** | 2026-06-30 | Accepted by KDD'26 |
 | **[Fund2Persona: A Framework for Building and Refining Financial Advisor Personas from Fund Disclosure Data](https://arxiv.org/abs/2606.29793v2)** | 2026-06-30 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 12 tables</p></details> |
 | **[xGR: Efficient Generative Recommendation Serving at Scale](https://arxiv.org/abs/2512.11529v3)** | 2026-06-27 |  |
