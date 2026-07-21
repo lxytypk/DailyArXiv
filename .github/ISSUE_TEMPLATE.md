@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 21, 2026
+title: Latest 15 Papers - July 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,9 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Raw IDs to Semantic Planning: How Recommender Systems Utilize Information at Scale](https://arxiv.org/abs/2607.09540v3)** | 2026-07-16 |  |
+| **[From Raw IDs to Semantic Planning: How Recommender Systems Utilize Information at Scale](https://arxiv.org/abs/2607.09540v4)** | 2026-07-20 |  |
+| **[SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation](https://arxiv.org/abs/2605.18920v2)** | 2026-07-19 | <details><summary>Accep...</summary><p>Accepted by ICML 2026, 15 pages</p></details> |
+| **[Beyond Fixed Depths and Widths: Optimizing Textual Decoding Tries in LLM-based Generative Recommendation](https://arxiv.org/abs/2607.16633v1)** | 2026-07-18 |  |
 | **[ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](https://arxiv.org/abs/2606.31693v2)** | 2026-07-15 | <details><summary>The n...</summary><p>The new version adds additional results and details</p></details> |
 | **[Where Reasoning Matters: Rethinking Latent Reasoning in Semantic ID-based Generative Recommendation](https://arxiv.org/abs/2607.12425v1)** | 2026-07-14 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
 | **[Not Only NTP: Extending Training Signal Coverage for Generative Recommendation](https://arxiv.org/abs/2607.12277v1)** | 2026-07-14 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[APAO: Bridging the Training-Inference Gap in Generative Recommendation via Adaptive Prefix-Aware Optimization](https://arxiv.org/abs/2603.02730v4)** | 2026-06-30 | Accepted by KDD'26 |
 | **[Fund2Persona: A Framework for Building and Refining Financial Advisor Personas from Fund Disclosure Data](https://arxiv.org/abs/2606.29793v2)** | 2026-06-30 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 12 tables</p></details> |
 | **[xGR: Efficient Generative Recommendation Serving at Scale](https://arxiv.org/abs/2512.11529v3)** | 2026-06-27 |  |
-| **[Auditing AI Investment Recommendations as Executable Actions](https://arxiv.org/abs/2606.27570v1)** | 2026-06-25 |  |
-| **[Recommendation as Generation: Unifying Personalized Video Generation and Recommendation at Industrial Scale](https://arxiv.org/abs/2606.25496v1)** | 2026-06-24 | <details><summary>Proje...</summary><p>Project page: https://recommendation-as-generation.github.io/</p></details> |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[History-Aware Transformation of ReID Features for Multiple Object Tracking](https://arxiv.org/abs/2503.12562v2)** | 2026-07-19 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Without bells and whistles, achieving 80.8 HOTA on SportsMOT</p></details> |
 | **[RoboDesign1M: A Large-scale Dataset for Robot Design Understanding](https://arxiv.org/abs/2503.06796v2)** | 2026-07-13 | <details><summary>8 pag...</summary><p>8 pages, accepted to IROS 2026</p></details> |
 | **[Beyond Semantic IDs: Encoding Business-Value Ranking into Document Identifiers for Generative Retrieval](https://arxiv.org/abs/2607.11392v1)** | 2026-07-13 |  |
 | **[Prompt Generation Technical Report](https://arxiv.org/abs/2607.11326v1)** | 2026-07-13 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Generative Retrieval for Table Union Search](https://arxiv.org/abs/2607.00833v1)** | 2026-07-01 |  |
 | **[Generative Retrieval via Diffusion Transformer with Metric-Ordered Sequence Training and Hybrid-Policy Preference Optimization](https://arxiv.org/abs/2606.26899v1)** | 2026-06-25 |  |
 | **[Reducing Redundancy in Whole-Slide Image Patching for Scalable Indexing and Retrieval](https://arxiv.org/abs/2606.26157v1)** | 2026-06-23 |  |
-| **[PETRA: Transforming Web Text for Petroleum-Engineering Domain Adaptation](https://arxiv.org/abs/2606.24346v1)** | 2026-06-23 |  |
 
