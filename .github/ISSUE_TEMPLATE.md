@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 23, 2026
+title: Latest 15 Papers - July 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,7 @@ labels: documentation
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TSGR: Taobao Search Generative Retrieval](https://arxiv.org/abs/2607.18796v1)** | 2026-07-21 |  |
+| **[TSGR: Taobao Search Generative Retrieval](https://arxiv.org/abs/2607.18796v2)** | 2026-07-22 |  |
 | **[Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators](https://arxiv.org/abs/2602.22647v2)** | 2026-07-20 | <details><summary>KDD 2...</summary><p>KDD 2026 camera-ready</p></details> |
 | **[History-Aware Transformation of ReID Features for Multiple Object Tracking](https://arxiv.org/abs/2503.12562v2)** | 2026-07-19 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Without bells and whistles, achieving 80.8 HOTA on SportsMOT</p></details> |
 | **[RoboDesign1M: A Large-scale Dataset for Robot Design Understanding](https://arxiv.org/abs/2503.06796v2)** | 2026-07-13 | <details><summary>8 pag...</summary><p>8 pages, accepted to IROS 2026</p></details> |
