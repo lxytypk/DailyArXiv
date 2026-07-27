@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 27, 2026
+title: Latest 15 Papers - July 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,9 +7,10 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bridging the Structural Gap: Adapting Autoregressive Generation for Recommendation](https://arxiv.org/abs/2607.21028v2)** | 2026-07-24 | 14 pages, 15 figures |
+| **[SIREN (Luring LLMs onto the Rocks): PAIR-Driven Preference Manipulation in Web-RAG Recommenders](https://arxiv.org/abs/2607.21951v1)** | 2026-07-24 |  |
 | **[Diffusion Language Model for Recommendation](https://arxiv.org/abs/2607.21519v1)** | 2026-07-23 | 30 pages, 9 figures |
 | **[Can Generative Recommendation Reach Cold Items? A Temporal Perspective on Semantic-ID Generation](https://arxiv.org/abs/2607.21101v1)** | 2026-07-23 |  |
-| **[Bridging the Structural Gap: Adapting Autoregressive Generation for Recommendation](https://arxiv.org/abs/2607.21028v1)** | 2026-07-23 | 14 pages, 15 figures |
 | **[Coarse-to-Fine Long-term Interest Modeling for Generative Recommendation](https://arxiv.org/abs/2602.05663v2)** | 2026-07-23 | 10 pages,3 figures |
 | **[Topology-Aware Tokenization for Generative Recommendation](https://arxiv.org/abs/2607.18600v1)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted to RecSys 2026. 10 pages</p></details> |
 | **[From Raw IDs to Semantic Planning: How Recommender Systems Utilize Information at Scale](https://arxiv.org/abs/2607.09540v4)** | 2026-07-20 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[First, do NOHARM: a medical safety benchmark and randomized study of physician and AI teaming on clinical consultations](https://arxiv.org/abs/2512.01241v4)** | 2026-07-13 |  |
 | **[Synthetic Consumer Insight Generation with Large Language Models](https://arxiv.org/abs/2607.05761v1)** | 2026-07-07 |  |
 | **[Beyond Item Order: Temporal Gap Tokenization for Generative Recommendation with Semantic IDs](https://arxiv.org/abs/2607.03918v1)** | 2026-07-04 |  |
-| **[HGenPush: A Heterogeneous Generative Recommendation Architecture for Industrial Push Notification Systems](https://arxiv.org/abs/2607.03362v1)** | 2026-07-03 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
