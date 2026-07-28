@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 28, 2026
+title: Latest 15 Papers - July 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LaRec: Unleashing LLM-based Latent Reasoning for Generative Recommendation](https://arxiv.org/abs/2607.24617v1)** | 2026-07-27 |  |
+| **[CogRec: Structure-Cognitive Fast-and-Slow Reasoning for Generative Recommendation](https://arxiv.org/abs/2607.24402v1)** | 2026-07-27 |  |
+| **[OxygenREC-v2: Internalizing Discrimination into Generative Recommendation](https://arxiv.org/abs/2607.24255v1)** | 2026-07-27 | 16 pages, 8 figures |
+| **[Session-Level Optimization for Large-Scale Retrieval using REINFORCE with Multi-Step Off-Policy Correction](https://arxiv.org/abs/2607.02818v2)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at the 5th Workshop on End-End Customer Journey Optimization at KDD 2026</p></details> |
+| **[Escaping the Euclidean Void: Manifold-Informed Flow Matching for Sequential Recommendation](https://arxiv.org/abs/2607.23762v1)** | 2026-07-26 |  |
 | **[Bridging the Structural Gap: Adapting Autoregressive Generation for Recommendation](https://arxiv.org/abs/2607.21028v2)** | 2026-07-24 | 14 pages, 15 figures |
 | **[SIREN (Luring LLMs onto the Rocks): PAIR-Driven Preference Manipulation in Web-RAG Recommenders](https://arxiv.org/abs/2607.21951v1)** | 2026-07-24 |  |
 | **[Diffusion Language Model for Recommendation](https://arxiv.org/abs/2607.21519v1)** | 2026-07-23 | 30 pages, 9 figures |
@@ -17,15 +22,11 @@ labels: documentation
 | **[SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation](https://arxiv.org/abs/2605.18920v2)** | 2026-07-19 | <details><summary>Accep...</summary><p>Accepted by ICML 2026, 15 pages</p></details> |
 | **[Beyond Fixed Depths and Widths: Optimizing Textual Decoding Tries in LLM-based Generative Recommendation](https://arxiv.org/abs/2607.16633v1)** | 2026-07-18 |  |
 | **[ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](https://arxiv.org/abs/2606.31693v2)** | 2026-07-15 | <details><summary>The n...</summary><p>The new version adds additional results and details</p></details> |
-| **[Where Reasoning Matters: Rethinking Latent Reasoning in Semantic ID-based Generative Recommendation](https://arxiv.org/abs/2607.12425v1)** | 2026-07-14 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
-| **[Not Only NTP: Extending Training Signal Coverage for Generative Recommendation](https://arxiv.org/abs/2607.12277v1)** | 2026-07-14 |  |
-| **[First, do NOHARM: a medical safety benchmark and randomized study of physician and AI teaming on clinical consultations](https://arxiv.org/abs/2512.01241v4)** | 2026-07-13 |  |
-| **[Synthetic Consumer Insight Generation with Large Language Models](https://arxiv.org/abs/2607.05761v1)** | 2026-07-07 |  |
-| **[Beyond Item Order: Temporal Gap Tokenization for Generative Recommendation with Semantic IDs](https://arxiv.org/abs/2607.03918v1)** | 2026-07-04 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EGR: Embedding-Native Generative Retrieval with a Shared LLM](https://arxiv.org/abs/2607.23038v1)** | 2026-07-25 | <details><summary>Accep...</summary><p>Accepted to RecSys 2026</p></details> |
 | **[TSGR: Taobao Search Generative Retrieval](https://arxiv.org/abs/2607.18796v2)** | 2026-07-22 |  |
 | **[Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators](https://arxiv.org/abs/2602.22647v2)** | 2026-07-20 | <details><summary>KDD 2...</summary><p>KDD 2026 camera-ready</p></details> |
 | **[History-Aware Transformation of ReID Features for Multiple Object Tracking](https://arxiv.org/abs/2503.12562v2)** | 2026-07-19 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Without bells and whistles, achieving 80.8 HOTA on SportsMOT</p></details> |
@@ -38,7 +39,6 @@ labels: documentation
 | **[Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents](https://arxiv.org/abs/2607.08716v1)** | 2026-07-09 |  |
 | **[DaV-Gen: End-to-End Generative Retrieval via Draft-and-Verify](https://arxiv.org/abs/2607.08365v1)** | 2026-07-09 | Accepted by IJCAI'26 |
 | **[UniSGR: Unified Framework for Semantic ID Generation and Ranking](https://arxiv.org/abs/2607.04068v1)** | 2026-07-05 |  |
-| **[Long-Term Optimization for Large-Scale Generative Retrieval with Off-Policy REINFORCE](https://arxiv.org/abs/2607.02818v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at the 5th Workshop on End-End Customer Journey Optimization at KDD 2026</p></details> |
 | **[XSearch: Explainable Code Search via Concept-to-Code Alignment](https://arxiv.org/abs/2605.16046v2)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted to ISSTA 2026</p></details> |
 | **[Generative Retrieval for Table Union Search](https://arxiv.org/abs/2607.00833v1)** | 2026-07-01 |  |
 
