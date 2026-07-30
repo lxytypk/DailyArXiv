@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 30, 2026
+title: Latest 15 Papers - July 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniVA: Unified Value Alignment for Generative Recommendation in Online Advertising at Tencent](https://arxiv.org/abs/2605.05803v2)** | 2026-07-29 | 13 pages, 7 figures |
+| **[PSG: Pair-Space Generation for Efficient Generative Reranking](https://arxiv.org/abs/2607.26427v1)** | 2026-07-29 | 13 pages, 3 figures |
 | **[Nudging Sustainable Choices through LLM-Generated Recommendation Explanations](https://arxiv.org/abs/2607.25726v1)** | 2026-07-28 |  |
 | **[The Case Against Generation for Retrieval: Discriminative Language Models as Effective Retrievers](https://arxiv.org/abs/2607.25346v1)** | 2026-07-28 |  |
 | **[Reward Guided Decoding for Generative Recommendation](https://arxiv.org/abs/2607.25344v1)** | 2026-07-28 |  |
@@ -20,12 +22,14 @@ labels: documentation
 | **[OxygenREC-v2: Internalizing Discrimination into Generative Recommendation](https://arxiv.org/abs/2607.24255v1)** | 2026-07-27 | 16 pages, 8 figures |
 | **[Session-Level Optimization for Large-Scale Retrieval using REINFORCE with Multi-Step Off-Policy Correction](https://arxiv.org/abs/2607.02818v2)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at the 5th Workshop on End-End Customer Journey Optimization at KDD 2026</p></details> |
 | **[Escaping the Euclidean Void: Manifold-Informed Flow Matching for Sequential Recommendation](https://arxiv.org/abs/2607.23762v1)** | 2026-07-26 |  |
-| **[Bridging the Structural Gap: Adapting Autoregressive Generation for Recommendation](https://arxiv.org/abs/2607.21028v2)** | 2026-07-24 | 14 pages, 15 figures |
-| **[SIREN (Luring LLMs onto the Rocks): PAIR-Driven Preference Manipulation in Web-RAG Recommenders](https://arxiv.org/abs/2607.21951v1)** | 2026-07-24 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Improving Item Discoverability in e-Commerce Search via Related Intent Generation](https://arxiv.org/abs/2607.27172v1)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted to KDD 2026 TSMO</p></details> |
+| **[Multi-Decoder OneRec: Controllable Generative Retrieval for Multi-Objective Industrial Recommendation](https://arxiv.org/abs/2607.26500v1)** | 2026-07-29 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 11 tables, 2 algorithms</p></details> |
+| **[ClockRoPE: Random Fourier Rotations for Temporal Routine Modeling](https://arxiv.org/abs/2607.26369v1)** | 2026-07-29 |  |
+| **[BioHiCL: Hierarchical Multi-Label Contrastive Learning for Biomedical Retrieval with MeSH Labels](https://arxiv.org/abs/2604.15591v2)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 (Oral)</p></details> |
 | **[Hypothesis-Driven Shelf Generation for Personalised Recommendation](https://arxiv.org/abs/2607.25823v1)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted at ACM RecSys '26 (Industry Track)</p></details> |
 | **[Architectural Backdoors in Vision-Language Model Supply Chains via Representation Steering](https://arxiv.org/abs/2607.25479v1)** | 2026-07-28 |  |
 | **[Tokens are All You Need: Dual-purpose Semantic IDs for Achieving LLM-Level I/O Efficiency in recommendation systems](https://arxiv.org/abs/2607.24865v1)** | 2026-07-26 | RecSys 2026 |
@@ -34,11 +38,7 @@ labels: documentation
 | **[Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators](https://arxiv.org/abs/2602.22647v2)** | 2026-07-20 | <details><summary>KDD 2...</summary><p>KDD 2026 camera-ready</p></details> |
 | **[History-Aware Transformation of ReID Features for Multiple Object Tracking](https://arxiv.org/abs/2503.12562v2)** | 2026-07-19 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Without bells and whistles, achieving 80.8 HOTA on SportsMOT</p></details> |
 | **[RoboDesign1M: A Large-scale Dataset for Robot Design Understanding](https://arxiv.org/abs/2503.06796v2)** | 2026-07-13 | <details><summary>8 pag...</summary><p>8 pages, accepted to IROS 2026</p></details> |
+| **[Guess Where You Go: Generative Next Point-of-Interest Recommendation in Amap](https://arxiv.org/abs/2607.26073v1)** | 2026-07-13 | 10 pages, 4 figures |
 | **[Beyond Semantic IDs: Encoding Business-Value Ranking into Document Identifiers for Generative Retrieval](https://arxiv.org/abs/2607.11392v1)** | 2026-07-13 |  |
 | **[Prompt Generation Technical Report](https://arxiv.org/abs/2607.11326v1)** | 2026-07-13 |  |
-| **[Generative Chinese Statute Retrieval](https://arxiv.org/abs/2607.11109v1)** | 2026-07-13 |  |
-| **[FlashTrie: A GPU-Accelerated Constrained Beam Search for Generative Retrieval](https://arxiv.org/abs/2607.10044v1)** | 2026-07-10 |  |
-| **[Large Behavior Model: A Promptable Digital Twin of the Retail Customer](https://arxiv.org/abs/2607.06993v2)** | 2026-07-10 | 17 pages, 5 figures |
-| **[Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents](https://arxiv.org/abs/2607.08716v1)** | 2026-07-09 |  |
-| **[DaV-Gen: End-to-End Generative Retrieval via Draft-and-Verify](https://arxiv.org/abs/2607.08365v1)** | 2026-07-09 | Accepted by IJCAI'26 |
 
