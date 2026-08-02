@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 31, 2026
+title: Latest 15 Papers - August 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,9 +7,13 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LASAR: Latent Adaptive Semantic Aligned Reasoning for Generative Recommendation](https://arxiv.org/abs/2605.10207v2)** | 2026-07-30 |  |
+| **[Nudging Sustainable Choices through LLM-Generated Recommendation Explanations](https://arxiv.org/abs/2607.25726v2)** | 2026-07-30 |  |
+| **[From Understanding to Action: Feedback-Grounded Policy Discovery for Generative Recommendation](https://arxiv.org/abs/2607.27789v1)** | 2026-07-30 |  |
+| **[Restoring Collaborative Signals in Semantic-ID Generative Recommendation via Personalized Natural Language](https://arxiv.org/abs/2607.27682v1)** | 2026-07-30 | 8 pages, 4 figures |
+| **[LoopMemGR: From Behavior Logs to Evolving Memory for Generative Recommendation](https://arxiv.org/abs/2607.27647v1)** | 2026-07-30 |  |
 | **[UniVA: Unified Value Alignment for Generative Recommendation in Online Advertising at Tencent](https://arxiv.org/abs/2605.05803v2)** | 2026-07-29 | 13 pages, 7 figures |
 | **[PSG: Pair-Space Generation for Efficient Generative Reranking](https://arxiv.org/abs/2607.26427v1)** | 2026-07-29 | 13 pages, 3 figures |
-| **[Nudging Sustainable Choices through LLM-Generated Recommendation Explanations](https://arxiv.org/abs/2607.25726v1)** | 2026-07-28 |  |
 | **[The Case Against Generation for Retrieval: Discriminative Language Models as Effective Retrievers](https://arxiv.org/abs/2607.25346v1)** | 2026-07-28 |  |
 | **[Reward Guided Decoding for Generative Recommendation](https://arxiv.org/abs/2607.25344v1)** | 2026-07-28 |  |
 | **[SPARC: Sequence-aware Progressive Attribute Routing and Compression Framework for Generative Recommendation](https://arxiv.org/abs/2607.25339v1)** | 2026-07-28 |  |
@@ -18,14 +22,11 @@ labels: documentation
 | **[VaLiDRec: Variable-Length LLM-Aligned Semantic IDs for Generative Recommendation](https://arxiv.org/abs/2607.25209v1)** | 2026-07-28 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables</p></details> |
 | **[Understanding Semantic IDs: From Item Representation to Item Selection in Generative Recommendation](https://arxiv.org/abs/2607.24995v1)** | 2026-07-27 |  |
 | **[LaRec: Unleashing LLM-based Latent Reasoning for Generative Recommendation](https://arxiv.org/abs/2607.24617v1)** | 2026-07-27 |  |
-| **[CogRec: Structure-Cognitive Fast-and-Slow Reasoning for Generative Recommendation](https://arxiv.org/abs/2607.24402v1)** | 2026-07-27 |  |
-| **[OxygenREC-v2: Internalizing Discrimination into Generative Recommendation](https://arxiv.org/abs/2607.24255v1)** | 2026-07-27 | 16 pages, 8 figures |
-| **[Session-Level Optimization for Large-Scale Retrieval using REINFORCE with Multi-Step Off-Policy Correction](https://arxiv.org/abs/2607.02818v2)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at the 5th Workshop on End-End Customer Journey Optimization at KDD 2026</p></details> |
-| **[Escaping the Euclidean Void: Manifold-Informed Flow Matching for Sequential Recommendation](https://arxiv.org/abs/2607.23762v1)** | 2026-07-26 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MemeBench: What LVLMs Miss When Interpreting Culture-Dependent Memes](https://arxiv.org/abs/2607.27798v1)** | 2026-07-30 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, and 13 tables</p></details> |
 | **[Improving Item Discoverability in e-Commerce Search via Related Intent Generation](https://arxiv.org/abs/2607.27172v1)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted to KDD 2026 TSMO</p></details> |
 | **[Multi-Decoder OneRec: Controllable Generative Retrieval for Multi-Objective Industrial Recommendation](https://arxiv.org/abs/2607.26500v1)** | 2026-07-29 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 11 tables, 2 algorithms</p></details> |
 | **[ClockRoPE: Random Fourier Rotations for Temporal Routine Modeling](https://arxiv.org/abs/2607.26369v1)** | 2026-07-29 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[RoboDesign1M: A Large-scale Dataset for Robot Design Understanding](https://arxiv.org/abs/2503.06796v2)** | 2026-07-13 | <details><summary>8 pag...</summary><p>8 pages, accepted to IROS 2026</p></details> |
 | **[Guess Where You Go: Generative Next Point-of-Interest Recommendation in Amap](https://arxiv.org/abs/2607.26073v1)** | 2026-07-13 | 10 pages, 4 figures |
 | **[Beyond Semantic IDs: Encoding Business-Value Ranking into Document Identifiers for Generative Retrieval](https://arxiv.org/abs/2607.11392v1)** | 2026-07-13 |  |
-| **[Prompt Generation Technical Report](https://arxiv.org/abs/2607.11326v1)** | 2026-07-13 |  |
 
