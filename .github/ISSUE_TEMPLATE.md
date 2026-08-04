@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 04, 2026
+title: Latest 15 Papers - August 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unpaired Modality-Agnostic Generative Recommendation](https://arxiv.org/abs/2608.02477v1)** | 2026-08-03 |  |
+| **[SmartGR: Hierarchy and Beam-Aware Knowledge Distillation for Generative Recommendation](https://arxiv.org/abs/2608.02048v1)** | 2026-08-03 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 13 tables; includes appendices</p></details> |
+| **[Asymmetric Generative Recommendation via Kronecker Residual Bridge and Multi-Faceted Hierarchical Quantization](https://arxiv.org/abs/2605.14512v2)** | 2026-08-03 |  |
+| **[Rethinking Group Recommender Systems in the Era of Generative AI: From One-Shot Recommendations to Agentic Group Decision Support](https://arxiv.org/abs/2507.00535v2)** | 2026-08-03 | <details><summary>Submi...</summary><p>Submitted for publication</p></details> |
+| **[MERIT: Efficient In-Place Deletion for Dynamic Graph-Based Approximate Nearest Neighbor Indexes](https://arxiv.org/abs/2607.29173v2)** | 2026-08-03 | 14 pages |
+| **[Collaborative Memory Augmentation for Generative Recommendation](https://arxiv.org/abs/2608.01315v1)** | 2026-08-02 | <details><summary>Accep...</summary><p>Accepted by KDD 2026 Research Track</p></details> |
+| **[Unleash the Potential of Long Semantic IDs for Generative Recommendation](https://arxiv.org/abs/2602.13573v2)** | 2026-08-02 | under review |
+| **[GRACE: Generative Recommender Acceleration Engine for Real-Time Ads Retrieval](https://arxiv.org/abs/2608.00938v1)** | 2026-08-02 | 13 pages, 3 figures |
+| **[Exponential Reward Weighting for Fine-Tuning Generative Recommenders under Sparse and Noisy Feedback](https://arxiv.org/abs/2608.00816v1)** | 2026-08-01 |  |
+| **[Hierarchical Residual Policy Optimization for Generative Recommendations](https://arxiv.org/abs/2608.00750v1)** | 2026-08-01 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 10 tables. Accepted at KDD 2026 Research Track</p></details> |
+| **[The Case Against Generation for Retrieval: Discriminative Language Models as Effective Retrievers](https://arxiv.org/abs/2607.25346v2)** | 2026-08-01 |  |
 | **[MMGRec: Multimodal Generative Recommendation with Transformer Model](https://arxiv.org/abs/2404.16555v4)** | 2026-07-31 |  |
-| **[MERIT: Efficient In-Place Deletion for Dynamic Graph-Based Approximate Nearest Neighbor Indexes](https://arxiv.org/abs/2607.29173v1)** | 2026-07-31 | 14 pages |
 | **[EvoReason: Self-Evolving Reasoning Primitive-Guided On-Policy Distillation for Latent Reasoning in Generative Recommendation](https://arxiv.org/abs/2607.29010v1)** | 2026-07-31 |  |
 | **[Implicit Reasoning for Large Language Model-based Generative Recommendation](https://arxiv.org/abs/2606.14142v3)** | 2026-07-30 |  |
 | **[LASAR: Latent Adaptive Semantic Aligned Reasoning for Generative Recommendation](https://arxiv.org/abs/2605.10207v2)** | 2026-07-30 |  |
-| **[Nudging Sustainable Choices through LLM-Generated Recommendation Explanations](https://arxiv.org/abs/2607.25726v2)** | 2026-07-30 |  |
-| **[From Understanding to Action: Feedback-Grounded Policy Discovery for Generative Recommendation](https://arxiv.org/abs/2607.27789v1)** | 2026-07-30 |  |
-| **[Restoring Collaborative Signals in Semantic-ID Generative Recommendation via Personalized Natural Language](https://arxiv.org/abs/2607.27682v1)** | 2026-07-30 | 8 pages, 4 figures |
-| **[LoopMemGR: From Behavior Logs to Evolving Memory for Generative Recommendation](https://arxiv.org/abs/2607.27647v1)** | 2026-07-30 |  |
-| **[UniVA: Unified Value Alignment for Generative Recommendation in Online Advertising at Tencent](https://arxiv.org/abs/2605.05803v2)** | 2026-07-29 | 13 pages, 7 figures |
-| **[PSG: Pair-Space Generation for Efficient Generative Reranking](https://arxiv.org/abs/2607.26427v1)** | 2026-07-29 | 13 pages, 3 figures |
-| **[The Case Against Generation for Retrieval: Discriminative Language Models as Effective Retrievers](https://arxiv.org/abs/2607.25346v1)** | 2026-07-28 |  |
-| **[Reward Guided Decoding for Generative Recommendation](https://arxiv.org/abs/2607.25344v1)** | 2026-07-28 |  |
-| **[SPARC: Sequence-aware Progressive Attribute Routing and Compression Framework for Generative Recommendation](https://arxiv.org/abs/2607.25339v1)** | 2026-07-28 |  |
-| **[Grevo: A Unified Generative Recommendation Framework with Evolutionary Item Indexing](https://arxiv.org/abs/2607.25329v1)** | 2026-07-28 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[StreamTalk: Streaming Co-Speech Gesture Generation with Key-Pose Anchoring](https://arxiv.org/abs/2608.01643v1)** | 2026-08-03 | ECCV 2026 |
+| **[Auditing Semantic Gains in Sequential Recommendation: A Lightweight Recovery Test](https://arxiv.org/abs/2608.01260v1)** | 2026-08-02 |  |
+| **[GRACE: Generative Recommender Acceleration Engine for Real-Time Ads Retrieval](https://arxiv.org/abs/2608.00938v1)** | 2026-08-02 | 13 pages, 3 figures |
 | **[LLM-Based Generative Retrieval for Snapchat Content Recommendation](https://arxiv.org/abs/2607.28895v1)** | 2026-07-30 |  |
 | **[MemeBench: What LVLMs Miss When Interpreting Culture-Dependent Memes](https://arxiv.org/abs/2607.27798v1)** | 2026-07-30 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, and 13 tables</p></details> |
 | **[Improving Item Discoverability in e-Commerce Search via Related Intent Generation](https://arxiv.org/abs/2607.27172v1)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted to KDD 2026 TSMO</p></details> |
@@ -34,11 +37,8 @@ labels: documentation
 | **[BioHiCL: Hierarchical Multi-Label Contrastive Learning for Biomedical Retrieval with MeSH Labels](https://arxiv.org/abs/2604.15591v2)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 (Oral)</p></details> |
 | **[Hypothesis-Driven Shelf Generation for Personalised Recommendation](https://arxiv.org/abs/2607.25823v1)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted at ACM RecSys '26 (Industry Track)</p></details> |
 | **[Architectural Backdoors in Vision-Language Model Supply Chains via Representation Steering](https://arxiv.org/abs/2607.25479v1)** | 2026-07-28 |  |
+| **[RAG-TESTER: Automated End-to-End Testing of Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2608.00054v1)** | 2026-07-26 |  |
 | **[Tokens are All You Need: Dual-purpose Semantic IDs for Achieving LLM-Level I/O Efficiency in recommendation systems](https://arxiv.org/abs/2607.24865v1)** | 2026-07-26 | RecSys 2026 |
 | **[EGR: Embedding-Native Generative Retrieval with a Shared LLM](https://arxiv.org/abs/2607.23038v1)** | 2026-07-25 | <details><summary>Accep...</summary><p>Accepted to RecSys 2026</p></details> |
 | **[TSGR: Taobao Search Generative Retrieval](https://arxiv.org/abs/2607.18796v2)** | 2026-07-22 |  |
-| **[Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators](https://arxiv.org/abs/2602.22647v2)** | 2026-07-20 | <details><summary>KDD 2...</summary><p>KDD 2026 camera-ready</p></details> |
-| **[History-Aware Transformation of ReID Features for Multiple Object Tracking](https://arxiv.org/abs/2503.12562v2)** | 2026-07-19 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Without bells and whistles, achieving 80.8 HOTA on SportsMOT</p></details> |
-| **[RoboDesign1M: A Large-scale Dataset for Robot Design Understanding](https://arxiv.org/abs/2503.06796v2)** | 2026-07-13 | <details><summary>8 pag...</summary><p>8 pages, accepted to IROS 2026</p></details> |
-| **[Guess Where You Go: Generative Next Point-of-Interest Recommendation in Amap](https://arxiv.org/abs/2607.26073v1)** | 2026-07-13 | 10 pages, 4 figures |
 
