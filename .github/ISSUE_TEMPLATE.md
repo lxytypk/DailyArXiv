@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 10, 2026
+title: Latest 15 Papers - August 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hierarchical Quantization with Domain-Adaptive Sparse Routing for Generative Cross-Domain Recommendation](https://arxiv.org/abs/2608.06997v1)** | 2026-08-07 |  |
+| **[From Classification to Recommendation: Empirical Analysis of Audio Embedding Models Application for Content-Based Music Recommendation](https://arxiv.org/abs/2608.06928v1)** | 2026-08-07 | <details><summary>9 pag...</summary><p>9 pages, 4 tables, 2 figures</p></details> |
+| **[Towards Generalizable and Efficient Large-Scale Generative Recommenders](https://arxiv.org/abs/2605.23312v2)** | 2026-08-06 | <details><summary>RecSy...</summary><p>RecSys '26, 20th ACM Conference on Recommender Systems</p></details> |
 | **[On the uncertainty from the first-stage estimation of prognostic covariate adjustment in randomized controlled trials](https://arxiv.org/abs/2604.01911v3)** | 2026-08-06 |  |
 | **[GRACE: Generative Recommender Acceleration Engine for Real-Time Ads Retrieval](https://arxiv.org/abs/2608.00938v2)** | 2026-08-04 | 13 pages, 3 figures |
 | **[Attacking and Defending Multi-Agent Collaborative Filtering Systems Through Connectivity](https://arxiv.org/abs/2608.03272v1)** | 2026-08-04 | <details><summary>10 pa...</summary><p>10 pages, 10 figures, 20th ACM Conference on Recommender Systems (RecSys '26)</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Collaborative Memory Augmentation for Generative Recommendation](https://arxiv.org/abs/2608.01315v1)** | 2026-08-02 | <details><summary>Accep...</summary><p>Accepted by KDD 2026 Research Track</p></details> |
 | **[Unleash the Potential of Long Semantic IDs for Generative Recommendation](https://arxiv.org/abs/2602.13573v2)** | 2026-08-02 | under review |
 | **[Exponential Reward Weighting for Fine-Tuning Generative Recommenders under Sparse and Noisy Feedback](https://arxiv.org/abs/2608.00816v1)** | 2026-08-01 |  |
-| **[Hierarchical Residual Policy Optimization for Generative Recommendations](https://arxiv.org/abs/2608.00750v1)** | 2026-08-01 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 10 tables. Accepted at KDD 2026 Research Track</p></details> |
-| **[The Case Against Generation for Retrieval: Discriminative Language Models as Effective Retrievers](https://arxiv.org/abs/2607.25346v2)** | 2026-08-01 |  |
-| **[MMGRec: Multimodal Generative Recommendation with Transformer Model](https://arxiv.org/abs/2404.16555v4)** | 2026-07-31 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
