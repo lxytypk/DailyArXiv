@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 11, 2026
+title: Latest 15 Papers - August 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,13 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adaptive Semantic Capacity Allocation for Parallel Generative Recommendation](https://arxiv.org/abs/2608.09685v1)** | 2026-08-10 |  |
+| **[IntHQ: Task-Interactive Hierarchical Query on Dual-Stream Representations for Generative Recommendation](https://arxiv.org/abs/2608.09634v1)** | 2026-08-10 |  |
+| **[From Classification to Recommendation: Empirical Analysis of Audio Embedding Models Application for Content-Based Music Recommendation](https://arxiv.org/abs/2608.06928v2)** | 2026-08-10 | <details><summary>9 pag...</summary><p>9 pages, 4 tables, 2 figures. v2: Added corresponding-author and contact information, consolidated a duplicate reference, completed bibliographic metadata, and corrected the post-reference figure layout. Technical content and results are unchanged</p></details> |
+| **[Fine-grained Semantics Integration for Large Language Model-based Recommendation](https://arxiv.org/abs/2602.22632v3)** | 2026-08-09 |  |
+| **[PushDualGen: Enabling LLMs to Generate Semantic IDs with Interpretable Copy for Industrial Push Recommendation](https://arxiv.org/abs/2608.07989v1)** | 2026-08-08 |  |
+| **[Preserving Item Semantics for Free: Rethinking Token Initialization in LLM-Based Generative Recommendation](https://arxiv.org/abs/2608.07816v1)** | 2026-08-07 |  |
 | **[Hierarchical Quantization with Domain-Adaptive Sparse Routing for Generative Cross-Domain Recommendation](https://arxiv.org/abs/2608.06997v1)** | 2026-08-07 |  |
-| **[From Classification to Recommendation: Empirical Analysis of Audio Embedding Models Application for Content-Based Music Recommendation](https://arxiv.org/abs/2608.06928v1)** | 2026-08-07 | <details><summary>9 pag...</summary><p>9 pages, 4 tables, 2 figures</p></details> |
 | **[Towards Generalizable and Efficient Large-Scale Generative Recommenders](https://arxiv.org/abs/2605.23312v2)** | 2026-08-06 | <details><summary>RecSy...</summary><p>RecSys '26, 20th ACM Conference on Recommender Systems</p></details> |
 | **[On the uncertainty from the first-stage estimation of prognostic covariate adjustment in randomized controlled trials](https://arxiv.org/abs/2604.01911v3)** | 2026-08-06 |  |
 | **[GRACE: Generative Recommender Acceleration Engine for Real-Time Ads Retrieval](https://arxiv.org/abs/2608.00938v2)** | 2026-08-04 | 13 pages, 3 figures |
@@ -17,11 +22,6 @@ labels: documentation
 | **[Unpaired Modality-Agnostic Generative Recommendation](https://arxiv.org/abs/2608.02477v1)** | 2026-08-03 |  |
 | **[SmartGR: Hierarchy and Beam-Aware Knowledge Distillation for Generative Recommendation](https://arxiv.org/abs/2608.02048v1)** | 2026-08-03 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 13 tables; includes appendices</p></details> |
 | **[Asymmetric Generative Recommendation via Kronecker Residual Bridge and Multi-Faceted Hierarchical Quantization](https://arxiv.org/abs/2605.14512v2)** | 2026-08-03 |  |
-| **[Rethinking Group Recommender Systems in the Era of Generative AI: From One-Shot Recommendations to Agentic Group Decision Support](https://arxiv.org/abs/2507.00535v2)** | 2026-08-03 | <details><summary>Submi...</summary><p>Submitted for publication</p></details> |
-| **[MERIT: Efficient In-Place Deletion for Dynamic Graph-Based Approximate Nearest Neighbor Indexes](https://arxiv.org/abs/2607.29173v2)** | 2026-08-03 | 14 pages |
-| **[Collaborative Memory Augmentation for Generative Recommendation](https://arxiv.org/abs/2608.01315v1)** | 2026-08-02 | <details><summary>Accep...</summary><p>Accepted by KDD 2026 Research Track</p></details> |
-| **[Unleash the Potential of Long Semantic IDs for Generative Recommendation](https://arxiv.org/abs/2602.13573v2)** | 2026-08-02 | under review |
-| **[Exponential Reward Weighting for Fine-Tuning Generative Recommenders under Sparse and Noisy Feedback](https://arxiv.org/abs/2608.00816v1)** | 2026-08-01 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
