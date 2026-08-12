@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 12, 2026
+title: Latest 15 Papers - August 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sona Technical Report](https://arxiv.org/abs/2608.11015v1)** | 2026-08-11 |  |
+| **[FedCGR: Federated Cross-Domain Generative Recommendation](https://arxiv.org/abs/2608.10929v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026. 10 pages, 5 figures, 6 tables</p></details> |
+| **[MERGE: Next-Generation Item Indexing Paradigm for Large-Scale Streaming Recommendation](https://arxiv.org/abs/2601.20199v2)** | 2026-08-11 | Accepted by CIKM'26 |
+| **[SIDInspector: A Mapping-First Diagnostic Resource for Semantic-ID Tokenizers](https://arxiv.org/abs/2606.10375v2)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted to CIKM 2026 Resource Track</p></details> |
+| **[CADET: Context-Conditioned Ads CTR Prediction With a Decoder-Only Transformer](https://arxiv.org/abs/2602.11410v2)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted at AdKDD 2026. 7 pages</p></details> |
 | **[Adaptive Semantic Capacity Allocation for Parallel Generative Recommendation](https://arxiv.org/abs/2608.09685v1)** | 2026-08-10 |  |
 | **[IntHQ: Task-Interactive Hierarchical Query on Dual-Stream Representations for Generative Recommendation](https://arxiv.org/abs/2608.09634v1)** | 2026-08-10 |  |
 | **[From Classification to Recommendation: Empirical Analysis of Audio Embedding Models Application for Content-Based Music Recommendation](https://arxiv.org/abs/2608.06928v2)** | 2026-08-10 | <details><summary>9 pag...</summary><p>9 pages, 4 tables, 2 figures. v2: Added corresponding-author and contact information, consolidated a duplicate reference, completed bibliographic metadata, and corrected the post-reference figure layout. Technical content and results are unchanged</p></details> |
 | **[Fine-grained Semantics Integration for Large Language Model-based Recommendation](https://arxiv.org/abs/2602.22632v3)** | 2026-08-09 |  |
 | **[PushDualGen: Enabling LLMs to Generate Semantic IDs with Interpretable Copy for Industrial Push Recommendation](https://arxiv.org/abs/2608.07989v1)** | 2026-08-08 |  |
 | **[Preserving Item Semantics for Free: Rethinking Token Initialization in LLM-Based Generative Recommendation](https://arxiv.org/abs/2608.07816v1)** | 2026-08-07 |  |
+| **[Do LLM Recommenders Know When They're Hallucinating? Auditing Confidence Calibration in Catalog Faithfulness](https://arxiv.org/abs/2608.10008v1)** | 2026-08-07 |  |
 | **[Hierarchical Quantization with Domain-Adaptive Sparse Routing for Generative Cross-Domain Recommendation](https://arxiv.org/abs/2608.06997v1)** | 2026-08-07 |  |
 | **[Towards Generalizable and Efficient Large-Scale Generative Recommenders](https://arxiv.org/abs/2605.23312v2)** | 2026-08-06 | <details><summary>RecSy...</summary><p>RecSys '26, 20th ACM Conference on Recommender Systems</p></details> |
 | **[On the uncertainty from the first-stage estimation of prognostic covariate adjustment in randomized controlled trials](https://arxiv.org/abs/2604.01911v3)** | 2026-08-06 |  |
-| **[GRACE: Generative Recommender Acceleration Engine for Real-Time Ads Retrieval](https://arxiv.org/abs/2608.00938v2)** | 2026-08-04 | 13 pages, 3 figures |
-| **[Attacking and Defending Multi-Agent Collaborative Filtering Systems Through Connectivity](https://arxiv.org/abs/2608.03272v1)** | 2026-08-04 | <details><summary>10 pa...</summary><p>10 pages, 10 figures, 20th ACM Conference on Recommender Systems (RecSys '26)</p></details> |
-| **[Bumblebee: Interleaved Mixed-Layer Building Blocks for Large-Scale Recommendation Systems](https://arxiv.org/abs/2607.24804v2)** | 2026-08-03 |  |
-| **[Unpaired Modality-Agnostic Generative Recommendation](https://arxiv.org/abs/2608.02477v1)** | 2026-08-03 |  |
-| **[SmartGR: Hierarchy and Beam-Aware Knowledge Distillation for Generative Recommendation](https://arxiv.org/abs/2608.02048v1)** | 2026-08-03 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 13 tables; includes appendices</p></details> |
-| **[Asymmetric Generative Recommendation via Kronecker Residual Bridge and Multi-Faceted Hierarchical Quantization](https://arxiv.org/abs/2605.14512v2)** | 2026-08-03 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Periodic Table of LLM Reasoning: A Structured Survey of Reasoning Paradigms, Methods, and Failure Modes](https://arxiv.org/abs/2606.11470v2)** | 2026-08-10 |  |
 | **[Gryphon-v2: One Model in Place of a Cascade - Generate-and-Rank Recommender with Rollout Distillation](https://arxiv.org/abs/2608.06213v1)** | 2026-08-06 |  |
 | **[Learning from Failures: Retrieval-Centric CoT via Hard Negatives for Unified Multimodal Retrieval](https://arxiv.org/abs/2608.06060v1)** | 2026-08-06 | <details><summary>26 pa...</summary><p>26 pages,10 figures,14 Tables</p></details> |
 | **[Agent-Based Test Assertion Generation via Diverse Perspective Aggregation](https://arxiv.org/abs/2608.05822v1)** | 2026-08-06 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[LLM-Based Generative Retrieval for Snapchat Content Recommendation](https://arxiv.org/abs/2607.28895v1)** | 2026-07-30 |  |
 | **[MemeBench: What LVLMs Miss When Interpreting Culture-Dependent Memes](https://arxiv.org/abs/2607.27798v1)** | 2026-07-30 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, and 13 tables</p></details> |
 | **[Improving Item Discoverability in e-Commerce Search via Related Intent Generation](https://arxiv.org/abs/2607.27172v1)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted to KDD 2026 TSMO</p></details> |
-| **[Multi-Decoder OneRec: Controllable Generative Retrieval for Multi-Objective Industrial Recommendation](https://arxiv.org/abs/2607.26500v1)** | 2026-07-29 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 11 tables, 2 algorithms</p></details> |
 
