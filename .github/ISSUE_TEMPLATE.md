@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 13, 2026
+title: Latest 15 Papers - August 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,8 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sona Technical Report](https://arxiv.org/abs/2608.11015v1)** | 2026-08-11 |  |
+| **[Sona Technical Report](https://arxiv.org/abs/2608.11015v2)** | 2026-08-12 |  |
+| **[HCGRec: Hint-Conditioned Generative Recommendation with Semantic IDs](https://arxiv.org/abs/2608.11980v1)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted by CIKM 2026</p></details> |
 | **[FedCGR: Federated Cross-Domain Generative Recommendation](https://arxiv.org/abs/2608.10929v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026. 10 pages, 5 figures, 6 tables</p></details> |
 | **[MERGE: Next-Generation Item Indexing Paradigm for Large-Scale Streaming Recommendation](https://arxiv.org/abs/2601.20199v2)** | 2026-08-11 | Accepted by CIKM'26 |
 | **[SIDInspector: A Mapping-First Diagnostic Resource for Semantic-ID Tokenizers](https://arxiv.org/abs/2606.10375v2)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted to CIKM 2026 Resource Track</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Do LLM Recommenders Know When They're Hallucinating? Auditing Confidence Calibration in Catalog Faithfulness](https://arxiv.org/abs/2608.10008v1)** | 2026-08-07 |  |
 | **[Hierarchical Quantization with Domain-Adaptive Sparse Routing for Generative Cross-Domain Recommendation](https://arxiv.org/abs/2608.06997v1)** | 2026-08-07 |  |
 | **[Towards Generalizable and Efficient Large-Scale Generative Recommenders](https://arxiv.org/abs/2605.23312v2)** | 2026-08-06 | <details><summary>RecSy...</summary><p>RecSys '26, 20th ACM Conference on Recommender Systems</p></details> |
-| **[On the uncertainty from the first-stage estimation of prognostic covariate adjustment in randomized controlled trials](https://arxiv.org/abs/2604.01911v3)** | 2026-08-06 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Token-Level Credit Assignment Optimization for Generative Document Retrieval](https://arxiv.org/abs/2608.12049v1)** | 2026-08-12 |  |
 | **[The Periodic Table of LLM Reasoning: A Structured Survey of Reasoning Paradigms, Methods, and Failure Modes](https://arxiv.org/abs/2606.11470v2)** | 2026-08-10 |  |
 | **[Gryphon-v2: One Model in Place of a Cascade - Generate-and-Rank Recommender with Rollout Distillation](https://arxiv.org/abs/2608.06213v1)** | 2026-08-06 |  |
 | **[Learning from Failures: Retrieval-Centric CoT via Hard Negatives for Unified Multimodal Retrieval](https://arxiv.org/abs/2608.06060v1)** | 2026-08-06 | <details><summary>26 pa...</summary><p>26 pages,10 figures,14 Tables</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Auditing Semantic Gains in Sequential Recommendation: A Lightweight Recovery Test](https://arxiv.org/abs/2608.01260v1)** | 2026-08-02 |  |
 | **[LLM-Based Generative Retrieval for Snapchat Content Recommendation](https://arxiv.org/abs/2607.28895v1)** | 2026-07-30 |  |
 | **[MemeBench: What LVLMs Miss When Interpreting Culture-Dependent Memes](https://arxiv.org/abs/2607.27798v1)** | 2026-07-30 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, and 13 tables</p></details> |
-| **[Improving Item Discoverability in e-Commerce Search via Related Intent Generation](https://arxiv.org/abs/2607.27172v1)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted to KDD 2026 TSMO</p></details> |
 
