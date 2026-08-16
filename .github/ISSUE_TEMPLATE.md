@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 14, 2026
+title: Latest 15 Papers - August 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DiffGRM: Diffusion-based Generative Recommendation Model](https://arxiv.org/abs/2510.21805v2)** | 2026-08-13 | <details><summary>12 pa...</summary><p>12 pages, 6 figures. Accepted at The ACM Web Conference 2026. Camera-ready version; author list updated to match the published version; presentation revised, results unchanged</p></details> |
+| **[FSGR: Mitigating Token Frequency Bias for Fair SID-Based Generative Recommendation](https://arxiv.org/abs/2608.12845v1)** | 2026-08-13 |  |
 | **[Sona Technical Report](https://arxiv.org/abs/2608.11015v2)** | 2026-08-12 |  |
 | **[HCGRec: Hint-Conditioned Generative Recommendation with Semantic IDs](https://arxiv.org/abs/2608.11980v1)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted by CIKM 2026</p></details> |
 | **[FedCGR: Federated Cross-Domain Generative Recommendation](https://arxiv.org/abs/2608.10929v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026. 10 pages, 5 figures, 6 tables</p></details> |
@@ -19,14 +21,14 @@ labels: documentation
 | **[Fine-grained Semantics Integration for Large Language Model-based Recommendation](https://arxiv.org/abs/2602.22632v3)** | 2026-08-09 |  |
 | **[PushDualGen: Enabling LLMs to Generate Semantic IDs with Interpretable Copy for Industrial Push Recommendation](https://arxiv.org/abs/2608.07989v1)** | 2026-08-08 |  |
 | **[Preserving Item Semantics for Free: Rethinking Token Initialization in LLM-Based Generative Recommendation](https://arxiv.org/abs/2608.07816v1)** | 2026-08-07 |  |
-| **[Do LLM Recommenders Know When They're Hallucinating? Auditing Confidence Calibration in Catalog Faithfulness](https://arxiv.org/abs/2608.10008v1)** | 2026-08-07 |  |
 | **[Hierarchical Quantization with Domain-Adaptive Sparse Routing for Generative Cross-Domain Recommendation](https://arxiv.org/abs/2608.06997v1)** | 2026-08-07 |  |
-| **[Towards Generalizable and Efficient Large-Scale Generative Recommenders](https://arxiv.org/abs/2605.23312v2)** | 2026-08-06 | <details><summary>RecSy...</summary><p>RecSys '26, 20th ACM Conference on Recommender Systems</p></details> |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TopoIntent: Compiling Security Intent into Executable, Compliance-Checked Network Topologies](https://arxiv.org/abs/2608.13389v1)** | 2026-08-13 |  |
 | **[Token-Level Credit Assignment Optimization for Generative Document Retrieval](https://arxiv.org/abs/2608.12049v1)** | 2026-08-12 |  |
+| **[CangjieBench: Benchmarking LLMs on a Low-Resource General-Purpose Programming Language](https://arxiv.org/abs/2603.14501v2)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted by ESEM 2026</p></details> |
 | **[The Periodic Table of LLM Reasoning: A Structured Survey of Reasoning Paradigms, Methods, and Failure Modes](https://arxiv.org/abs/2606.11470v2)** | 2026-08-10 |  |
 | **[Gryphon-v2: One Model in Place of a Cascade - Generate-and-Rank Recommender with Rollout Distillation](https://arxiv.org/abs/2608.06213v1)** | 2026-08-06 |  |
 | **[Learning from Failures: Retrieval-Centric CoT via Hard Negatives for Unified Multimodal Retrieval](https://arxiv.org/abs/2608.06060v1)** | 2026-08-06 | <details><summary>26 pa...</summary><p>26 pages,10 figures,14 Tables</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
 | **[StreamTalk: Streaming Co-Speech Gesture Generation with Key-Pose Anchoring](https://arxiv.org/abs/2608.01643v1)** | 2026-08-03 | ECCV 2026 |
 | **[Auditing Semantic Gains in Sequential Recommendation: A Lightweight Recovery Test](https://arxiv.org/abs/2608.01260v1)** | 2026-08-02 |  |
-| **[LLM-Based Generative Retrieval for Snapchat Content Recommendation](https://arxiv.org/abs/2607.28895v1)** | 2026-07-30 |  |
-| **[MemeBench: What LVLMs Miss When Interpreting Culture-Dependent Memes](https://arxiv.org/abs/2607.27798v1)** | 2026-07-30 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, and 13 tables</p></details> |
 
