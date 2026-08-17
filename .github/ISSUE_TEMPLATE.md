@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 17, 2026
+title: Latest 15 Papers - August 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EchoRec: Multi-Item Prediction-Empowered Generative Recommendation via Cycle-Consistent Preference Alignment](https://arxiv.org/abs/2608.14011v1)** | 2026-08-14 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, Under Review</p></details> |
 | **[DiffGRM: Diffusion-based Generative Recommendation Model](https://arxiv.org/abs/2510.21805v2)** | 2026-08-13 | <details><summary>12 pa...</summary><p>12 pages, 6 figures. Accepted at The ACM Web Conference 2026. Camera-ready version; author list updated to match the published version; presentation revised, results unchanged</p></details> |
 | **[FSGR: Mitigating Token Frequency Bias for Fair SID-Based Generative Recommendation](https://arxiv.org/abs/2608.12845v1)** | 2026-08-13 |  |
 | **[Sona Technical Report](https://arxiv.org/abs/2608.11015v2)** | 2026-08-12 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Fine-grained Semantics Integration for Large Language Model-based Recommendation](https://arxiv.org/abs/2602.22632v3)** | 2026-08-09 |  |
 | **[PushDualGen: Enabling LLMs to Generate Semantic IDs with Interpretable Copy for Industrial Push Recommendation](https://arxiv.org/abs/2608.07989v1)** | 2026-08-08 |  |
 | **[Preserving Item Semantics for Free: Rethinking Token Initialization in LLM-Based Generative Recommendation](https://arxiv.org/abs/2608.07816v1)** | 2026-08-07 |  |
-| **[Hierarchical Quantization with Domain-Adaptive Sparse Routing for Generative Cross-Domain Recommendation](https://arxiv.org/abs/2608.06997v1)** | 2026-08-07 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM-Based Generative Retrieval for Snapchat Content Recommendation](https://arxiv.org/abs/2607.28895v2)** | 2026-08-13 |  |
 | **[TopoIntent: Compiling Security Intent into Executable, Compliance-Checked Network Topologies](https://arxiv.org/abs/2608.13389v1)** | 2026-08-13 |  |
 | **[Token-Level Credit Assignment Optimization for Generative Document Retrieval](https://arxiv.org/abs/2608.12049v1)** | 2026-08-12 |  |
 | **[CangjieBench: Benchmarking LLMs on a Low-Resource General-Purpose Programming Language](https://arxiv.org/abs/2603.14501v2)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted by ESEM 2026</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[SimulRAG: Simulator-based RAG for Grounding LLMs in Long-form Scientific QA](https://arxiv.org/abs/2509.25459v2)** | 2026-08-04 | <details><summary>Haozh...</summary><p>Haozhou Xu and Dongxia Wu are co-first authors</p></details> |
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
 | **[StreamTalk: Streaming Co-Speech Gesture Generation with Key-Pose Anchoring](https://arxiv.org/abs/2608.01643v1)** | 2026-08-03 | ECCV 2026 |
-| **[Auditing Semantic Gains in Sequential Recommendation: A Lightweight Recovery Test](https://arxiv.org/abs/2608.01260v1)** | 2026-08-02 |  |
 
