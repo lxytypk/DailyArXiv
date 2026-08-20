@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 20, 2026
+title: Latest 15 Papers - August 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SIDScope: A Diagnostic Resource for Semantic-ID Interfaces in Generative Recommendation](https://arxiv.org/abs/2608.18779v1)** | 2026-08-19 | <details><summary>Resou...</summary><p>Resource: https://github.com/jdding/sidscope</p></details> |
+| **[MERIT: Efficient In-Place Deletion for Dynamic Graph-Based Approximate Nearest Neighbor Indexes](https://arxiv.org/abs/2607.29173v3)** | 2026-08-19 | 14 pages |
+| **[Semantic Trimming and Auxiliary Multi-step Prediction for Generative Recommendation](https://arxiv.org/abs/2604.05329v2)** | 2026-08-19 | <details><summary>9 pag...</summary><p>9 pages, Under Review</p></details> |
 | **[Once Generated, Ranked: End-to-End Generative Slate Recommendation with Unified Semantic-Collaborative IDs](https://arxiv.org/abs/2608.17613v1)** | 2026-08-18 | 18 pages, 3 figures |
 | **[Decoupled Temporal Encoding for Generative Recommendation](https://arxiv.org/abs/2608.16274v1)** | 2026-08-17 | accepted by CIKM '26 |
 | **[From Token Generation to Item Ranking: Direct Generative Recommendation with Semantic IDs](https://arxiv.org/abs/2602.07847v2)** | 2026-08-16 |  |
@@ -19,13 +22,11 @@ labels: documentation
 | **[Sona Technical Report](https://arxiv.org/abs/2608.11015v2)** | 2026-08-12 |  |
 | **[FedCGR: Federated Cross-Domain Generative Recommendation](https://arxiv.org/abs/2608.10929v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026. 10 pages, 5 figures, 6 tables</p></details> |
 | **[MERGE: Next-Generation Item Indexing Paradigm for Large-Scale Streaming Recommendation](https://arxiv.org/abs/2601.20199v2)** | 2026-08-11 | Accepted by CIKM'26 |
-| **[SIDInspector: A Mapping-First Diagnostic Resource for Semantic-ID Tokenizers](https://arxiv.org/abs/2606.10375v2)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted to CIKM 2026 Resource Track</p></details> |
-| **[CADET: Context-Conditioned Ads CTR Prediction With a Decoder-Only Transformer](https://arxiv.org/abs/2602.11410v2)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted at AdKDD 2026. 7 pages</p></details> |
-| **[Adaptive Semantic Capacity Allocation for Parallel Generative Recommendation](https://arxiv.org/abs/2608.09685v1)** | 2026-08-10 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ICICLE: Expanding Retrieval with In-Context Documents](https://arxiv.org/abs/2605.26902v3)** | 2026-08-19 |  |
 | **[LLM-Based Generative Retrieval for Snapchat Content Recommendation](https://arxiv.org/abs/2607.28895v3)** | 2026-08-18 |  |
 | **[SimulRAG: Simulator-based RAG for Grounding LLMs in Long-form Scientific QA](https://arxiv.org/abs/2509.25459v4)** | 2026-08-18 | <details><summary>Haozh...</summary><p>Haozhou Xu and Dongxia Wu are co-first authors</p></details> |
 | **[Polaris: Learning to Generate Table Descriptions from Retrieval Feedback](https://arxiv.org/abs/2608.17171v1)** | 2026-08-17 | 22 pages, 6 figures |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Agent-Based Test Assertion Generation via Diverse Perspective Aggregation](https://arxiv.org/abs/2608.05822v1)** | 2026-08-06 |  |
 | **[Closing the Indexing-Decoding Gap in Multimodal Generative Retrieval via Prefix Retention Optimization](https://arxiv.org/abs/2606.09241v3)** | 2026-08-05 | <details><summary>29 pa...</summary><p>29 pages, 5 figures; code: https://github.com/layingfish/MGR_PRO</p></details> |
 | **[SurgNarrator: A Generative Retrieval Framework for Surgical Video Understanding](https://arxiv.org/abs/2608.04676v1)** | 2026-08-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
-| **[GRACE: Generative Recommender Acceleration Engine for Real-Time Ads Retrieval](https://arxiv.org/abs/2608.00938v2)** | 2026-08-04 | 13 pages, 3 figures |
 
