@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 21, 2026
+title: Latest 15 Papers - August 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Uniform Token Training: A Multi-Target Framework for Learning Token-Weighted Objectives in Generative Recommenders](https://arxiv.org/abs/2601.17787v2)** | 2026-08-20 | 12 pages, 3 figures |
+| **[Bridging the Structural Gap: Adapting Autoregressive Generation for Recommendation](https://arxiv.org/abs/2607.21028v3)** | 2026-08-20 | 14 pages, 15 figures |
 | **[SIDScope: A Diagnostic Resource for Semantic-ID Interfaces in Generative Recommendation](https://arxiv.org/abs/2608.18779v1)** | 2026-08-19 | <details><summary>Resou...</summary><p>Resource: https://github.com/jdding/sidscope</p></details> |
 | **[MERIT: Efficient In-Place Deletion for Dynamic Graph-Based Approximate Nearest Neighbor Indexes](https://arxiv.org/abs/2607.29173v3)** | 2026-08-19 | 14 pages |
 | **[Semantic Trimming and Auxiliary Multi-step Prediction for Generative Recommendation](https://arxiv.org/abs/2604.05329v2)** | 2026-08-19 | <details><summary>9 pag...</summary><p>9 pages, Under Review</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[DiffGRM: Diffusion-based Generative Recommendation Model](https://arxiv.org/abs/2510.21805v2)** | 2026-08-13 | <details><summary>12 pa...</summary><p>12 pages, 6 figures. Accepted at The ACM Web Conference 2026. Camera-ready version; author list updated to match the published version; presentation revised, results unchanged</p></details> |
 | **[FSGR: Mitigating Token Frequency Bias for Fair SID-Based Generative Recommendation](https://arxiv.org/abs/2608.12845v1)** | 2026-08-13 |  |
 | **[Sona Technical Report](https://arxiv.org/abs/2608.11015v2)** | 2026-08-12 |  |
-| **[FedCGR: Federated Cross-Domain Generative Recommendation](https://arxiv.org/abs/2608.10929v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026. 10 pages, 5 figures, 6 tables</p></details> |
-| **[MERGE: Next-Generation Item Indexing Paradigm for Large-Scale Streaming Recommendation](https://arxiv.org/abs/2601.20199v2)** | 2026-08-11 | Accepted by CIKM'26 |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
