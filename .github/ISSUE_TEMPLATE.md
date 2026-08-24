@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 24, 2026
+title: Latest 15 Papers - August 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From a Static Multi-Level Small Semantic Codebook to a Dynamic Single-Level Large Semantic Codebook for Generative Recommendation](https://arxiv.org/abs/2608.21012v1)** | 2026-08-21 | <details><summary>6 fig...</summary><p>6 figures, 10 tables, and 1 algorithm</p></details> |
+| **[SIREN (Luring LLMs onto the Rocks): PAIR-Driven Preference Manipulation in Web-RAG Recommenders](https://arxiv.org/abs/2607.21951v2)** | 2026-08-21 |  |
+| **[Difficulty-Aware Semantic-ID Optimization for Generative Recommendation](https://arxiv.org/abs/2608.20611v1)** | 2026-08-20 |  |
 | **[Beyond Uniform Token Training: A Multi-Target Framework for Learning Token-Weighted Objectives in Generative Recommenders](https://arxiv.org/abs/2601.17787v2)** | 2026-08-20 | 12 pages, 3 figures |
 | **[Bridging the Structural Gap: Adapting Autoregressive Generation for Recommendation](https://arxiv.org/abs/2607.21028v3)** | 2026-08-20 | 14 pages, 15 figures |
 | **[SIDScope: A Diagnostic Resource for Semantic-ID Interfaces in Generative Recommendation](https://arxiv.org/abs/2608.18779v1)** | 2026-08-19 | <details><summary>Resou...</summary><p>Resource: https://github.com/jdding/sidscope</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Learning from Unreachable Rewards: Hint-Conditioned Reinforcement Learning for Generative Recommendation](https://arxiv.org/abs/2608.11980v2)** | 2026-08-15 | <details><summary>Accep...</summary><p>Accepted by CIKM 2026</p></details> |
 | **[LlamaRec-LKG-RAG: A Single-Pass, Learnable Knowledge Graph-RAG Framework for LLM-Based Ranking](https://arxiv.org/abs/2506.07449v2)** | 2026-08-14 |  |
 | **[EchoRec: Multi-Item Prediction-Empowered Generative Recommendation via Cycle-Consistent Preference Alignment](https://arxiv.org/abs/2608.14011v1)** | 2026-08-14 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, Under Review</p></details> |
-| **[DiffGRM: Diffusion-based Generative Recommendation Model](https://arxiv.org/abs/2510.21805v2)** | 2026-08-13 | <details><summary>12 pa...</summary><p>12 pages, 6 figures. Accepted at The ACM Web Conference 2026. Camera-ready version; author list updated to match the published version; presentation revised, results unchanged</p></details> |
-| **[FSGR: Mitigating Token Frequency Bias for Fair SID-Based Generative Recommendation](https://arxiv.org/abs/2608.12845v1)** | 2026-08-13 |  |
-| **[Sona Technical Report](https://arxiv.org/abs/2608.11015v2)** | 2026-08-12 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
