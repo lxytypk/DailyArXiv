@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 26, 2026
+title: Latest 15 Papers - August 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neurosymbolic Alignment for Physiologically-Safe Clinical Language Models](https://arxiv.org/abs/2608.24534v1)** | 2026-08-25 |  |
+| **[Utilizing subgroup information in random-effects meta-analysis of few studies](https://arxiv.org/abs/2511.15366v2)** | 2026-08-25 | 30 pages, 6 figures |
+| **[TAGR: Temporally Adaptive Generative Recommendation for Industrial Live-Streaming Advertising](https://arxiv.org/abs/2608.24034v1)** | 2026-08-25 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, under review</p></details> |
 | **[Adaptive Item-based Collaborative Structures via Noise Rescheduling in Diffusion for Generative Recommendation](https://arxiv.org/abs/2608.23400v1)** | 2026-08-24 |  |
 | **[When KV Meets Embeddings: Dynamic GPU Memory Allocation for Accelerating Generative Recommender Serving](https://arxiv.org/abs/2605.04450v2)** | 2026-08-24 | Accepted by SC 2026 |
 | **[The Disconnect Between Better Descriptive Reasoning Trace Quality and Recommendation Effectiveness](https://arxiv.org/abs/2608.23154v1)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted at the Recsys'26 Workshop on Agentic and Generative AI for E-Commerce</p></details> |
@@ -19,13 +22,12 @@ labels: documentation
 | **[Bridging the Structural Gap: Adapting Autoregressive Generation for Recommendation](https://arxiv.org/abs/2607.21028v3)** | 2026-08-20 | 14 pages, 15 figures |
 | **[SIDScope: A Diagnostic Resource for Semantic-ID Interfaces in Generative Recommendation](https://arxiv.org/abs/2608.18779v1)** | 2026-08-19 | <details><summary>Resou...</summary><p>Resource: https://github.com/jdding/sidscope</p></details> |
 | **[MERIT: Efficient In-Place Deletion for Dynamic Graph-Based Approximate Nearest Neighbor Indexes](https://arxiv.org/abs/2607.29173v3)** | 2026-08-19 | 14 pages |
-| **[Semantic Trimming and Auxiliary Multi-step Prediction for Generative Recommendation](https://arxiv.org/abs/2604.05329v2)** | 2026-08-19 | <details><summary>9 pag...</summary><p>9 pages, Under Review</p></details> |
-| **[Once Generated, Ranked: End-to-End Generative Slate Recommendation with Unified Semantic-Collaborative IDs](https://arxiv.org/abs/2608.17613v1)** | 2026-08-18 | 18 pages, 3 figures |
-| **[Decoupled Temporal Encoding for Generative Recommendation](https://arxiv.org/abs/2608.16274v1)** | 2026-08-17 | accepted by CIKM '26 |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PRQ-KMeans: Projection Residual Quantization for Semantic ID Tokenization](https://arxiv.org/abs/2608.24207v1)** | 2026-08-25 |  |
+| **[CodeHID: Learning an Addressable Hierarchical Code Index for Generative Code Retrieval](https://arxiv.org/abs/2608.24089v1)** | 2026-08-25 | 10 pages, 4 figures |
 | **[Token-Level Credit Assignment Optimization for Generative Document Retrieval](https://arxiv.org/abs/2608.12049v2)** | 2026-08-24 | <details><summary>accep...</summary><p>accepted by CIKM 2026</p></details> |
 | **[GRAFT: Graph-Distilled Generative Retrieval for Facet-Aware Scientific Literature Exploration](https://arxiv.org/abs/2608.22381v1)** | 2026-08-23 |  |
 | **[MixLoRA-DSI: Dynamically Expandable Mixture-of-LoRA Experts for Rehearsal-Free Generative Retrieval over Dynamic Corpora](https://arxiv.org/abs/2507.09924v2)** | 2026-08-22 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference. Camera-ready version. Code is available at https://github.com/LouisDo2108/MixLoRA-DSI</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[CangjieBench: Benchmarking LLMs on a Low-Resource General-Purpose Programming Language](https://arxiv.org/abs/2603.14501v2)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted by ESEM 2026</p></details> |
 | **[The Periodic Table of LLM Reasoning: A Structured Survey of Reasoning Paradigms, Methods, and Failure Modes](https://arxiv.org/abs/2606.11470v2)** | 2026-08-10 |  |
 | **[Gryphon-v2: One Model in Place of a Cascade - Generate-and-Rank Recommender with Rollout Distillation](https://arxiv.org/abs/2608.06213v1)** | 2026-08-06 |  |
-| **[Learning from Failures: Retrieval-Centric CoT via Hard Negatives for Unified Multimodal Retrieval](https://arxiv.org/abs/2608.06060v1)** | 2026-08-06 | <details><summary>26 pa...</summary><p>26 pages,10 figures,14 Tables</p></details> |
-| **[Agent-Based Test Assertion Generation via Diverse Perspective Aggregation](https://arxiv.org/abs/2608.05822v1)** | 2026-08-06 |  |
 
