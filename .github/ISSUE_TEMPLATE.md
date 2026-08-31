@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 31, 2026
+title: Latest 15 Papers - September 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Semantic Trimming and Auxiliary Multi-step Prediction for Generative Recommendation](https://arxiv.org/abs/2604.05329v3)** | 2026-08-28 | <details><summary>9 pag...</summary><p>9 pages, Under Review</p></details> |
 | **[Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation](https://arxiv.org/abs/2604.02324v2)** | 2026-08-27 |  |
 | **[Neurosymbolic Alignment for Physiologically-Safe Clinical Language Models](https://arxiv.org/abs/2608.24534v1)** | 2026-08-25 |  |
 | **[Utilizing subgroup information in random-effects meta-analysis of few studies](https://arxiv.org/abs/2511.15366v2)** | 2026-08-25 | 30 pages, 6 figures |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Difficulty-Aware Semantic-ID Optimization for Generative Recommendation](https://arxiv.org/abs/2608.20611v1)** | 2026-08-20 |  |
 | **[Beyond Uniform Token Training: A Multi-Target Framework for Learning Token-Weighted Objectives in Generative Recommenders](https://arxiv.org/abs/2601.17787v2)** | 2026-08-20 | 12 pages, 3 figures |
 | **[Bridging the Structural Gap: Adapting Autoregressive Generation for Recommendation](https://arxiv.org/abs/2607.21028v3)** | 2026-08-20 | 14 pages, 15 figures |
-| **[SIDScope: A Diagnostic Resource for Semantic-ID Interfaces in Generative Recommendation](https://arxiv.org/abs/2608.18779v1)** | 2026-08-19 | <details><summary>Resou...</summary><p>Resource: https://github.com/jdding/sidscope</p></details> |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Semantic IDs: Encoding Business-Value Ranking into Document Identifiers for Generative Retrieval](https://arxiv.org/abs/2607.11392v2)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 Industry Track</p></details> |
 | **[Modular Expert Merging for Biomedical Retrieval](https://arxiv.org/abs/2602.04731v2)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026</p></details> |
 | **[PailitaoGR: Latent Think-with-Images for Generative Image Retrieval](https://arxiv.org/abs/2608.26658v1)** | 2026-08-27 |  |
 | **[PRQ-KMeans: Projection Residual Quantization for Semantic ID Tokenization](https://arxiv.org/abs/2608.24207v1)** | 2026-08-25 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[ClockRoPE: Random Fourier Rotations for Temporal Routine Modeling](https://arxiv.org/abs/2607.26369v2)** | 2026-08-17 |  |
 | **[Misconception Diagnosis From Student-Tutor Dialogue: Generate, Retrieve, Rerank](https://arxiv.org/abs/2602.02414v2)** | 2026-08-15 | <details><summary>Publi...</summary><p>Published as Oral Paper at Learning at Scale, 2026. Link: https://dl.acm.org/doi/10.1145/3774398.3811609. 21 pages, 8 figures, 8 tables. Joshua Mitton and Prarthana Bhattacharyya contributed equally to this paper</p></details> |
 | **[TopoIntent: Compiling Security Intent into Executable, Compliance-Checked Network Topologies](https://arxiv.org/abs/2608.13389v1)** | 2026-08-13 |  |
-| **[CangjieBench: Benchmarking LLMs on a Low-Resource General-Purpose Programming Language](https://arxiv.org/abs/2603.14501v2)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted by ESEM 2026</p></details> |
 
