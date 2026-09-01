@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 01, 2026
+title: Latest 15 Papers - September 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fund2Persona: A Framework for Building and Refining Financial Advisor Personas from Fund Disclosure Data](https://arxiv.org/abs/2606.29793v3)** | 2026-08-31 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 18 tables. EMNLP 2026 Industry Track</p></details> |
+| **[GeoGR: Enabling Spatio-Temporal Aware Industrial-scale Generative POI Recommendations](https://arxiv.org/abs/2602.10411v2)** | 2026-08-31 |  |
+| **[SPARC: Sequence-aware Progressive Attribute Routing and Compression Framework for Generative Recommendation](https://arxiv.org/abs/2607.25339v2)** | 2026-08-31 |  |
+| **[CoFiRec: Coarse-to-Fine Tokenization for Generative Recommendation](https://arxiv.org/abs/2511.22707v2)** | 2026-08-30 | RecSys 2026 |
+| **[TAAL: Mitigating Early Beam Pruning in Generative Recommendation via Temporal Autoregressive Alignment](https://arxiv.org/abs/2608.29179v1)** | 2026-08-29 |  |
+| **[Off-Policy Evaluation for Semantic ID Recommenders: Does the Model's Own Code Hierarchy Help?](https://arxiv.org/abs/2608.28905v1)** | 2026-08-28 |  |
 | **[Semantic Trimming and Auxiliary Multi-step Prediction for Generative Recommendation](https://arxiv.org/abs/2604.05329v3)** | 2026-08-28 | <details><summary>9 pag...</summary><p>9 pages, Under Review</p></details> |
 | **[Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation](https://arxiv.org/abs/2604.02324v2)** | 2026-08-27 |  |
 | **[Neurosymbolic Alignment for Physiologically-Safe Clinical Language Models](https://arxiv.org/abs/2608.24534v1)** | 2026-08-25 |  |
@@ -16,16 +22,15 @@ labels: documentation
 | **[When KV Meets Embeddings: Dynamic GPU Memory Allocation for Accelerating Generative Recommender Serving](https://arxiv.org/abs/2605.04450v2)** | 2026-08-24 | Accepted by SC 2026 |
 | **[The Disconnect Between Better Descriptive Reasoning Trace Quality and Recommendation Effectiveness](https://arxiv.org/abs/2608.23154v1)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted at the Recsys'26 Workshop on Agentic and Generative AI for E-Commerce</p></details> |
 | **[Rethinking Item Tokenization in Generative Recommenders: From Fixed Atoms to Semantic Subwords](https://arxiv.org/abs/2608.22734v1)** | 2026-08-24 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 8 tables. Accepted to CIKM 2026</p></details> |
-| **[Faithful Evaluation of Semantic-ID Tokenizers for Generative Recommendation](https://arxiv.org/abs/2605.25330v2)** | 2026-08-22 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026 (Full Research Paper). Code: https://github.com/Nishikata97/CollisionGenRec</p></details> |
-| **[From a Static Multi-Level Small Semantic Codebook to a Dynamic Single-Level Large Semantic Codebook for Generative Recommendation](https://arxiv.org/abs/2608.21012v1)** | 2026-08-21 | <details><summary>6 fig...</summary><p>6 figures, 10 tables, and 1 algorithm</p></details> |
-| **[SIREN (Luring LLMs onto the Rocks): PAIR-Driven Preference Manipulation in Web-RAG Recommenders](https://arxiv.org/abs/2607.21951v2)** | 2026-08-21 |  |
-| **[Difficulty-Aware Semantic-ID Optimization for Generative Recommendation](https://arxiv.org/abs/2608.20611v1)** | 2026-08-20 |  |
-| **[Beyond Uniform Token Training: A Multi-Target Framework for Learning Token-Weighted Objectives in Generative Recommenders](https://arxiv.org/abs/2601.17787v2)** | 2026-08-20 | 12 pages, 3 figures |
-| **[Bridging the Structural Gap: Adapting Autoregressive Generation for Recommendation](https://arxiv.org/abs/2607.21028v3)** | 2026-08-20 | 14 pages, 15 figures |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generative Retrieval for E-commerce: Jointly Learning Embedding and Codebook with Same Product Cluster](https://arxiv.org/abs/2608.30606v1)** | 2026-08-31 |  |
+| **[Preference Shapes Relevance: Cross-component Hierarchical Semantic Alignment for Personalized Generative Retrieval](https://arxiv.org/abs/2608.30553v1)** | 2026-08-31 | <details><summary>Findi...</summary><p>Findings of EMNLP 2026. 22 pages, 10 figures, 7 tables</p></details> |
+| **[HF-SID: High-Fidelity Semantic IDs for Generative Retrieval in Location-Based Services](https://arxiv.org/abs/2608.30479v1)** | 2026-08-31 |  |
+| **[Unified-MAS: Universally Generating Domain-Specific Nodes for Empowering Automatic Multi-Agent Systems](https://arxiv.org/abs/2603.21475v2)** | 2026-08-31 | <details><summary>Code ...</summary><p>Code is available at https://github.com/linhh29/Unified-MAS</p></details> |
+| **[ICEGR: An Intent-Coherent End-to-End Generative Retrieval Framework for E-commerce Search](https://arxiv.org/abs/2608.29652v1)** | 2026-08-30 |  |
 | **[Beyond Semantic IDs: Encoding Business-Value Ranking into Document Identifiers for Generative Retrieval](https://arxiv.org/abs/2607.11392v2)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 Industry Track</p></details> |
 | **[Modular Expert Merging for Biomedical Retrieval](https://arxiv.org/abs/2602.04731v2)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026</p></details> |
 | **[PailitaoGR: Latent Think-with-Images for Generative Image Retrieval](https://arxiv.org/abs/2608.26658v1)** | 2026-08-27 |  |
@@ -36,9 +41,4 @@ labels: documentation
 | **[MixLoRA-DSI: Dynamically Expandable Mixture-of-LoRA Experts for Rehearsal-Free Generative Retrieval over Dynamic Corpora](https://arxiv.org/abs/2507.09924v2)** | 2026-08-22 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference. Camera-ready version. Code is available at https://github.com/LouisDo2108/MixLoRA-DSI</p></details> |
 | **[ICICLE: Expanding Retrieval with In-Context Documents](https://arxiv.org/abs/2605.26902v3)** | 2026-08-19 |  |
 | **[LLM-Based Generative Retrieval for Snapchat Content Recommendation](https://arxiv.org/abs/2607.28895v3)** | 2026-08-18 |  |
-| **[SimulRAG: Simulator-based RAG for Grounding LLMs in Long-form Scientific QA](https://arxiv.org/abs/2509.25459v4)** | 2026-08-18 | <details><summary>Haozh...</summary><p>Haozhou Xu and Dongxia Wu are co-first authors</p></details> |
-| **[Polaris: Learning to Generate Table Descriptions from Retrieval Feedback](https://arxiv.org/abs/2608.17171v1)** | 2026-08-17 | 22 pages, 6 figures |
-| **[ClockRoPE: Random Fourier Rotations for Temporal Routine Modeling](https://arxiv.org/abs/2607.26369v2)** | 2026-08-17 |  |
-| **[Misconception Diagnosis From Student-Tutor Dialogue: Generate, Retrieve, Rerank](https://arxiv.org/abs/2602.02414v2)** | 2026-08-15 | <details><summary>Publi...</summary><p>Published as Oral Paper at Learning at Scale, 2026. Link: https://dl.acm.org/doi/10.1145/3774398.3811609. 21 pages, 8 figures, 8 tables. Joshua Mitton and Prarthana Bhattacharyya contributed equally to this paper</p></details> |
-| **[TopoIntent: Compiling Security Intent into Executable, Compliance-Checked Network Topologies](https://arxiv.org/abs/2608.13389v1)** | 2026-08-13 |  |
 
