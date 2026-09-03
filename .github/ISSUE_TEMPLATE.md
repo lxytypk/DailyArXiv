@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 03, 2026
+title: Latest 15 Papers - September 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,14 +26,14 @@ labels: documentation
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Modular Expert Merging for Biomedical Retrieval](https://arxiv.org/abs/2602.04731v3)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026</p></details> |
+| **[ICEGR: An Intent-Coherent End-to-End Generative Retrieval Framework for E-commerce Search](https://arxiv.org/abs/2608.29652v2)** | 2026-09-02 | 12 pages, 5 figures |
 | **[It Takes Two to Match: Co-Evolving Generative Retriever with Reinforcement Learning](https://arxiv.org/abs/2609.00638v1)** | 2026-09-01 |  |
 | **[Generative Retrieval for E-commerce: Jointly Learning Embedding and Codebook with Same Product Cluster](https://arxiv.org/abs/2608.30606v1)** | 2026-08-31 |  |
 | **[Preference Shapes Relevance: Cross-component Hierarchical Semantic Alignment for Personalized Generative Retrieval](https://arxiv.org/abs/2608.30553v1)** | 2026-08-31 | <details><summary>Findi...</summary><p>Findings of EMNLP 2026. 22 pages, 10 figures, 7 tables</p></details> |
 | **[HF-SID: High-Fidelity Semantic IDs for Generative Retrieval in Location-Based Services](https://arxiv.org/abs/2608.30479v1)** | 2026-08-31 |  |
 | **[Unified-MAS: Universally Generating Domain-Specific Nodes for Empowering Automatic Multi-Agent Systems](https://arxiv.org/abs/2603.21475v2)** | 2026-08-31 | <details><summary>Code ...</summary><p>Code is available at https://github.com/linhh29/Unified-MAS</p></details> |
-| **[ICEGR: An Intent-Coherent End-to-End Generative Retrieval Framework for E-commerce Search](https://arxiv.org/abs/2608.29652v1)** | 2026-08-30 |  |
 | **[Beyond Semantic IDs: Encoding Business-Value Ranking into Document Identifiers for Generative Retrieval](https://arxiv.org/abs/2607.11392v2)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 Industry Track</p></details> |
-| **[Modular Expert Merging for Biomedical Retrieval](https://arxiv.org/abs/2602.04731v2)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026</p></details> |
 | **[PailitaoGR: Latent Think-with-Images for Generative Image Retrieval](https://arxiv.org/abs/2608.26658v1)** | 2026-08-27 |  |
 | **[PRQ-KMeans: Projection Residual Quantization for Semantic ID Tokenization](https://arxiv.org/abs/2608.24207v1)** | 2026-08-25 |  |
 | **[CodeHID: Learning an Addressable Hierarchical Code Index for Generative Code Retrieval](https://arxiv.org/abs/2608.24089v1)** | 2026-08-25 | 10 pages, 4 figures |
