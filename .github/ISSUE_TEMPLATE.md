@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 10, 2026
+title: Latest 15 Papers - September 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LoopMemGR: From Behavior Logs to Evolving Memory for Generative Recommendation](https://arxiv.org/abs/2607.27647v2)** | 2026-09-09 |  |
 | **[Fund2Persona: A Framework for Building and Refining Financial Advisor Personas from Fund Disclosure Data](https://arxiv.org/abs/2606.29793v4)** | 2026-09-07 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Industry Track</p></details> |
 | **[Enabling High-Bandwidth Flash for Generative Recommendation Serving with Write-Aware KV Cache Policy](https://arxiv.org/abs/2609.07175v1)** | 2026-09-07 | 5 pages, 7 figures |
 | **[Decoupled Temporal Encoding for Generative Recommendation](https://arxiv.org/abs/2608.16274v2)** | 2026-09-07 | accepted by CIKM '26 |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Semantic Trimming and Auxiliary Multi-step Prediction for Generative Recommendation](https://arxiv.org/abs/2604.05329v3)** | 2026-08-28 | <details><summary>9 pag...</summary><p>9 pages, Under Review</p></details> |
 | **[Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation](https://arxiv.org/abs/2604.02324v2)** | 2026-08-27 |  |
 | **[Neurosymbolic Alignment for Physiologically-Safe Clinical Language Models](https://arxiv.org/abs/2608.24534v1)** | 2026-08-25 |  |
-| **[Utilizing subgroup information in random-effects meta-analysis of few studies](https://arxiv.org/abs/2511.15366v2)** | 2026-08-25 | 30 pages, 6 figures |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
