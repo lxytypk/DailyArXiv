@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 15, 2026
+title: Latest 15 Papers - September 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Self-Evolving Memory for Generative Recommendation](https://arxiv.org/abs/2609.15598v1)** | 2026-09-14 | Accepted to CIKM'26 |
+| **[Addressing Cross-Stage Decoupling of Semantic and Collaborative Signals in Generative Recommendation](https://arxiv.org/abs/2609.13678v1)** | 2026-09-12 | <details><summary>Accep...</summary><p>Accepted by RecSys 2026 Main Track</p></details> |
+| **[PCGNet: Unifying Shared and Specific Information for Fashion Matching Recommendations](https://arxiv.org/abs/2609.13339v1)** | 2026-09-11 |  |
 | **[Preference-Drift-Aware Subsequence Learning and Hierarchical Context Fusion for Long-Sequence Generative Recommendation](https://arxiv.org/abs/2609.12556v1)** | 2026-09-11 |  |
 | **[OneLA: Scaling Linear-Attention Decoding to Large Beams in Generative Recommendation](https://arxiv.org/abs/2609.12399v1)** | 2026-09-11 |  |
 | **[Discretization in covariate-adaptive randomization: gains and losses](https://arxiv.org/abs/2609.11012v1)** | 2026-09-10 |  |
@@ -19,13 +22,12 @@ labels: documentation
 | **[TGR: Advancing Industrial Recommendation from Generative-Paradigm Ranking toward Unified Generation and Reasoning](https://arxiv.org/abs/2609.00986v1)** | 2026-09-01 |  |
 | **[GeoGR: Enabling Spatio-Temporal Aware Industrial-scale Generative POI Recommendations](https://arxiv.org/abs/2602.10411v2)** | 2026-08-31 |  |
 | **[SPARC: Sequence-aware Progressive Attribute Routing and Compression Framework for Generative Recommendation](https://arxiv.org/abs/2607.25339v2)** | 2026-08-31 |  |
-| **[CoFiRec: Coarse-to-Fine Tokenization for Generative Recommendation](https://arxiv.org/abs/2511.22707v2)** | 2026-08-30 | RecSys 2026 |
-| **[TAAL: Mitigating Early Beam Pruning in Generative Recommendation via Temporal Autoregressive Alignment](https://arxiv.org/abs/2608.29179v1)** | 2026-08-29 |  |
-| **[Off-Policy Evaluation for Semantic ID Recommenders: Does the Model's Own Code Hierarchy Help?](https://arxiv.org/abs/2608.28905v1)** | 2026-08-28 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Attention Calibration for Position-Fair Dense Retrieval](https://arxiv.org/abs/2606.02737v2)** | 2026-09-14 |  |
+| **[VARG: Value-Aware and Ranking-Aligned Generative Retrieval for Dynamic E-commerce Search](https://arxiv.org/abs/2609.14493v1)** | 2026-09-13 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 7 tables</p></details> |
 | **[Generative Retrieval for Unsupervised Text-Based Person Search](https://arxiv.org/abs/2609.12965v1)** | 2026-09-11 | <details><summary>17 pa...</summary><p>17 pages, 10 figures. Accepted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence</p></details> |
 | **[ICEGR: An Intent-Coherent End-to-End Generative Retrieval Framework for E-commerce Search](https://arxiv.org/abs/2608.29652v3)** | 2026-09-10 | 12 pages, 5 figures |
 | **[PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving](https://arxiv.org/abs/2609.08965v1)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference). 35 pages including appendix</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Generative Retrieval for E-commerce: Jointly Learning Embedding and Codebook with Same Product Cluster](https://arxiv.org/abs/2608.30606v1)** | 2026-08-31 |  |
 | **[Preference Shapes Relevance: Cross-component Hierarchical Semantic Alignment for Personalized Generative Retrieval](https://arxiv.org/abs/2608.30553v1)** | 2026-08-31 | <details><summary>Findi...</summary><p>Findings of EMNLP 2026. 22 pages, 10 figures, 7 tables</p></details> |
 | **[HF-SID: High-Fidelity Semantic IDs for Generative Retrieval in Location-Based Services](https://arxiv.org/abs/2608.30479v1)** | 2026-08-31 |  |
-| **[Unified-MAS: Universally Generating Domain-Specific Nodes for Empowering Automatic Multi-Agent Systems](https://arxiv.org/abs/2603.21475v2)** | 2026-08-31 | <details><summary>Code ...</summary><p>Code is available at https://github.com/linhh29/Unified-MAS</p></details> |
-| **[Beyond Semantic IDs: Encoding Business-Value Ranking into Document Identifiers for Generative Retrieval](https://arxiv.org/abs/2607.11392v2)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 Industry Track</p></details> |
 
