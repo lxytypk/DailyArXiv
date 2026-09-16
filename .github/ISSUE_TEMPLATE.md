@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 16, 2026
+title: Latest 15 Papers - September 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,10 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReliGRec: Reliability-Oriented LLM-Based Generative Recommendation via User-Risk-Aware Prompt Routing](https://arxiv.org/abs/2609.16560v1)** | 2026-09-15 |  |
+| **[Evaluating Brand Retrieval and Ranking in Large Language Model Recommendations](https://arxiv.org/abs/2609.16304v1)** | 2026-09-14 |  |
 | **[Self-Evolving Memory for Generative Recommendation](https://arxiv.org/abs/2609.15598v1)** | 2026-09-14 | Accepted to CIKM'26 |
+| **[Efficient Multimodal Generative Recommendation with Latent Narrative Reasoning](https://arxiv.org/abs/2609.16070v1)** | 2026-09-13 |  |
 | **[Addressing Cross-Stage Decoupling of Semantic and Collaborative Signals in Generative Recommendation](https://arxiv.org/abs/2609.13678v1)** | 2026-09-12 | <details><summary>Accep...</summary><p>Accepted by RecSys 2026 Main Track</p></details> |
 | **[PCGNet: Unifying Shared and Specific Information for Fashion Matching Recommendations](https://arxiv.org/abs/2609.13339v1)** | 2026-09-11 |  |
 | **[Preference-Drift-Aware Subsequence Learning and Hierarchical Context Fusion for Long-Sequence Generative Recommendation](https://arxiv.org/abs/2609.12556v1)** | 2026-09-11 |  |
@@ -19,14 +22,11 @@ labels: documentation
 | **[Decoupled Temporal Encoding for Generative Recommendation](https://arxiv.org/abs/2608.16274v2)** | 2026-09-07 | accepted by CIKM '26 |
 | **[EPIC: Explicit Posterior Item Conditioning for Semantic ID Diffusion Recommendation](https://arxiv.org/abs/2609.03522v1)** | 2026-09-03 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, 3 tables</p></details> |
 | **[HypRQ-VAE: Hyperbolic Item Indexing for Long-Tail-Aware Generative Recommender Systems](https://arxiv.org/abs/2609.03369v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted for publication in the 2026 IEEE International Conference on Data Mining (ICDM 2026)</p></details> |
-| **[TGR: Advancing Industrial Recommendation from Generative-Paradigm Ranking toward Unified Generation and Reasoning](https://arxiv.org/abs/2609.00986v1)** | 2026-09-01 |  |
-| **[GeoGR: Enabling Spatio-Temporal Aware Industrial-scale Generative POI Recommendations](https://arxiv.org/abs/2602.10411v2)** | 2026-08-31 |  |
-| **[SPARC: Sequence-aware Progressive Attribute Routing and Compression Framework for Generative Recommendation](https://arxiv.org/abs/2607.25339v2)** | 2026-08-31 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Attention Calibration for Position-Fair Dense Retrieval](https://arxiv.org/abs/2606.02737v2)** | 2026-09-14 |  |
+| **[Attention Calibration for Position-Fair Dense Retrieval](https://arxiv.org/abs/2606.02737v3)** | 2026-09-15 |  |
 | **[VARG: Value-Aware and Ranking-Aligned Generative Retrieval for Dynamic E-commerce Search](https://arxiv.org/abs/2609.14493v1)** | 2026-09-13 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 7 tables</p></details> |
 | **[Generative Retrieval for Unsupervised Text-Based Person Search](https://arxiv.org/abs/2609.12965v1)** | 2026-09-11 | <details><summary>17 pa...</summary><p>17 pages, 10 figures. Accepted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence</p></details> |
 | **[ICEGR: An Intent-Coherent End-to-End Generative Retrieval Framework for E-commerce Search](https://arxiv.org/abs/2608.29652v3)** | 2026-09-10 | 12 pages, 5 figures |
