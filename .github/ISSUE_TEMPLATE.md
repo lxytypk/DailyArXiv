@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 17, 2026
+title: Latest 15 Papers - September 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Time-Aware Diffusion based on Preference Disentanglement for Generative Recommendation](https://arxiv.org/abs/2606.01670v2)** | 2026-09-16 | <details><summary>We wa...</summary><p>We wanna re-design the whole methodology and paper-writing</p></details> |
+| **[LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era](https://arxiv.org/abs/2609.18148v1)** | 2026-09-16 |  |
+| **[Bumblebee: Interleaved Mixed-Layer Building Blocks for Large-Scale Recommendation Systems](https://arxiv.org/abs/2607.24804v3)** | 2026-09-15 |  |
 | **[ReliGRec: Reliability-Oriented LLM-Based Generative Recommendation via User-Risk-Aware Prompt Routing](https://arxiv.org/abs/2609.16560v1)** | 2026-09-15 |  |
 | **[Evaluating Brand Retrieval and Ranking in Large Language Model Recommendations](https://arxiv.org/abs/2609.16304v1)** | 2026-09-14 |  |
 | **[Self-Evolving Memory for Generative Recommendation](https://arxiv.org/abs/2609.15598v1)** | 2026-09-14 | Accepted to CIKM'26 |
@@ -19,9 +22,6 @@ labels: documentation
 | **[LoopMemGR: From Behavior Logs to Evolving Memory for Generative Recommendation](https://arxiv.org/abs/2607.27647v2)** | 2026-09-09 |  |
 | **[Fund2Persona: A Framework for Building and Refining Financial Advisor Personas from Fund Disclosure Data](https://arxiv.org/abs/2606.29793v4)** | 2026-09-07 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Industry Track</p></details> |
 | **[Enabling High-Bandwidth Flash for Generative Recommendation Serving with Write-Aware KV Cache Policy](https://arxiv.org/abs/2609.07175v1)** | 2026-09-07 | 5 pages, 7 figures |
-| **[Decoupled Temporal Encoding for Generative Recommendation](https://arxiv.org/abs/2608.16274v2)** | 2026-09-07 | accepted by CIKM '26 |
-| **[EPIC: Explicit Posterior Item Conditioning for Semantic ID Diffusion Recommendation](https://arxiv.org/abs/2609.03522v1)** | 2026-09-03 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, 3 tables</p></details> |
-| **[HypRQ-VAE: Hyperbolic Item Indexing for Long-Tail-Aware Generative Recommender Systems](https://arxiv.org/abs/2609.03369v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted for publication in the 2026 IEEE International Conference on Data Mining (ICDM 2026)</p></details> |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
