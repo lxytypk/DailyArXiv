@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 21, 2026
+title: Latest 15 Papers - September 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts](https://arxiv.org/abs/2609.21346v1)** | 2026-09-18 |  |
+| **[IntHQ: Task-Interactive Hierarchical Query on Dual-Stream Representations for Generative Recommendation](https://arxiv.org/abs/2608.09634v2)** | 2026-09-18 |  |
 | **[Time-Aware Diffusion based on Preference Disentanglement for Generative Recommendation](https://arxiv.org/abs/2606.01670v3)** | 2026-09-17 | <details><summary>We ar...</summary><p>We are withdrawing this version because the study is undergoing a fundamental reconceptualization involving its research motivation, methodological design, and experimental validation. As a result, the current version no longer accurately represents the scope and technical content of the work</p></details> |
 | **[LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era](https://arxiv.org/abs/2609.18148v1)** | 2026-09-16 |  |
 | **[Bumblebee: Interleaved Mixed-Layer Building Blocks for Large-Scale Recommendation Systems](https://arxiv.org/abs/2607.24804v3)** | 2026-09-15 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[OneLA: Scaling Linear-Attention Decoding to Large Beams in Generative Recommendation](https://arxiv.org/abs/2609.12399v1)** | 2026-09-11 |  |
 | **[Discretization in covariate-adaptive randomization: gains and losses](https://arxiv.org/abs/2609.11012v1)** | 2026-09-10 |  |
 | **[LoopMemGR: From Behavior Logs to Evolving Memory for Generative Recommendation](https://arxiv.org/abs/2607.27647v2)** | 2026-09-09 |  |
-| **[Fund2Persona: A Framework for Building and Refining Financial Advisor Personas from Fund Disclosure Data](https://arxiv.org/abs/2606.29793v4)** | 2026-09-07 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Industry Track</p></details> |
-| **[Enabling High-Bandwidth Flash for Generative Recommendation Serving with Write-Aware KV Cache Policy](https://arxiv.org/abs/2609.07175v1)** | 2026-09-07 | 5 pages, 7 figures |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
