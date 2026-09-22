@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 22, 2026
+title: Latest 15 Papers - September 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,11 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What Makes a Good Semantic ID for Generative Recommendation? A Reproducibility Study](https://arxiv.org/abs/2609.24430v1)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted by SIGIR-AP 2026</p></details> |
+| **[LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era](https://arxiv.org/abs/2609.18148v2)** | 2026-09-20 |  |
 | **[IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts](https://arxiv.org/abs/2609.21346v1)** | 2026-09-18 |  |
 | **[IntHQ: Task-Interactive Hierarchical Query on Dual-Stream Representations for Generative Recommendation](https://arxiv.org/abs/2608.09634v2)** | 2026-09-18 |  |
 | **[Time-Aware Diffusion based on Preference Disentanglement for Generative Recommendation](https://arxiv.org/abs/2606.01670v3)** | 2026-09-17 | <details><summary>We ar...</summary><p>We are withdrawing this version because the study is undergoing a fundamental reconceptualization involving its research motivation, methodological design, and experimental validation. As a result, the current version no longer accurately represents the scope and technical content of the work</p></details> |
-| **[LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era](https://arxiv.org/abs/2609.18148v1)** | 2026-09-16 |  |
 | **[Bumblebee: Interleaved Mixed-Layer Building Blocks for Large-Scale Recommendation Systems](https://arxiv.org/abs/2607.24804v3)** | 2026-09-15 |  |
 | **[ReliGRec: Reliability-Oriented LLM-Based Generative Recommendation via User-Risk-Aware Prompt Routing](https://arxiv.org/abs/2609.16560v1)** | 2026-09-15 |  |
 | **[Evaluating Brand Retrieval and Ranking in Large Language Model Recommendations](https://arxiv.org/abs/2609.16304v1)** | 2026-09-14 |  |
@@ -21,11 +22,13 @@ labels: documentation
 | **[Preference-Drift-Aware Subsequence Learning and Hierarchical Context Fusion for Long-Sequence Generative Recommendation](https://arxiv.org/abs/2609.12556v1)** | 2026-09-11 |  |
 | **[OneLA: Scaling Linear-Attention Decoding to Large Beams in Generative Recommendation](https://arxiv.org/abs/2609.12399v1)** | 2026-09-11 |  |
 | **[Discretization in covariate-adaptive randomization: gains and losses](https://arxiv.org/abs/2609.11012v1)** | 2026-09-10 |  |
-| **[LoopMemGR: From Behavior Logs to Evolving Memory for Generative Recommendation](https://arxiv.org/abs/2607.27647v2)** | 2026-09-09 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[URA-NER: A Unified Retrieval-Augmented Framework with Retrieval Alignment and Uncertainty Reduction for Low-Resource NER](https://arxiv.org/abs/2609.24372v1)** | 2026-09-21 | <details><summary>8 pag...</summary><p>8 pages,3 figures, accepted at IJCNN 2026, conference WCCI 2026</p></details> |
+| **[Retrieval-in-the-Chain: Bootstrapping Large Language Models for Generative Retrieval](https://arxiv.org/abs/2510.13095v3)** | 2026-09-19 |  |
+| **[AlexandriaX 2026: The First Shared Task on Dialectal Arabic Machine Translation](https://arxiv.org/abs/2609.22796v1)** | 2026-09-19 | <details><summary>To Ap...</summary><p>To Appear in ArabicNLP 2026, resources available in the following project page: https://alexandriax.dlnlp.ai</p></details> |
 | **[Attention Calibration for Position-Fair Dense Retrieval](https://arxiv.org/abs/2606.02737v3)** | 2026-09-15 |  |
 | **[VARG: Value-Aware and Ranking-Aligned Generative Retrieval for Dynamic E-commerce Search](https://arxiv.org/abs/2609.14493v1)** | 2026-09-13 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 7 tables</p></details> |
 | **[Generative Retrieval for Unsupervised Text-Based Person Search](https://arxiv.org/abs/2609.12965v1)** | 2026-09-11 | <details><summary>17 pa...</summary><p>17 pages, 10 figures. Accepted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence</p></details> |
@@ -36,9 +39,6 @@ labels: documentation
 | **[Exploring Bottom-Up Clustering for Creating Semantic IDs](https://arxiv.org/abs/2609.08310v1)** | 2026-09-08 | <details><summary>6 Pag...</summary><p>6 Pages, workshop Paper</p></details> |
 | **[WIDE: Wildcard Inference with Dynamic Expansion for Cross-Modal Generative Retrieval](https://arxiv.org/abs/2609.03554v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted to the 34th ACM International Conference on Multimedia (ACM MM 2026). 10 pages, 5 figures</p></details> |
 | **[PRQ-KMeans: Projection Residual Quantization for Semantic ID Tokenization](https://arxiv.org/abs/2608.24207v2)** | 2026-09-03 |  |
+| **[Guiding the coarse levels of semantic IDs makes the fine levels learnable](https://arxiv.org/abs/2609.22227v1)** | 2026-09-03 |  |
 | **[Modular Expert Merging for Biomedical Retrieval](https://arxiv.org/abs/2602.04731v3)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026</p></details> |
-| **[It Takes Two to Match: Co-Evolving Generative Retriever with Reinforcement Learning](https://arxiv.org/abs/2609.00638v1)** | 2026-09-01 |  |
-| **[Generative Retrieval for E-commerce: Jointly Learning Embedding and Codebook with Same Product Cluster](https://arxiv.org/abs/2608.30606v1)** | 2026-08-31 |  |
-| **[Preference Shapes Relevance: Cross-component Hierarchical Semantic Alignment for Personalized Generative Retrieval](https://arxiv.org/abs/2608.30553v1)** | 2026-08-31 | <details><summary>Findi...</summary><p>Findings of EMNLP 2026. 22 pages, 10 figures, 7 tables</p></details> |
-| **[HF-SID: High-Fidelity Semantic IDs for Generative Retrieval in Location-Based Services](https://arxiv.org/abs/2608.30479v1)** | 2026-08-31 |  |
 
