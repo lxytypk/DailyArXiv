@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 25, 2026
+title: Latest 15 Papers - September 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Interests to Semantic IDs: Retrieval-Grounded Credit Assignment for Generative Recommendation](https://arxiv.org/abs/2609.29983v1)** | 2026-09-24 |  |
+| **[Learning Better Reasoning for Generative Recommendation with Semantic IDs](https://arxiv.org/abs/2609.29973v1)** | 2026-09-24 |  |
+| **[Cross-Country Code-Mixing for Generative Recommendation](https://arxiv.org/abs/2609.28972v1)** | 2026-09-24 | CIKM 2026 Short |
 | **[What Makes a Good Semantic ID for Generative Recommendation? A Reproducibility Study](https://arxiv.org/abs/2609.24430v1)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted by SIGIR-AP 2026</p></details> |
 | **[LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era](https://arxiv.org/abs/2609.18148v2)** | 2026-09-20 |  |
 | **[IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts](https://arxiv.org/abs/2609.21346v1)** | 2026-09-18 |  |
@@ -19,13 +22,11 @@ labels: documentation
 | **[Efficient Multimodal Generative Recommendation with Latent Narrative Reasoning](https://arxiv.org/abs/2609.16070v1)** | 2026-09-13 |  |
 | **[Addressing Cross-Stage Decoupling of Semantic and Collaborative Signals in Generative Recommendation](https://arxiv.org/abs/2609.13678v1)** | 2026-09-12 | <details><summary>Accep...</summary><p>Accepted by RecSys 2026 Main Track</p></details> |
 | **[PCGNet: Unifying Shared and Specific Information for Fashion Matching Recommendations](https://arxiv.org/abs/2609.13339v1)** | 2026-09-11 |  |
-| **[Preference-Drift-Aware Subsequence Learning and Hierarchical Context Fusion for Long-Sequence Generative Recommendation](https://arxiv.org/abs/2609.12556v1)** | 2026-09-11 |  |
-| **[OneLA: Scaling Linear-Attention Decoding to Large Beams in Generative Recommendation](https://arxiv.org/abs/2609.12399v1)** | 2026-09-11 |  |
-| **[Discretization in covariate-adaptive randomization: gains and losses](https://arxiv.org/abs/2609.11012v1)** | 2026-09-10 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OneTrans-V2: Unifying Retrieval, Pre-rank, and Fine-rank with One Transformer in Industrial Recommender](https://arxiv.org/abs/2609.28589v1)** | 2026-09-23 |  |
 | **[MM-BRIGHT: A Multi-Task Multimodal Benchmark for Reasoning-Intensive Retrieval](https://arxiv.org/abs/2601.09562v3)** | 2026-09-23 | <details><summary>v3: F...</summary><p>v3: Fixes a Biology evaluation bug in Table 6 (Task 4). The parser could not read chunked passage IDs, so no positive image matched a gold passage, reducing Biology Task 4 to text-only retrieval. Corrected nDCG@10: BGE-VL 3.2, CLIP 9.2, GME-2B 10.9, GME-7B 5.7, SigLIP 16.0. Task 4 averages change by at most 0.3; rankings and conclusions are unchanged</p></details> |
 | **[URA-NER: A Unified Retrieval-Augmented Framework with Retrieval Alignment and Uncertainty Reduction for Low-Resource NER](https://arxiv.org/abs/2609.24372v1)** | 2026-09-21 | <details><summary>8 pag...</summary><p>8 pages,3 figures, accepted at IJCNN 2026, conference WCCI 2026</p></details> |
 | **[Retrieval-in-the-Chain: Bootstrapping Large Language Models for Generative Retrieval](https://arxiv.org/abs/2510.13095v3)** | 2026-09-19 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Exploring Bottom-Up Clustering for Creating Semantic IDs](https://arxiv.org/abs/2609.08310v1)** | 2026-09-08 | <details><summary>6 Pag...</summary><p>6 Pages, workshop Paper</p></details> |
 | **[WIDE: Wildcard Inference with Dynamic Expansion for Cross-Modal Generative Retrieval](https://arxiv.org/abs/2609.03554v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted to the 34th ACM International Conference on Multimedia (ACM MM 2026). 10 pages, 5 figures</p></details> |
 | **[PRQ-KMeans: Projection Residual Quantization for Semantic ID Tokenization](https://arxiv.org/abs/2608.24207v2)** | 2026-09-03 |  |
-| **[Guiding the coarse levels of semantic IDs makes the fine levels learnable](https://arxiv.org/abs/2609.22227v1)** | 2026-09-03 |  |
 
