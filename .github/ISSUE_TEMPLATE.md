@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 28, 2026
+title: Latest 15 Papers - September 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,11 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KuaFu: Compressing Long User Behavior into Understanding at Billion Scale](https://arxiv.org/abs/2609.31045v1)** | 2026-09-25 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 3 tables</p></details> |
+| **[T-RoPE: Time-Aware Rotary Position Embedding for Sequential Recommendation](https://arxiv.org/abs/2609.30576v1)** | 2026-09-24 |  |
 | **[From Interests to Semantic IDs: Retrieval-Grounded Credit Assignment for Generative Recommendation](https://arxiv.org/abs/2609.29983v1)** | 2026-09-24 |  |
 | **[Learning Better Reasoning for Generative Recommendation with Semantic IDs](https://arxiv.org/abs/2609.29973v1)** | 2026-09-24 |  |
+| **[Evaluating Code Recommender Systems: A Review](https://arxiv.org/abs/2609.30351v1)** | 2026-09-24 |  |
 | **[Cross-Country Code-Mixing for Generative Recommendation](https://arxiv.org/abs/2609.28972v1)** | 2026-09-24 | CIKM 2026 Short |
 | **[What Makes a Good Semantic ID for Generative Recommendation? A Reproducibility Study](https://arxiv.org/abs/2609.24430v1)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted by SIGIR-AP 2026</p></details> |
 | **[LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era](https://arxiv.org/abs/2609.18148v2)** | 2026-09-20 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[ReliGRec: Reliability-Oriented LLM-Based Generative Recommendation via User-Risk-Aware Prompt Routing](https://arxiv.org/abs/2609.16560v1)** | 2026-09-15 |  |
 | **[Evaluating Brand Retrieval and Ranking in Large Language Model Recommendations](https://arxiv.org/abs/2609.16304v1)** | 2026-09-14 |  |
 | **[Self-Evolving Memory for Generative Recommendation](https://arxiv.org/abs/2609.15598v1)** | 2026-09-14 | Accepted to CIKM'26 |
-| **[Efficient Multimodal Generative Recommendation with Latent Narrative Reasoning](https://arxiv.org/abs/2609.16070v1)** | 2026-09-13 |  |
-| **[Addressing Cross-Stage Decoupling of Semantic and Collaborative Signals in Generative Recommendation](https://arxiv.org/abs/2609.13678v1)** | 2026-09-12 | <details><summary>Accep...</summary><p>Accepted by RecSys 2026 Main Track</p></details> |
-| **[PCGNet: Unifying Shared and Specific Information for Fashion Matching Recommendations](https://arxiv.org/abs/2609.13339v1)** | 2026-09-11 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
