@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 30, 2026
+title: Latest 15 Papers - October 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GRP v0.1 Technical Report](https://arxiv.org/abs/2609.36688v1)** | 2026-09-29 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, 11 tables. Technical report</p></details> |
+| **[FineSID: Scalable and Efficient Semantic Identifier Learning for Generative Recommendation](https://arxiv.org/abs/2609.36670v1)** | 2026-09-29 |  |
+| **[SIREN (Luring LLMs onto the Rocks): PAIR-Driven Preference Manipulation in Web-RAG Recommenders](https://arxiv.org/abs/2607.21951v3)** | 2026-09-29 |  |
 | **[Distribution-Level Contrastive Supervision for Generative Recommendation](https://arxiv.org/abs/2603.00700v2)** | 2026-09-28 | <details><summary>5 pag...</summary><p>5 pages, short paper, RecSys '26. Updated title and abstract to match the published version</p></details> |
 | **[SPRINT: Single-Step Generative Recommendation via Average Probability Velocity](https://arxiv.org/abs/2609.34306v1)** | 2026-09-28 |  |
 | **[RRCM: Ranking-Driven Retrieval over Collaborative and Meta Memories for LLM Recommendation](https://arxiv.org/abs/2605.07129v2)** | 2026-09-27 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Evaluating Code Recommender Systems: A Review](https://arxiv.org/abs/2609.30351v1)** | 2026-09-24 |  |
 | **[Cross-Country Code-Mixing for Generative Recommendation](https://arxiv.org/abs/2609.28972v1)** | 2026-09-24 | CIKM 2026 Short |
 | **[What Makes a Good Semantic ID for Generative Recommendation? A Reproducibility Study](https://arxiv.org/abs/2609.24430v1)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted by SIGIR-AP 2026</p></details> |
-| **[LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era](https://arxiv.org/abs/2609.18148v2)** | 2026-09-20 |  |
-| **[IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts](https://arxiv.org/abs/2609.21346v1)** | 2026-09-18 |  |
-| **[IntHQ: Task-Interactive Hierarchical Query on Dual-Stream Representations for Generative Recommendation](https://arxiv.org/abs/2608.09634v2)** | 2026-09-18 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
