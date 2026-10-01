@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 01, 2026
+title: Latest 15 Papers - October 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KUAISHOU Explorer LLM-Rec Challenge 2026: Reasoning Generative Recommendation](https://arxiv.org/abs/2609.39828v1)** | 2026-09-30 |  |
+| **[Residual Trajectory Distillation for Generative Retrieval](https://arxiv.org/abs/2609.39319v1)** | 2026-09-30 |  |
+| **[Exploring Forum Post Retrieval with Generative Modeling](https://arxiv.org/abs/2609.38646v1)** | 2026-09-29 |  |
 | **[GRP v0.1 Technical Report](https://arxiv.org/abs/2609.36688v1)** | 2026-09-29 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, 11 tables. Technical report</p></details> |
 | **[FineSID: Scalable and Efficient Semantic Identifier Learning for Generative Recommendation](https://arxiv.org/abs/2609.36670v1)** | 2026-09-29 |  |
 | **[SIREN (Luring LLMs onto the Rocks): PAIR-Driven Preference Manipulation in Web-RAG Recommenders](https://arxiv.org/abs/2607.21951v3)** | 2026-09-29 |  |
@@ -19,13 +22,13 @@ labels: documentation
 | **[T-RoPE: Time-Aware Rotary Position Embedding for Sequential Recommendation](https://arxiv.org/abs/2609.30576v1)** | 2026-09-24 |  |
 | **[From Interests to Semantic IDs: Retrieval-Grounded Credit Assignment for Generative Recommendation](https://arxiv.org/abs/2609.29983v1)** | 2026-09-24 |  |
 | **[Learning Better Reasoning for Generative Recommendation with Semantic IDs](https://arxiv.org/abs/2609.29973v1)** | 2026-09-24 |  |
-| **[Evaluating Code Recommender Systems: A Review](https://arxiv.org/abs/2609.30351v1)** | 2026-09-24 |  |
-| **[Cross-Country Code-Mixing for Generative Recommendation](https://arxiv.org/abs/2609.28972v1)** | 2026-09-24 | CIKM 2026 Short |
-| **[What Makes a Good Semantic ID for Generative Recommendation? A Reproducibility Study](https://arxiv.org/abs/2609.24430v1)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted by SIGIR-AP 2026</p></details> |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generative End-to-end Ad Retrieval at Douyin](https://arxiv.org/abs/2609.39327v1)** | 2026-09-30 |  |
+| **[Residual Trajectory Distillation for Generative Retrieval](https://arxiv.org/abs/2609.39319v1)** | 2026-09-30 |  |
+| **[Learning Multiresolution Relevance for Hierarchical Generative Retrieval](https://arxiv.org/abs/2609.39312v1)** | 2026-09-30 |  |
 | **[Can Generative Retrievers Learn Semantic IDs Without Forgetting How to Speak?](https://arxiv.org/abs/2609.35430v1)** | 2026-09-28 |  |
 | **[CacheRepair: Learning to Repair Cross-Chunk Context in RAG for KV Cache Fusion](https://arxiv.org/abs/2609.35139v1)** | 2026-09-28 | <details><summary>33 pa...</summary><p>33 pages, including references and appendices</p></details> |
 | **[LLM-Based Generative Retrieval for Snapchat Content Recommendation](https://arxiv.org/abs/2607.28895v4)** | 2026-09-25 |  |
@@ -38,7 +41,4 @@ labels: documentation
 | **[VARG: Value-Aware and Ranking-Aligned Generative Retrieval for Dynamic E-commerce Search](https://arxiv.org/abs/2609.14493v1)** | 2026-09-13 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 7 tables</p></details> |
 | **[Generative Retrieval for Unsupervised Text-Based Person Search](https://arxiv.org/abs/2609.12965v1)** | 2026-09-11 | <details><summary>17 pa...</summary><p>17 pages, 10 figures. Accepted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence</p></details> |
 | **[ICEGR: An Intent-Coherent End-to-End Generative Retrieval Framework for E-commerce Search](https://arxiv.org/abs/2608.29652v3)** | 2026-09-10 | 12 pages, 5 figures |
-| **[PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving](https://arxiv.org/abs/2609.08965v1)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference). 35 pages including appendix</p></details> |
-| **[REDSI: Addressing the Reproducibility and Evaluation Consistency of Differentiable Search Indexing for Document Retrieval](https://arxiv.org/abs/2609.08860v1)** | 2026-09-08 |  |
-| **[PDMR: Passage-Driven Multi-ID Document Retrieval](https://arxiv.org/abs/2609.08762v1)** | 2026-09-08 |  |
 
