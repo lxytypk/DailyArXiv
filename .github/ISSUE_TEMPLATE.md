@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2026
+title: Latest 15 Papers - October 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When History Misleads: Asymmetric Margin Supervision for Instruction-Guided LLM Generative Recommendation](https://arxiv.org/abs/2610.02600v1)** | 2026-10-01 |  |
 | **[Neither Black nor White: Balancing Semantic and Collaborative Signals with Graph-Informed Semantic IDs (GrIS)](https://arxiv.org/abs/2610.01533v1)** | 2026-10-01 |  |
 | **[Exploring Forum Post Retrieval with Generative Modeling](https://arxiv.org/abs/2609.38646v2)** | 2026-10-01 |  |
 | **[When More Data Is Not Enough: The Context-Sufficiency Frontier in Generative AI Personalization](https://arxiv.org/abs/2610.00654v1)** | 2026-09-30 | <details><summary>PREPR...</summary><p>PREPRINT - SUBMITTED TO JOURNAL OF SERVICE RESEARCH (JSR)</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Beyond the Beam: Constructive Repair and Candidate Completion for Generative Recommendation](https://arxiv.org/abs/2609.33745v1)** | 2026-09-27 | <details><summary>51 pa...</summary><p>51 pages, 14 figures, including appendices</p></details> |
 | **[History-Conditioned Joint-Prefix Alignment for Generative Recommendation](https://arxiv.org/abs/2608.29179v2)** | 2026-09-26 |  |
 | **[KuaFu: Compressing Long User Behavior into Understanding at Billion Scale](https://arxiv.org/abs/2609.31045v1)** | 2026-09-25 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 3 tables</p></details> |
-| **[T-RoPE: Time-Aware Rotary Position Embedding for Sequential Recommendation](https://arxiv.org/abs/2609.30576v1)** | 2026-09-24 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
