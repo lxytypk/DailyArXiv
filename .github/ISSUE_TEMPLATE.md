@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 06, 2026
+title: Latest 15 Papers - October 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SPRIG: Semantic-ID-enhanced Paths for Knowledge Graph-based Generative Recommendation](https://arxiv.org/abs/2610.06590v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted as a short paper at CIKM 2026. 5 pages, 1 figure, 2 tables</p></details> |
+| **[Generate What You Can Trust: Content Credibility in Generative Recommenders](https://arxiv.org/abs/2610.05670v1)** | 2026-10-05 |  |
 | **[When History Misleads: Asymmetric Margin Supervision for Instruction-Guided LLM Generative Recommendation](https://arxiv.org/abs/2610.02600v1)** | 2026-10-01 |  |
 | **[Neither Black nor White: Balancing Semantic and Collaborative Signals with Graph-Informed Semantic IDs (GrIS)](https://arxiv.org/abs/2610.01533v1)** | 2026-10-01 |  |
 | **[Exploring Forum Post Retrieval with Generative Modeling](https://arxiv.org/abs/2609.38646v2)** | 2026-10-01 |  |
@@ -20,12 +22,12 @@ labels: documentation
 | **[SPRINT: Single-Step Generative Recommendation via Average Probability Velocity](https://arxiv.org/abs/2609.34306v1)** | 2026-09-28 |  |
 | **[RRCM: Ranking-Driven Retrieval over Collaborative and Meta Memories for LLM Recommendation](https://arxiv.org/abs/2605.07129v2)** | 2026-09-27 |  |
 | **[Beyond the Beam: Constructive Repair and Candidate Completion for Generative Recommendation](https://arxiv.org/abs/2609.33745v1)** | 2026-09-27 | <details><summary>51 pa...</summary><p>51 pages, 14 figures, including appendices</p></details> |
-| **[History-Conditioned Joint-Prefix Alignment for Generative Recommendation](https://arxiv.org/abs/2608.29179v2)** | 2026-09-26 |  |
-| **[KuaFu: Compressing Long User Behavior into Understanding at Billion Scale](https://arxiv.org/abs/2609.31045v1)** | 2026-09-25 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 3 tables</p></details> |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MORPH: Generative Retrieval via Diffusion Transformer with Metric-Ordered Sequence Training and Hybrid-Policy Preference Optimization](https://arxiv.org/abs/2606.26899v2)** | 2026-10-05 | <details><summary>40 pa...</summary><p>40 pages, 8 figures. Updated title, methods, experiments, and references</p></details> |
+| **[GRAM: Correcting Frozen Time-Series Foundation Models via Graph-Retrieved Amplitude Memory](https://arxiv.org/abs/2610.04827v1)** | 2026-10-04 |  |
 | **[Do Multilingual Encoders Produce Language-Consistent Semantic IDs?](https://arxiv.org/abs/2610.01139v1)** | 2026-10-01 | <details><summary>7 pag...</summary><p>7 pages, 8 tables. Accepted as a short paper at WiNLP 2026, co-located with EMNLP 2026</p></details> |
 | **[Generative End-to-end Ad Retrieval at Douyin](https://arxiv.org/abs/2609.39327v1)** | 2026-09-30 |  |
 | **[Residual Trajectory Distillation for Generative Retrieval](https://arxiv.org/abs/2609.39319v1)** | 2026-09-30 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Retrieval-in-the-Chain: Bootstrapping Large Language Models for Generative Retrieval](https://arxiv.org/abs/2510.13095v3)** | 2026-09-19 |  |
 | **[AlexandriaX 2026: The First Shared Task on Dialectal Arabic Machine Translation](https://arxiv.org/abs/2609.22796v1)** | 2026-09-19 | <details><summary>To Ap...</summary><p>To Appear in ArabicNLP 2026, resources available in the following project page: https://alexandriax.dlnlp.ai</p></details> |
 | **[Attention Calibration for Position-Fair Dense Retrieval](https://arxiv.org/abs/2606.02737v3)** | 2026-09-15 |  |
-| **[VARG: Value-Aware and Ranking-Aligned Generative Retrieval for Dynamic E-commerce Search](https://arxiv.org/abs/2609.14493v1)** | 2026-09-13 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 7 tables</p></details> |
-| **[Generative Retrieval for Unsupervised Text-Based Person Search](https://arxiv.org/abs/2609.12965v1)** | 2026-09-11 | <details><summary>17 pa...</summary><p>17 pages, 10 figures. Accepted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence</p></details> |
 
