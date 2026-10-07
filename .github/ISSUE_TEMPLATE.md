@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 07, 2026
+title: Latest 15 Papers - October 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adapting Generative Recommenders for Multi-Turn Interaction](https://arxiv.org/abs/2610.08136v1)** | 2026-10-06 |  |
+| **[Rethinking Semantic ID Construction for Generative Recommendation: SimHash with Parallel Decoding and Semantic Alignment](https://arxiv.org/abs/2610.07402v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Code: https://github.com/KevinC2015/Flash</p></details> |
 | **[SPRIG: Semantic-ID-enhanced Paths for Knowledge Graph-based Generative Recommendation](https://arxiv.org/abs/2610.06590v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted as a short paper at CIKM 2026. 5 pages, 1 figure, 2 tables</p></details> |
 | **[Generate What You Can Trust: Content Credibility in Generative Recommenders](https://arxiv.org/abs/2610.05670v1)** | 2026-10-05 |  |
 | **[When History Misleads: Asymmetric Margin Supervision for Instruction-Guided LLM Generative Recommendation](https://arxiv.org/abs/2610.02600v1)** | 2026-10-01 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[SIREN (Luring LLMs onto the Rocks): PAIR-Driven Preference Manipulation in Web-RAG Recommenders](https://arxiv.org/abs/2607.21951v3)** | 2026-09-29 |  |
 | **[Distribution-Level Contrastive Supervision for Generative Recommendation](https://arxiv.org/abs/2603.00700v2)** | 2026-09-28 | <details><summary>5 pag...</summary><p>5 pages, short paper, RecSys '26. Updated title and abstract to match the published version</p></details> |
 | **[SPRINT: Single-Step Generative Recommendation via Average Probability Velocity](https://arxiv.org/abs/2609.34306v1)** | 2026-09-28 |  |
-| **[RRCM: Ranking-Driven Retrieval over Collaborative and Meta Memories for LLM Recommendation](https://arxiv.org/abs/2605.07129v2)** | 2026-09-27 |  |
-| **[Beyond the Beam: Constructive Repair and Candidate Completion for Generative Recommendation](https://arxiv.org/abs/2609.33745v1)** | 2026-09-27 | <details><summary>51 pa...</summary><p>51 pages, 14 figures, including appendices</p></details> |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Disentangling Paradigm, Identifier, and Decoding in Generative Retrieval](https://arxiv.org/abs/2610.08716v1)** | 2026-10-06 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 11 tables</p></details> |
 | **[MORPH: Generative Retrieval via Diffusion Transformer with Metric-Ordered Sequence Training and Hybrid-Policy Preference Optimization](https://arxiv.org/abs/2606.26899v2)** | 2026-10-05 | <details><summary>40 pa...</summary><p>40 pages, 8 figures. Updated title, methods, experiments, and references</p></details> |
 | **[GRAM: Correcting Frozen Time-Series Foundation Models via Graph-Retrieved Amplitude Memory](https://arxiv.org/abs/2610.04827v1)** | 2026-10-04 |  |
 | **[Do Multilingual Encoders Produce Language-Consistent Semantic IDs?](https://arxiv.org/abs/2610.01139v1)** | 2026-10-01 | <details><summary>7 pag...</summary><p>7 pages, 8 tables. Accepted as a short paper at WiNLP 2026, co-located with EMNLP 2026</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[URA-NER: A Unified Retrieval-Augmented Framework with Retrieval Alignment and Uncertainty Reduction for Low-Resource NER](https://arxiv.org/abs/2609.24372v1)** | 2026-09-21 | <details><summary>8 pag...</summary><p>8 pages,3 figures, accepted at IJCNN 2026, conference WCCI 2026</p></details> |
 | **[Retrieval-in-the-Chain: Bootstrapping Large Language Models for Generative Retrieval](https://arxiv.org/abs/2510.13095v3)** | 2026-09-19 |  |
 | **[AlexandriaX 2026: The First Shared Task on Dialectal Arabic Machine Translation](https://arxiv.org/abs/2609.22796v1)** | 2026-09-19 | <details><summary>To Ap...</summary><p>To Appear in ArabicNLP 2026, resources available in the following project page: https://alexandriax.dlnlp.ai</p></details> |
-| **[Attention Calibration for Position-Fair Dense Retrieval](https://arxiv.org/abs/2606.02737v3)** | 2026-09-15 |  |
 
