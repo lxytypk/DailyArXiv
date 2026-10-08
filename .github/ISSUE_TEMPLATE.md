@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 08, 2026
+title: Latest 15 Papers - October 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Training with Missed Targets in Generative Recommendation: Separating Supervision from Probability Competition](https://arxiv.org/abs/2610.10124v1)** | 2026-10-07 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 8 tables</p></details> |
 | **[Adapting Generative Recommenders for Multi-Turn Interaction](https://arxiv.org/abs/2610.08136v1)** | 2026-10-06 |  |
 | **[Rethinking Semantic ID Construction for Generative Recommendation: SimHash with Parallel Decoding and Semantic Alignment](https://arxiv.org/abs/2610.07402v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Code: https://github.com/KevinC2015/Flash</p></details> |
 | **[SPRIG: Semantic-ID-enhanced Paths for Knowledge Graph-based Generative Recommendation](https://arxiv.org/abs/2610.06590v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted as a short paper at CIKM 2026. 5 pages, 1 figure, 2 tables</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[FineSID: Scalable and Efficient Semantic Identifier Learning for Generative Recommendation](https://arxiv.org/abs/2609.36670v1)** | 2026-09-29 |  |
 | **[SIREN (Luring LLMs onto the Rocks): PAIR-Driven Preference Manipulation in Web-RAG Recommenders](https://arxiv.org/abs/2607.21951v3)** | 2026-09-29 |  |
 | **[Distribution-Level Contrastive Supervision for Generative Recommendation](https://arxiv.org/abs/2603.00700v2)** | 2026-09-28 | <details><summary>5 pag...</summary><p>5 pages, short paper, RecSys '26. Updated title and abstract to match the published version</p></details> |
-| **[SPRINT: Single-Step Generative Recommendation via Average Probability Velocity](https://arxiv.org/abs/2609.34306v1)** | 2026-09-28 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators](https://arxiv.org/abs/2602.22647v3)** | 2026-10-07 | <details><summary>KDD 2...</summary><p>KDD 2026 camera-ready</p></details> |
 | **[Disentangling Paradigm, Identifier, and Decoding in Generative Retrieval](https://arxiv.org/abs/2610.08716v1)** | 2026-10-06 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 11 tables</p></details> |
 | **[MORPH: Generative Retrieval via Diffusion Transformer with Metric-Ordered Sequence Training and Hybrid-Policy Preference Optimization](https://arxiv.org/abs/2606.26899v2)** | 2026-10-05 | <details><summary>40 pa...</summary><p>40 pages, 8 figures. Updated title, methods, experiments, and references</p></details> |
 | **[GRAM: Correcting Frozen Time-Series Foundation Models via Graph-Retrieved Amplitude Memory](https://arxiv.org/abs/2610.04827v1)** | 2026-10-04 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[MM-BRIGHT: A Multi-Task Multimodal Benchmark for Reasoning-Intensive Retrieval](https://arxiv.org/abs/2601.09562v3)** | 2026-09-23 | <details><summary>v3: F...</summary><p>v3: Fixes a Biology evaluation bug in Table 6 (Task 4). The parser could not read chunked passage IDs, so no positive image matched a gold passage, reducing Biology Task 4 to text-only retrieval. Corrected nDCG@10: BGE-VL 3.2, CLIP 9.2, GME-2B 10.9, GME-7B 5.7, SigLIP 16.0. Task 4 averages change by at most 0.3; rankings and conclusions are unchanged</p></details> |
 | **[URA-NER: A Unified Retrieval-Augmented Framework with Retrieval Alignment and Uncertainty Reduction for Low-Resource NER](https://arxiv.org/abs/2609.24372v1)** | 2026-09-21 | <details><summary>8 pag...</summary><p>8 pages,3 figures, accepted at IJCNN 2026, conference WCCI 2026</p></details> |
 | **[Retrieval-in-the-Chain: Bootstrapping Large Language Models for Generative Retrieval](https://arxiv.org/abs/2510.13095v3)** | 2026-09-19 |  |
-| **[AlexandriaX 2026: The First Shared Task on Dialectal Arabic Machine Translation](https://arxiv.org/abs/2609.22796v1)** | 2026-09-19 | <details><summary>To Ap...</summary><p>To Appear in ArabicNLP 2026, resources available in the following project page: https://alexandriax.dlnlp.ai</p></details> |
 
