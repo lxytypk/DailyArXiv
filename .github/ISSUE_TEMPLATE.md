@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 12, 2026
+title: Latest 15 Papers - October 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Temporal Proximity: Explanatory World Models for Credit Assignment in Reinforcement Learning](https://arxiv.org/abs/2610.13504v1)** | 2026-10-09 |  |
+| **[Beyond Semantic IDs: Finite-Beam Reachability and Continuous-Query Generation in Generative Recommendation](https://arxiv.org/abs/2610.12977v1)** | 2026-10-09 |  |
 | **[Training with Missed Targets in Generative Recommendation: Separating Supervision from Probability Competition](https://arxiv.org/abs/2610.10124v1)** | 2026-10-07 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 8 tables</p></details> |
 | **[Adapting Generative Recommenders for Multi-Turn Interaction](https://arxiv.org/abs/2610.08136v1)** | 2026-10-06 |  |
 | **[Rethinking Semantic ID Construction for Generative Recommendation: SimHash with Parallel Decoding and Semantic Alignment](https://arxiv.org/abs/2610.07402v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Code: https://github.com/KevinC2015/Flash</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Residual Trajectory Distillation for Generative Retrieval](https://arxiv.org/abs/2609.39319v1)** | 2026-09-30 |  |
 | **[GRP v0.1 Technical Report](https://arxiv.org/abs/2609.36688v1)** | 2026-09-29 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, 11 tables. Technical report</p></details> |
 | **[FineSID: Scalable and Efficient Semantic Identifier Learning for Generative Recommendation](https://arxiv.org/abs/2609.36670v1)** | 2026-09-29 |  |
-| **[SIREN (Luring LLMs onto the Rocks): PAIR-Driven Preference Manipulation in Web-RAG Recommenders](https://arxiv.org/abs/2607.21951v3)** | 2026-09-29 |  |
-| **[Distribution-Level Contrastive Supervision for Generative Recommendation](https://arxiv.org/abs/2603.00700v2)** | 2026-09-28 | <details><summary>5 pag...</summary><p>5 pages, short paper, RecSys '26. Updated title and abstract to match the published version</p></details> |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
