@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 14, 2026
+title: Latest 15 Papers - October 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HASTE: Hierarchical and Attribute-aware Supervision for Generative Recommendation](https://arxiv.org/abs/2610.17368v1)** | 2026-10-12 |  |
+| **[UniSGR-V2: Stepwise Target-Side Feature Anticipation and Crossing for Generative Recommendation](https://arxiv.org/abs/2610.16132v1)** | 2026-10-12 |  |
+| **[SIDScope: A Diagnostic Resource for Semantic-ID Interfaces in Generative Recommendation](https://arxiv.org/abs/2608.18779v2)** | 2026-10-10 | <details><summary>Resou...</summary><p>Resource: https://github.com/jdding/sidscope</p></details> |
+| **[AlignPoison: Conditional Targeted Poisoning of Generative Recommenders via Decoding-Aligned Prefixes](https://arxiv.org/abs/2610.14487v1)** | 2026-10-10 | <details><summary>23 pa...</summary><p>23 pages, 10 figures, including appendices</p></details> |
+| **[Generate What You Can Trust: Content Credibility in Generative Recommenders](https://arxiv.org/abs/2610.05670v2)** | 2026-10-10 |  |
 | **[Beyond Temporal Proximity: Explanatory World Models for Credit Assignment in Reinforcement Learning](https://arxiv.org/abs/2610.13504v1)** | 2026-10-09 |  |
 | **[Beyond Semantic IDs: Finite-Beam Reachability and Continuous-Query Generation in Generative Recommendation](https://arxiv.org/abs/2610.12977v1)** | 2026-10-09 |  |
 | **[Training with Missed Targets in Generative Recommendation: Separating Supervision from Probability Competition](https://arxiv.org/abs/2610.10124v1)** | 2026-10-07 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 8 tables</p></details> |
 | **[Adapting Generative Recommenders for Multi-Turn Interaction](https://arxiv.org/abs/2610.08136v1)** | 2026-10-06 |  |
 | **[Rethinking Semantic ID Construction for Generative Recommendation: SimHash with Parallel Decoding and Semantic Alignment](https://arxiv.org/abs/2610.07402v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Code: https://github.com/KevinC2015/Flash</p></details> |
 | **[SPRIG: Semantic-ID-enhanced Paths for Knowledge Graph-based Generative Recommendation](https://arxiv.org/abs/2610.06590v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted as a short paper at CIKM 2026. 5 pages, 1 figure, 2 tables</p></details> |
-| **[Generate What You Can Trust: Content Credibility in Generative Recommenders](https://arxiv.org/abs/2610.05670v1)** | 2026-10-05 |  |
 | **[When History Misleads: Asymmetric Margin Supervision for Instruction-Guided LLM Generative Recommendation](https://arxiv.org/abs/2610.02600v1)** | 2026-10-01 |  |
 | **[Neither Black nor White: Balancing Semantic and Collaborative Signals with Graph-Informed Semantic IDs (GrIS)](https://arxiv.org/abs/2610.01533v1)** | 2026-10-01 |  |
 | **[Exploring Forum Post Retrieval with Generative Modeling](https://arxiv.org/abs/2609.38646v2)** | 2026-10-01 |  |
 | **[When More Data Is Not Enough: The Context-Sufficiency Frontier in Generative AI Personalization](https://arxiv.org/abs/2610.00654v1)** | 2026-09-30 | <details><summary>PREPR...</summary><p>PREPRINT - SUBMITTED TO JOURNAL OF SERVICE RESEARCH (JSR)</p></details> |
-| **[KUAISHOU Explorer LLM-Rec Challenge 2026: Reasoning Generative Recommendation](https://arxiv.org/abs/2609.39828v1)** | 2026-09-30 |  |
-| **[Residual Trajectory Distillation for Generative Retrieval](https://arxiv.org/abs/2609.39319v1)** | 2026-09-30 |  |
-| **[GRP v0.1 Technical Report](https://arxiv.org/abs/2609.36688v1)** | 2026-09-29 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, 11 tables. Technical report</p></details> |
-| **[FineSID: Scalable and Efficient Semantic Identifier Learning for Generative Recommendation](https://arxiv.org/abs/2609.36670v1)** | 2026-09-29 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Computed, not Memorized: Bit-Factorized Identifiers for Efficient Generative Retrieval](https://arxiv.org/abs/2610.17467v1)** | 2026-10-12 |  |
+| **[WeGR: Unified Generative Retrieval for Industrial Search Systems in WeChat](https://arxiv.org/abs/2610.16979v1)** | 2026-10-12 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, conference</p></details> |
 | **[Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators](https://arxiv.org/abs/2602.22647v3)** | 2026-10-07 | <details><summary>KDD 2...</summary><p>KDD 2026 camera-ready</p></details> |
 | **[Disentangling Paradigm, Identifier, and Decoding in Generative Retrieval](https://arxiv.org/abs/2610.08716v1)** | 2026-10-06 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 11 tables</p></details> |
 | **[MORPH: Generative Retrieval via Diffusion Transformer with Metric-Ordered Sequence Training and Hybrid-Policy Preference Optimization](https://arxiv.org/abs/2606.26899v2)** | 2026-10-05 | <details><summary>40 pa...</summary><p>40 pages, 8 figures. Updated title, methods, experiments, and references</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[LLM-Based Generative Retrieval for Snapchat Content Recommendation](https://arxiv.org/abs/2607.28895v4)** | 2026-09-25 |  |
 | **[OneTrans-V2: Unifying Retrieval, Pre-rank, and Fine-rank with One Transformer in Industrial Recommender](https://arxiv.org/abs/2609.28589v1)** | 2026-09-23 |  |
 | **[MM-BRIGHT: A Multi-Task Multimodal Benchmark for Reasoning-Intensive Retrieval](https://arxiv.org/abs/2601.09562v3)** | 2026-09-23 | <details><summary>v3: F...</summary><p>v3: Fixes a Biology evaluation bug in Table 6 (Task 4). The parser could not read chunked passage IDs, so no positive image matched a gold passage, reducing Biology Task 4 to text-only retrieval. Corrected nDCG@10: BGE-VL 3.2, CLIP 9.2, GME-2B 10.9, GME-7B 5.7, SigLIP 16.0. Task 4 averages change by at most 0.3; rankings and conclusions are unchanged</p></details> |
-| **[URA-NER: A Unified Retrieval-Augmented Framework with Retrieval Alignment and Uncertainty Reduction for Low-Resource NER](https://arxiv.org/abs/2609.24372v1)** | 2026-09-21 | <details><summary>8 pag...</summary><p>8 pages,3 figures, accepted at IJCNN 2026, conference WCCI 2026</p></details> |
-| **[Retrieval-in-the-Chain: Bootstrapping Large Language Models for Generative Retrieval](https://arxiv.org/abs/2510.13095v3)** | 2026-09-19 |  |
 
