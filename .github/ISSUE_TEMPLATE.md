@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 15, 2026
+title: Latest 15 Papers - October 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute](https://arxiv.org/abs/2604.12234v5)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted at ACM RecSys 2026</p></details> |
 | **[HASTE: Hierarchical and Attribute-aware Supervision for Generative Recommendation](https://arxiv.org/abs/2610.17368v1)** | 2026-10-12 |  |
 | **[UniSGR-V2: Stepwise Target-Side Feature Anticipation and Crossing for Generative Recommendation](https://arxiv.org/abs/2610.16132v1)** | 2026-10-12 |  |
 | **[SIDScope: A Diagnostic Resource for Semantic-ID Interfaces in Generative Recommendation](https://arxiv.org/abs/2608.18779v2)** | 2026-10-10 | <details><summary>Resou...</summary><p>Resource: https://github.com/jdding/sidscope</p></details> |
@@ -21,12 +22,12 @@ labels: documentation
 | **[When History Misleads: Asymmetric Margin Supervision for Instruction-Guided LLM Generative Recommendation](https://arxiv.org/abs/2610.02600v1)** | 2026-10-01 |  |
 | **[Neither Black nor White: Balancing Semantic and Collaborative Signals with Graph-Informed Semantic IDs (GrIS)](https://arxiv.org/abs/2610.01533v1)** | 2026-10-01 |  |
 | **[Exploring Forum Post Retrieval with Generative Modeling](https://arxiv.org/abs/2609.38646v2)** | 2026-10-01 |  |
-| **[When More Data Is Not Enough: The Context-Sufficiency Frontier in Generative AI Personalization](https://arxiv.org/abs/2610.00654v1)** | 2026-09-30 | <details><summary>PREPR...</summary><p>PREPRINT - SUBMITTED TO JOURNAL OF SERVICE RESEARCH (JSR)</p></details> |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Computed, not Memorized: Bit-Factorized Identifiers for Efficient Generative Retrieval](https://arxiv.org/abs/2610.17467v1)** | 2026-10-12 |  |
+| **[Computed, not Memorized: Bit-Factorized Identifiers for Efficient Generative Retrieval](https://arxiv.org/abs/2610.17467v2)** | 2026-10-14 |  |
+| **[Revisiting Generative vs. Dense Retrieval: A Static Value Prior Reverses the Gap](https://arxiv.org/abs/2610.19065v1)** | 2026-10-13 |  |
 | **[WeGR: Unified Generative Retrieval for Industrial Search Systems in WeChat](https://arxiv.org/abs/2610.16979v1)** | 2026-10-12 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, conference</p></details> |
 | **[Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators](https://arxiv.org/abs/2602.22647v3)** | 2026-10-07 | <details><summary>KDD 2...</summary><p>KDD 2026 camera-ready</p></details> |
 | **[Disentangling Paradigm, Identifier, and Decoding in Generative Retrieval](https://arxiv.org/abs/2610.08716v1)** | 2026-10-06 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 11 tables</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[CacheRepair: Learning to Repair Cross-Chunk Context in RAG for KV Cache Fusion](https://arxiv.org/abs/2609.35139v1)** | 2026-09-28 | <details><summary>33 pa...</summary><p>33 pages, including references and appendices</p></details> |
 | **[LLM-Based Generative Retrieval for Snapchat Content Recommendation](https://arxiv.org/abs/2607.28895v4)** | 2026-09-25 |  |
 | **[OneTrans-V2: Unifying Retrieval, Pre-rank, and Fine-rank with One Transformer in Industrial Recommender](https://arxiv.org/abs/2609.28589v1)** | 2026-09-23 |  |
-| **[MM-BRIGHT: A Multi-Task Multimodal Benchmark for Reasoning-Intensive Retrieval](https://arxiv.org/abs/2601.09562v3)** | 2026-09-23 | <details><summary>v3: F...</summary><p>v3: Fixes a Biology evaluation bug in Table 6 (Task 4). The parser could not read chunked passage IDs, so no positive image matched a gold passage, reducing Biology Task 4 to text-only retrieval. Corrected nDCG@10: BGE-VL 3.2, CLIP 9.2, GME-2B 10.9, GME-7B 5.7, SigLIP 16.0. Task 4 averages change by at most 0.3; rankings and conclusions are unchanged</p></details> |
 
