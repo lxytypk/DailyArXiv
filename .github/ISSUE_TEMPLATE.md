@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 16, 2026
+title: Latest 15 Papers - October 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TransX Technical Report: Scaling Sequence Transduction for Recommendation](https://arxiv.org/abs/2610.20913v1)** | 2026-10-14 |  |
 | **[UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute](https://arxiv.org/abs/2604.12234v5)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted at ACM RecSys 2026</p></details> |
 | **[HASTE: Hierarchical and Attribute-aware Supervision for Generative Recommendation](https://arxiv.org/abs/2610.17368v1)** | 2026-10-12 |  |
 | **[UniSGR-V2: Stepwise Target-Side Feature Anticipation and Crossing for Generative Recommendation](https://arxiv.org/abs/2610.16132v1)** | 2026-10-12 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[SPRIG: Semantic-ID-enhanced Paths for Knowledge Graph-based Generative Recommendation](https://arxiv.org/abs/2610.06590v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted as a short paper at CIKM 2026. 5 pages, 1 figure, 2 tables</p></details> |
 | **[When History Misleads: Asymmetric Margin Supervision for Instruction-Guided LLM Generative Recommendation](https://arxiv.org/abs/2610.02600v1)** | 2026-10-01 |  |
 | **[Neither Black nor White: Balancing Semantic and Collaborative Signals with Graph-Informed Semantic IDs (GrIS)](https://arxiv.org/abs/2610.01533v1)** | 2026-10-01 |  |
-| **[Exploring Forum Post Retrieval with Generative Modeling](https://arxiv.org/abs/2609.38646v2)** | 2026-10-01 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
