@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 20, 2026
+title: Latest 15 Papers - October 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FineSID: Scalable and Efficient Semantic Identifier Learning for Generative Recommendation](https://arxiv.org/abs/2609.36670v2)** | 2026-10-19 |  |
+| **[Structure-Aligned History Learning with Subspace-Structured Semantic IDs for Generative Recommendation](https://arxiv.org/abs/2610.25093v1)** | 2026-10-18 | <details><summary>34 pa...</summary><p>34 pages, 10 figures, including references and appendices</p></details> |
+| **[Is Serving-Time Language-Model Inference Necessary for Recommendation? Evidence from Generative and Agentic Settings](https://arxiv.org/abs/2608.01260v2)** | 2026-10-17 |  |
 | **[Reasoning Reranking with Semantic IDs as the Sole Item Representation](https://arxiv.org/abs/2610.22797v1)** | 2026-10-16 | <details><summary>30 pa...</summary><p>30 pages, 3 figures. Code: https://github.com/lilv98/ReRankID ; data: https://huggingface.co/datasets/lilvjosephtang/ReRankID</p></details> |
 | **[TransX Technical Report: Scaling Sequence Transduction for Recommendation](https://arxiv.org/abs/2610.20913v1)** | 2026-10-14 |  |
 | **[UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute](https://arxiv.org/abs/2604.12234v5)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted at ACM RecSys 2026</p></details> |
@@ -19,13 +22,13 @@ labels: documentation
 | **[Beyond Semantic IDs: Finite-Beam Reachability and Continuous-Query Generation in Generative Recommendation](https://arxiv.org/abs/2610.12977v1)** | 2026-10-09 |  |
 | **[Training with Missed Targets in Generative Recommendation: Separating Supervision from Probability Competition](https://arxiv.org/abs/2610.10124v1)** | 2026-10-07 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 8 tables</p></details> |
 | **[Adapting Generative Recommenders for Multi-Turn Interaction](https://arxiv.org/abs/2610.08136v1)** | 2026-10-06 |  |
-| **[Rethinking Semantic ID Construction for Generative Recommendation: SimHash with Parallel Decoding and Semantic Alignment](https://arxiv.org/abs/2610.07402v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Code: https://github.com/KevinC2015/Flash</p></details> |
-| **[SPRIG: Semantic-ID-enhanced Paths for Knowledge Graph-based Generative Recommendation](https://arxiv.org/abs/2610.06590v1)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted as a short paper at CIKM 2026. 5 pages, 1 figure, 2 tables</p></details> |
-| **[When History Misleads: Asymmetric Margin Supervision for Instruction-Guided LLM Generative Recommendation](https://arxiv.org/abs/2610.02600v1)** | 2026-10-01 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AGR: Agentic Generative Retrieval with Tool-Augmented Search](https://arxiv.org/abs/2610.26831v1)** | 2026-10-19 |  |
+| **[Don't Rewrite the SID Map: Topology Preservation for Generative Retrieval in Dynamic E-Commerce Search](https://arxiv.org/abs/2610.26105v1)** | 2026-10-19 |  |
+| **[Generative Retrieval for Reverse Target Fishing with a Proteome-Scale Benchmark](https://arxiv.org/abs/2610.24458v1)** | 2026-10-17 | <details><summary>27 pa...</summary><p>27 pages, 6 figures, 4 tables</p></details> |
 | **[Computed, not Memorized: Bit-Factorized Identifiers for Efficient Generative Retrieval](https://arxiv.org/abs/2610.17467v2)** | 2026-10-14 |  |
 | **[Revisiting Generative vs. Dense Retrieval: A Static Value Prior Reverses the Gap](https://arxiv.org/abs/2610.19065v1)** | 2026-10-13 |  |
 | **[WeGR: Unified Generative Retrieval for Industrial Search Systems in WeChat](https://arxiv.org/abs/2610.16979v1)** | 2026-10-12 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, conference</p></details> |
@@ -38,7 +41,4 @@ labels: documentation
 | **[Residual Trajectory Distillation for Generative Retrieval](https://arxiv.org/abs/2609.39319v1)** | 2026-09-30 |  |
 | **[Learning Multiresolution Relevance for Hierarchical Generative Retrieval](https://arxiv.org/abs/2609.39312v1)** | 2026-09-30 |  |
 | **[Can Generative Retrievers Learn Semantic IDs Without Forgetting How to Speak?](https://arxiv.org/abs/2609.35430v1)** | 2026-09-28 |  |
-| **[CacheRepair: Learning to Repair Cross-Chunk Context in RAG for KV Cache Fusion](https://arxiv.org/abs/2609.35139v1)** | 2026-09-28 | <details><summary>33 pa...</summary><p>33 pages, including references and appendices</p></details> |
-| **[LLM-Based Generative Retrieval for Snapchat Content Recommendation](https://arxiv.org/abs/2607.28895v4)** | 2026-09-25 |  |
-| **[OneTrans-V2: Unifying Retrieval, Pre-rank, and Fine-rank with One Transformer in Industrial Recommender](https://arxiv.org/abs/2609.28589v1)** | 2026-09-23 |  |
 
