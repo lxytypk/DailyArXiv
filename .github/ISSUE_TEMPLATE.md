@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2026
+title: Latest 15 Papers - October 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generative Recommenders Forget the Long Tail: Restoring Memorization in Retrieval and Ranking](https://arxiv.org/abs/2610.29298v1)** | 2026-10-21 |  |
+| **[SIREN (Luring LLMs onto the Rocks): PAIR-Driven Preference Manipulation in Web-RAG Recommenders](https://arxiv.org/abs/2607.21951v4)** | 2026-10-21 |  |
 | **[SPAR: Stepwise Personalized Autoregressive Recommendation with Prefix-Balanced Semantic IDs](https://arxiv.org/abs/2610.27898v1)** | 2026-10-20 |  |
 | **[EASformer: Environment-Action-State Alignment for Industrial Generative Ranking](https://arxiv.org/abs/2610.27691v1)** | 2026-10-20 | 10 pages |
 | **[Neighborhood-Aware Unlearning for Generative Recommendation](https://arxiv.org/abs/2610.27232v1)** | 2026-10-19 |  |
@@ -20,14 +22,12 @@ labels: documentation
 | **[UniSGR-V2: Stepwise Target-Side Feature Anticipation and Crossing for Generative Recommendation](https://arxiv.org/abs/2610.16132v1)** | 2026-10-12 |  |
 | **[SIDScope: A Diagnostic Resource for Semantic-ID Interfaces in Generative Recommendation](https://arxiv.org/abs/2608.18779v2)** | 2026-10-10 | <details><summary>Resou...</summary><p>Resource: https://github.com/jdding/sidscope</p></details> |
 | **[AlignPoison: Conditional Targeted Poisoning of Generative Recommenders via Decoding-Aligned Prefixes](https://arxiv.org/abs/2610.14487v1)** | 2026-10-10 | <details><summary>23 pa...</summary><p>23 pages, 10 figures, including appendices</p></details> |
-| **[Generate What You Can Trust: Content Credibility in Generative Recommenders](https://arxiv.org/abs/2610.05670v2)** | 2026-10-10 |  |
-| **[Beyond Temporal Proximity: Explanatory World Models for Credit Assignment in Reinforcement Learning](https://arxiv.org/abs/2610.13504v1)** | 2026-10-09 |  |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[WeGR: Towards Unified Generative Retrieval via Behavior-aware Tokenization and Preference Alignment](https://arxiv.org/abs/2610.16979v3)** | 2026-10-21 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference</p></details> |
 | **[Evolving Semantic Indexes for Generative Retrieval](https://arxiv.org/abs/2610.28568v1)** | 2026-10-20 |  |
-| **[WeGR: Towards Unified Generative Retrieval via Behavior-aware Tokenization and Preference Alignment](https://arxiv.org/abs/2610.16979v2)** | 2026-10-20 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference</p></details> |
 | **[AGR: Agentic Generative Retrieval with Tool-Augmented Search](https://arxiv.org/abs/2610.26831v1)** | 2026-10-19 |  |
 | **[Don't Rewrite the SID Map: Topology Preservation for Generative Retrieval in Dynamic E-Commerce Search](https://arxiv.org/abs/2610.26105v1)** | 2026-10-19 |  |
 | **[Generative Retrieval for Reverse Target Fishing with a Proteome-Scale Benchmark](https://arxiv.org/abs/2610.24458v1)** | 2026-10-17 | <details><summary>27 pa...</summary><p>27 pages, 6 figures, 4 tables</p></details> |
