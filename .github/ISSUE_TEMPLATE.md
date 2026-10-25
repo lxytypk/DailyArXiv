@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 23, 2026
+title: Latest 15 Papers - October 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,11 +26,11 @@ labels: documentation
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generative Retrieval for Reverse Target Fishing with a Proteome-Scale Benchmark](https://arxiv.org/abs/2610.24458v2)** | 2026-10-21 | <details><summary>27 pa...</summary><p>27 pages, 6 figures, 4 tables</p></details> |
 | **[WeGR: Towards Unified Generative Retrieval via Behavior-aware Tokenization and Preference Alignment](https://arxiv.org/abs/2610.16979v3)** | 2026-10-21 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, conference</p></details> |
 | **[Evolving Semantic Indexes for Generative Retrieval](https://arxiv.org/abs/2610.28568v1)** | 2026-10-20 |  |
 | **[AGR: Agentic Generative Retrieval with Tool-Augmented Search](https://arxiv.org/abs/2610.26831v1)** | 2026-10-19 |  |
 | **[Don't Rewrite the SID Map: Topology Preservation for Generative Retrieval in Dynamic E-Commerce Search](https://arxiv.org/abs/2610.26105v1)** | 2026-10-19 |  |
-| **[Generative Retrieval for Reverse Target Fishing with a Proteome-Scale Benchmark](https://arxiv.org/abs/2610.24458v1)** | 2026-10-17 | <details><summary>27 pa...</summary><p>27 pages, 6 figures, 4 tables</p></details> |
 | **[Computed, not Memorized: Bit-Factorized Identifiers for Efficient Generative Retrieval](https://arxiv.org/abs/2610.17467v2)** | 2026-10-14 |  |
 | **[Revisiting Generative vs. Dense Retrieval: A Static Value Prior Reverses the Gap](https://arxiv.org/abs/2610.19065v1)** | 2026-10-13 |  |
 | **[Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators](https://arxiv.org/abs/2602.22647v3)** | 2026-10-07 | <details><summary>KDD 2...</summary><p>KDD 2026 camera-ready</p></details> |
