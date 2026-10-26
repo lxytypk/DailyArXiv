@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 26, 2026
+title: Latest 15 Papers - October 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,14 @@ labels: documentation
 ## Generative Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Separating Thinking from Spelling for Efficient Generative Recommendation](https://arxiv.org/abs/2610.32980v1)** | 2026-10-23 |  |
+| **[Knowledge Distillation across Item and Code Spaces for Parallel Generative Recommendation](https://arxiv.org/abs/2610.32943v1)** | 2026-10-23 | 12 pages, 2 figures |
+| **[EASformer: Environment-Action-State Alignment for Industrial Generative Ranking](https://arxiv.org/abs/2610.27691v2)** | 2026-10-23 | 10 pages |
+| **[TGR-EvoDAG: A DAG-based Multi-Agent Code Evolution Framework for Generative Recommendation on Tencent](https://arxiv.org/abs/2610.32326v1)** | 2026-10-23 |  |
+| **[From Item Scores to Semantic Tokens: Test-Time Collaborative Adaptation for Generative Recommendation](https://arxiv.org/abs/2610.32098v1)** | 2026-10-23 |  |
 | **[Generative Recommenders Forget the Long Tail: Restoring Memorization in Retrieval and Ranking](https://arxiv.org/abs/2610.29298v1)** | 2026-10-21 |  |
 | **[SIREN (Luring LLMs onto the Rocks): PAIR-Driven Preference Manipulation in Web-RAG Recommenders](https://arxiv.org/abs/2607.21951v4)** | 2026-10-21 |  |
 | **[SPAR: Stepwise Personalized Autoregressive Recommendation with Prefix-Balanced Semantic IDs](https://arxiv.org/abs/2610.27898v1)** | 2026-10-20 |  |
-| **[EASformer: Environment-Action-State Alignment for Industrial Generative Ranking](https://arxiv.org/abs/2610.27691v1)** | 2026-10-20 | 10 pages |
 | **[Neighborhood-Aware Unlearning for Generative Recommendation](https://arxiv.org/abs/2610.27232v1)** | 2026-10-19 |  |
 | **[FineSID: Scalable and Efficient Semantic Identifier Learning for Generative Recommendation](https://arxiv.org/abs/2609.36670v2)** | 2026-10-19 |  |
 | **[Structure-Aligned History Learning with Subspace-Structured Semantic IDs for Generative Recommendation](https://arxiv.org/abs/2610.25093v1)** | 2026-10-18 | <details><summary>34 pa...</summary><p>34 pages, 10 figures, including references and appendices</p></details> |
@@ -18,10 +22,6 @@ labels: documentation
 | **[Reasoning Reranking with Semantic IDs as the Sole Item Representation](https://arxiv.org/abs/2610.22797v1)** | 2026-10-16 | <details><summary>30 pa...</summary><p>30 pages, 3 figures. Code: https://github.com/lilv98/ReRankID ; data: https://huggingface.co/datasets/lilvjosephtang/ReRankID</p></details> |
 | **[TransX Technical Report: Scaling Sequence Transduction for Recommendation](https://arxiv.org/abs/2610.20913v1)** | 2026-10-14 |  |
 | **[UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute](https://arxiv.org/abs/2604.12234v5)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted at ACM RecSys 2026</p></details> |
-| **[HASTE: Hierarchical and Attribute-aware Supervision for Generative Recommendation](https://arxiv.org/abs/2610.17368v1)** | 2026-10-12 |  |
-| **[UniSGR-V2: Stepwise Target-Side Feature Anticipation and Crossing for Generative Recommendation](https://arxiv.org/abs/2610.16132v1)** | 2026-10-12 |  |
-| **[SIDScope: A Diagnostic Resource for Semantic-ID Interfaces in Generative Recommendation](https://arxiv.org/abs/2608.18779v2)** | 2026-10-10 | <details><summary>Resou...</summary><p>Resource: https://github.com/jdding/sidscope</p></details> |
-| **[AlignPoison: Conditional Targeted Poisoning of Generative Recommenders via Decoding-Aligned Prefixes](https://arxiv.org/abs/2610.14487v1)** | 2026-10-10 | <details><summary>23 pa...</summary><p>23 pages, 10 figures, including appendices</p></details> |
 
 ## Generative Retrieval
 | **Title** | **Date** | **Comment** |
